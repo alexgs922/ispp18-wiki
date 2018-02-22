@@ -1,0 +1,149 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Bienvenido a la wiki de ISPP", 
+            "title": "Inicio"
+        }, 
+        {
+            "location": "/#bienvenido-a-la-wiki-de-ispp", 
+            "text": "", 
+            "title": "Bienvenido a la wiki de ISPP"
+        }, 
+        {
+            "location": "/trabajo/", 
+            "text": "En esta secci\u00f3n se detallar\u00e1 datos importantes con relaci\u00f3n al trabajo realizado, as\u00ed como datos sobre el feedback aportado por los profesores.\n\n\nPresentaci\u00f3n\n\n\nD01\n\n\nContenido\n\n\n\n\nEl texto de la presentaci\u00f3n debe estar en ingl\u00e9s.\n\n\nSe debe comparar las diferentes ideas que han surgido a trav\u00e9s del brainstorming y detectar pros y contras.\n\n\nSe debe destacar aspectos por los que se ha escogido la idea final.\n\n\nSe debe explicar, por encima, el proceso organizacional seguido hasta ahora.\n\n\nSe debe realizar un estudio de mercado, con alg\u00fan tipo de estadistica demostrando el inter\u00e9s del p\u00fablico y la suficiente demanda en un sector del mercado.\n\n\nSe debe comparar la competencia del sector, para as\u00ed aprender de errores cometido y mejorar la aplicaci\u00f3n.\n\n\nSe deben mencionar los miembros del grupo.\n\n\nSe debe indicar el nombre del grupo.\n\n\n\n\nOtros aspectos a tener en cuenta:\n\n\nSE DEBE COGER EL MANDO DE LA PRESENTACI\u00d3N\n\n\nAgenda del d\u00eda de la presentaci\u00f3n\n\n\nTBD\n\n\nProducto\n\n\nEntrega realizada por EV.\n\n\nD01\n\n\nTBD (parece no ser necesario realizar una entrega de los productos, se debe confirmar esto!)\n\n\nSprint 1 (D02?)\n\n\n\n\nMVP (Minimum Viable Product) inicial: Puede contener errores o aspecto no final, pero debe presentarse casos de uso base (deben, por lo tanto, escogerse algunos que puedan ser interesantes).\n\n\nFeedback del cliente: Aspectos a mejorar del prototipo realizado.\n\n\n\n\nSprint 2 (D03?)\n\n\n\n\nPrototipo completo: Deber\u00e1 contener todos los casos de uso aplicables, as\u00ed como empezar a realizar correcciones del programa seg\u00fan el feedback aportado por el cliente.\n\n\n\n\nSprint 3 (D04?)\n\n\n\n\nMVP completo: Debe contener un software completo (todos los casos de uso tratados, s\u00f3lo errores simples, aspecto final de la aplicaci\u00f3n...).", 
+            "title": "Trabajo"
+        }, 
+        {
+            "location": "/trabajo/#presentacion", 
+            "text": "", 
+            "title": "Presentaci\u00f3n"
+        }, 
+        {
+            "location": "/trabajo/#d01", 
+            "text": "", 
+            "title": "D01"
+        }, 
+        {
+            "location": "/trabajo/#contenido", 
+            "text": "El texto de la presentaci\u00f3n debe estar en ingl\u00e9s.  Se debe comparar las diferentes ideas que han surgido a trav\u00e9s del brainstorming y detectar pros y contras.  Se debe destacar aspectos por los que se ha escogido la idea final.  Se debe explicar, por encima, el proceso organizacional seguido hasta ahora.  Se debe realizar un estudio de mercado, con alg\u00fan tipo de estadistica demostrando el inter\u00e9s del p\u00fablico y la suficiente demanda en un sector del mercado.  Se debe comparar la competencia del sector, para as\u00ed aprender de errores cometido y mejorar la aplicaci\u00f3n.  Se deben mencionar los miembros del grupo.  Se debe indicar el nombre del grupo.", 
+            "title": "Contenido"
+        }, 
+        {
+            "location": "/trabajo/#otros-aspectos-a-tener-en-cuenta", 
+            "text": "SE DEBE COGER EL MANDO DE LA PRESENTACI\u00d3N", 
+            "title": "Otros aspectos a tener en cuenta:"
+        }, 
+        {
+            "location": "/trabajo/#agenda-del-dia-de-la-presentacion", 
+            "text": "TBD", 
+            "title": "Agenda del d\u00eda de la presentaci\u00f3n"
+        }, 
+        {
+            "location": "/trabajo/#producto", 
+            "text": "Entrega realizada por EV.", 
+            "title": "Producto"
+        }, 
+        {
+            "location": "/trabajo/#d01_1", 
+            "text": "TBD (parece no ser necesario realizar una entrega de los productos, se debe confirmar esto!)", 
+            "title": "D01"
+        }, 
+        {
+            "location": "/trabajo/#sprint-1-d02", 
+            "text": "MVP (Minimum Viable Product) inicial: Puede contener errores o aspecto no final, pero debe presentarse casos de uso base (deben, por lo tanto, escogerse algunos que puedan ser interesantes).  Feedback del cliente: Aspectos a mejorar del prototipo realizado.", 
+            "title": "Sprint 1 (D02?)"
+        }, 
+        {
+            "location": "/trabajo/#sprint-2-d03", 
+            "text": "Prototipo completo: Deber\u00e1 contener todos los casos de uso aplicables, as\u00ed como empezar a realizar correcciones del programa seg\u00fan el feedback aportado por el cliente.", 
+            "title": "Sprint 2 (D03?)"
+        }, 
+        {
+            "location": "/trabajo/#sprint-3-d04", 
+            "text": "MVP completo: Debe contener un software completo (todos los casos de uso tratados, s\u00f3lo errores simples, aspecto final de la aplicaci\u00f3n...).", 
+            "title": "Sprint 3 (D04?)"
+        }, 
+        {
+            "location": "/metodologia/", 
+            "text": "En esta p\u00e1gina se detallar\u00e1 las herramientas usadas, procesos de construcci\u00f3n del software ...\n\n\nHerramientas\n\n\nPlanificaci\u00f3n\n\n\n\n\nTrello: Creaci\u00f3n, asignaci\u00f3n y comprobaci\u00f3n del estado de las tareas.\n\n\nToggl: Control del tiempo aplicado a las tareas de Trello.\n\n\nSlack: Comunicaci\u00f3n informal escrita.\n\n\nSkype: Comunicaci\u00f3n informal y formal oral.\n\n\n\n\nIntegraci\u00f3n\n\n\n\n\nSonar: Comprobaci\u00f3n de pruebas en el c\u00f3digo.\n\n\nIcinga: Monitorizaci\u00f3n de la red.\n\n\nTravis: Integraci\u00f3n continua.\n\n\n\n\nDesarrollo\n\n\n\n\nGithub: Gesti\u00f3n del control de versiones.\n\n\nMongoDB: Base de datos.\n\n\nReact Native: Framework basado en JS donde se desarrollar\u00e1 la aplicaci\u00f3n.\n\n\nHeroku: Despliegue del producto.\n\n\n\n\nGesti\u00f3n del c\u00f3digo\n\n\nPara empezar, se realizar\u00e1 a trav\u00e9s de GitHub. Se utilizar\u00e1n el siguiente esquema de ramas:\n\n 'master': Contendr\u00e1 una base de la aplicaci\u00f3n fiable, deben pasar todas las pruebas y garantiza el software sin errores graves y con funcionalidades que pasan las pruebas funcionales.\n\n 'dev': Contiene c\u00f3digo que se introducir\u00e1 en master, podr\u00e1 contener funcionalidades pero es posible que contengan errores. Se realizar\u00e1n pruebas cruzadas en esta rama con el objetivo de detectar errores, por lo que pueden no pasar las pruebas.\n* '\\\nfunc>': Corresponder\u00e1 a una funcionalidad a a\u00f1adir del c\u00f3digo. Puede modificarse por varias personas y pueden contener errores.\n\n\nSe debe tener en cuenta que la modificaci\u00f3n de 'master' podr\u00e1 implicar que el c\u00f3digo deje de funcionar en una versi\u00f3n que puede proveerse al cliente en cualquier momento, por lo que la rama 'master' estar\u00e1 bloqueada de modificaciones y s\u00f3lo se podr\u00e1 modificar a trav\u00e9s de pull requests.\n\n\nCommits\n\n\nEl formato de los commits se encuentra en la siguiente \nsecci\u00f3n\n.\n\n\nPruebas cruzadas\n\n\nCon el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.", 
+            "title": "Metodolog\u00eda"
+        }, 
+        {
+            "location": "/metodologia/#herramientas", 
+            "text": "", 
+            "title": "Herramientas"
+        }, 
+        {
+            "location": "/metodologia/#planificacion", 
+            "text": "Trello: Creaci\u00f3n, asignaci\u00f3n y comprobaci\u00f3n del estado de las tareas.  Toggl: Control del tiempo aplicado a las tareas de Trello.  Slack: Comunicaci\u00f3n informal escrita.  Skype: Comunicaci\u00f3n informal y formal oral.", 
+            "title": "Planificaci\u00f3n"
+        }, 
+        {
+            "location": "/metodologia/#integracion", 
+            "text": "Sonar: Comprobaci\u00f3n de pruebas en el c\u00f3digo.  Icinga: Monitorizaci\u00f3n de la red.  Travis: Integraci\u00f3n continua.", 
+            "title": "Integraci\u00f3n"
+        }, 
+        {
+            "location": "/metodologia/#desarrollo", 
+            "text": "Github: Gesti\u00f3n del control de versiones.  MongoDB: Base de datos.  React Native: Framework basado en JS donde se desarrollar\u00e1 la aplicaci\u00f3n.  Heroku: Despliegue del producto.", 
+            "title": "Desarrollo"
+        }, 
+        {
+            "location": "/metodologia/#gestion-del-codigo", 
+            "text": "Para empezar, se realizar\u00e1 a trav\u00e9s de GitHub. Se utilizar\u00e1n el siguiente esquema de ramas:  'master': Contendr\u00e1 una base de la aplicaci\u00f3n fiable, deben pasar todas las pruebas y garantiza el software sin errores graves y con funcionalidades que pasan las pruebas funcionales.  'dev': Contiene c\u00f3digo que se introducir\u00e1 en master, podr\u00e1 contener funcionalidades pero es posible que contengan errores. Se realizar\u00e1n pruebas cruzadas en esta rama con el objetivo de detectar errores, por lo que pueden no pasar las pruebas.\n* '\\ func>': Corresponder\u00e1 a una funcionalidad a a\u00f1adir del c\u00f3digo. Puede modificarse por varias personas y pueden contener errores.  Se debe tener en cuenta que la modificaci\u00f3n de 'master' podr\u00e1 implicar que el c\u00f3digo deje de funcionar en una versi\u00f3n que puede proveerse al cliente en cualquier momento, por lo que la rama 'master' estar\u00e1 bloqueada de modificaciones y s\u00f3lo se podr\u00e1 modificar a trav\u00e9s de pull requests.", 
+            "title": "Gesti\u00f3n del c\u00f3digo"
+        }, 
+        {
+            "location": "/metodologia/#commits", 
+            "text": "El formato de los commits se encuentra en la siguiente  secci\u00f3n .", 
+            "title": "Commits"
+        }, 
+        {
+            "location": "/metodologia/#pruebas-cruzadas", 
+            "text": "Con el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.", 
+            "title": "Pruebas cruzadas"
+        }, 
+        {
+            "location": "/organizacion/", 
+            "text": "Aqui se pondr\u00e1n los diferentes datos relacionados con la organizaci\u00f3n del grupo.\n\n\nRoles\n\n\n\n\nSecretario (S): Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez\n\n\nProject Manager (PM): Daniel Hidalgo S\u00e1nchez Noriega\n\n\nPresentador (P): \\\nPor decidir>\n\n\nCoordinador del grupo (CP): Enrique Bozada M\u00e1rquez\n\n\nEncargado de gesti\u00f3n del c\u00f3digo (EGC): Alejandro Gallego Segura\n\n\nInvestigador de mercado (IM): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nProgramadores y analistas:\n\n\nMar\u00eda Rom\u00e1n Bayar\n\n\nDaniel Lozano Portillo\n\n\nRafael Gonz\u00e1lez Villarreal\n\n\nJulio de la Olla M\u00e1rquez\n\n\nAnastasio Rafael Le\u00f3n Gonz\u00e1lez\n\n\nMohammed Alaoui Mhammedi\n\n\nDaniel Rodr\u00edguez Aguilar\n\n\n\n\nDocumentacion\n\n\nAqui se encontrar\u00e1n enlaces a documentos importantes u otros datos.\n\n\n\n\nGoogle drive con documentaci\u00f3n\n\n\nActa de la reuni\u00f3n del 21/02/2018", 
+            "title": "Organizaci\u00f3n"
+        }, 
+        {
+            "location": "/organizacion/#roles", 
+            "text": "Secretario (S): Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez  Project Manager (PM): Daniel Hidalgo S\u00e1nchez Noriega  Presentador (P): \\ Por decidir>  Coordinador del grupo (CP): Enrique Bozada M\u00e1rquez  Encargado de gesti\u00f3n del c\u00f3digo (EGC): Alejandro Gallego Segura  Investigador de mercado (IM): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Programadores y analistas:  Mar\u00eda Rom\u00e1n Bayar  Daniel Lozano Portillo  Rafael Gonz\u00e1lez Villarreal  Julio de la Olla M\u00e1rquez  Anastasio Rafael Le\u00f3n Gonz\u00e1lez  Mohammed Alaoui Mhammedi  Daniel Rodr\u00edguez Aguilar", 
+            "title": "Roles"
+        }, 
+        {
+            "location": "/organizacion/#documentacion", 
+            "text": "Aqui se encontrar\u00e1n enlaces a documentos importantes u otros datos.   Google drive con documentaci\u00f3n  Acta de la reuni\u00f3n del 21/02/2018", 
+            "title": "Documentacion"
+        }, 
+        {
+            "location": "/otros/", 
+            "text": "Aqui se detallar\u00e1n otros aspectos a tener en cuenta sobre la asignatura/trabajo.\n\n\nBrainstormings\n\n\nIdeas planteadas:\n\n Multieventual: Gesti\u00f3n de eventos por parte de creador. Se podr\u00e1 comprar entradas y comprobar datos de los eventos. PROBLEMA: Competencia alta.\n\n Adrenalive: Gesti\u00f3n de deportes de riesgo, ya preparado y estudiado.\n* Red social sobre disfraces: Se podr\u00e1 ver diferentes combinaciones y poder comprobar d\u00f3nde se ha comprado cierta pieza o en el caso de ser artesanal, formas de obtenerlo ...\n\n\nFormatos y plantillas\n\n\nFeedback (v1)\n\n\nT\u00edtulo:\n\n\nTipo: (Presentaci\u00f3n, trabajo o organizaci\u00f3n)\n\n\nDescripci\u00f3n:\n\n\nOtros datos relevantes: (v\u00ednculos, im\u00e1genes...)\n\n\nCommits (v1)\n\n\nTitulo: No mas de 50 caracteres comenzando la linea con \"ADD\", \"FIX\", \"CHANGE\".\n\n\nBody: Se escribe detalladamente que es lo que se ha hecho.", 
+            "title": "Otros"
+        }, 
+        {
+            "location": "/otros/#brainstormings", 
+            "text": "Ideas planteadas:  Multieventual: Gesti\u00f3n de eventos por parte de creador. Se podr\u00e1 comprar entradas y comprobar datos de los eventos. PROBLEMA: Competencia alta.  Adrenalive: Gesti\u00f3n de deportes de riesgo, ya preparado y estudiado.\n* Red social sobre disfraces: Se podr\u00e1 ver diferentes combinaciones y poder comprobar d\u00f3nde se ha comprado cierta pieza o en el caso de ser artesanal, formas de obtenerlo ...", 
+            "title": "Brainstormings"
+        }, 
+        {
+            "location": "/otros/#formatos-y-plantillas", 
+            "text": "", 
+            "title": "Formatos y plantillas"
+        }, 
+        {
+            "location": "/otros/#feedback-v1", 
+            "text": "T\u00edtulo:  Tipo: (Presentaci\u00f3n, trabajo o organizaci\u00f3n)  Descripci\u00f3n:  Otros datos relevantes: (v\u00ednculos, im\u00e1genes...)", 
+            "title": "Feedback (v1)"
+        }, 
+        {
+            "location": "/otros/#commits-v1", 
+            "text": "Titulo: No mas de 50 caracteres comenzando la linea con \"ADD\", \"FIX\", \"CHANGE\".  Body: Se escribe detalladamente que es lo que se ha hecho.", 
+            "title": "Commits (v1)"
+        }
+    ]
+}
