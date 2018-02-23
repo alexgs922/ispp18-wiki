@@ -5,6 +5,7 @@ pages:
 - Metodología: 'metodologia.md'
 - Organización: 'organizacion.md'
 - Otros: 'otros.md'
+- Feedback: 'feedbacks.md'
 theme:
     name: 'material'
 markdown_extensions:
