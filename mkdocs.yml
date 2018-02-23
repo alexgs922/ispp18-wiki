@@ -11,6 +11,11 @@ pages:
 - Feedback (Negocio): 'feedbacks/negocio.md'
 - Feedback (Estilo): 'feedbacks/estilo.md'
 - Feedback (Adrenalive): 'feedbacks/adrenalive.md'
+- Feedback (ClimbCode): 'feedbacks/climbcode.md'
+- Feedback (Cocome): 'feedbacks/cocome.md'
+- Feedback (Drafter): 'feedbacks/drafter.md'
+- Feedback (Makai): 'feedbacks/makai.md'
+- Feedback (Music Players): 'feedbacks/music_players.md'
 theme:
     name: 'material'
 markdown_extensions:
