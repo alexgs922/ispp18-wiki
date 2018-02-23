@@ -16,7 +16,8 @@ En esta sección se detallará datos importantes con relación al trabajo realiz
 SE DEBE COGER EL MANDO DE LA PRESENTACIÓN
 
 #### Agenda del día de la presentación
-TBD
+Presentación: 17:45 a 18:10
+Más información en el siguiente [vínculo](https://docs.google.com/spreadsheets/d/1zTUvIDZ8ZVdztcShm567ReG4BRp61Ed5GPUBxB3T5fE/edit#gid=0)
 
 ## Producto
 Entrega realizada por EV.
