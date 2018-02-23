@@ -256,6 +256,13 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#ramas" title="Ramas" class="md-nav__link">
+    Ramas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#commits" title="Commits" class="md-nav__link">
     Commits
   </a>
@@ -305,6 +312,18 @@
   <li class="md-nav__item">
     <a href="../otros/" title="Otros" class="md-nav__link">
       Otros
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../feedbacks/" title="Feedback" class="md-nav__link">
+      Feedback
     </a>
   </li>
 
@@ -370,6 +389,13 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
+  <a href="#ramas" title="Ramas" class="md-nav__link">
+    Ramas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#commits" title="Commits" class="md-nav__link">
     Commits
   </a>
@@ -430,15 +456,17 @@
 <li>Heroku: Despliegue del producto.</li>
 </ul>
 <h2 id="gestion-del-codigo">Gestión del código<a class="headerlink" href="#gestion-del-codigo" title="Permanent link">&para;</a></h2>
-<p>Para empezar, se realizará a través de GitHub. Se utilizarán el siguiente esquema de ramas:
-<em> 'master': Contendrá una base de la aplicación fiable, deben pasar todas las pruebas y garantiza el software sin errores graves y con funcionalidades que pasan las pruebas funcionales.
-</em> 'dev': Contiene código que se introducirá en master, podrá contener funcionalidades pero es posible que contengan errores. Se realizarán pruebas cruzadas en esta rama con el objetivo de detectar errores, por lo que pueden no pasar las pruebas.
-* '\&lt;func>': Corresponderá a una funcionalidad a añadir del código. Puede modificarse por varias personas y pueden contener errores.</p>
-<p>Se debe tener en cuenta que la modificación de 'master' podrá implicar que el código deje de funcionar en una versión que puede proveerse al cliente en cualquier momento, por lo que la rama 'master' estará bloqueada de modificaciones y sólo se podrá modificar a través de pull requests.</p>
+<p>La herramienta de gestión del código a utilizar será GitHub.</p>
+<h3 id="ramas">Ramas<a class="headerlink" href="#ramas" title="Permanent link">&para;</a></h3>
+<p>La gestión de las ramas se realizará de la siguiente forma. Primero, se dispondrá de 'master', que almacenará un código que se considera como listo para despliegue, por lo que pasará pruebas funcionales, de sistema y de casos de uso. Después, se tendrá la rama de 'dev', que puede contener código con nuevas funcionalidades, pero pueden no estar probadas completamente y pueden dar errores. </p>
+<p>El progreso de una versión a otra se realizará de la siguiente manera. Se dispondrán de ramas de defectos y de casos de uso. Estas ramas se trabajarán realizando un 'branch' desde 'dev'. Una vez se considere el código como terminado, se realizará inicialmente un 'pull' de 'dev' y 'rebase' desde 'dev' a la nueva funcionalidad de forma local (es decir, sin subir el código). Se realizará el proceso contrario, realizando un 'rebase' desde la rama trabajada a 'dev', de esta forma los conflictos quedarán eliminados con el primer 'rebase' y se podrá seguir trabajando en la funcionalidad. Una vez se hayan solucionado los conflictos, se subirá la rama de funcionalidad/defecto al repositorio remoto.</p>
+<p>Una vez el código quede de la forma correcta, se realizará un pull request a 'dev' o a la funcionalidad padre. Se realizarán pruebas cruzadas del código implementado por lo que se espera que el código se haya probado de la forma que se considere adecuada.</p>
 <h3 id="commits">Commits<a class="headerlink" href="#commits" title="Permanent link">&para;</a></h3>
 <p>El formato de los commits se encuentra en la siguiente <a href="https://github.com/alexgs922/adrenalive-api/wiki/Otros#commits-v1">sección</a>.</p>
+<p>La frecuencia de commits será de un commit por día trabajado como mínimo, pudiendo realizarse más si se considera necesario (por ejemplo, corrección de errores o mejoras de código).</p>
 <h3 id="pruebas-cruzadas">Pruebas cruzadas<a class="headerlink" href="#pruebas-cruzadas" title="Permanent link">&para;</a></h3>
 <p>Con el objetivo de asegurarse que el código que se realice no contenga errores, se realizarán pruebas cruzadas, que consisten en la realización de pruebas por parte de una persona que no ha realizado el código. De esta forma se podrá detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.</p>
+<p>Las pruebas cruzadas se aplicarán a ramas subidas al repositorio remoto que contengan un pull request. Las personas que no realicen tareas o hayan terminado la suya podrán realizar estas pruebas. Si se detecta un error, se debe informar al desarrollador correspondiente del error, detallando cuanto más mejor sobre la generación del error. </p>
                 
                   
                 
