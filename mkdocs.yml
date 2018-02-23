@@ -5,7 +5,12 @@ pages:
 - Metodología: 'metodologia.md'
 - Organización: 'organizacion.md'
 - Otros: 'otros.md'
-- Feedback: 'feedbacks.md'
+- Feedback: 'feedbacks.md' 
+- Feedback (Presentación): 'feedbacks/presentacion.md'
+- Feedback (Contenido): 'feedbacks/contenido.md'
+- Feedback (Negocio): 'feedbacks/negocio.md'
+- Feedback (Estilo): 'feedbacks/estilo.md'
+- Feedback (Adrenalive): 'feedbacks/adrenalive.md'
 theme:
     name: 'material'
 markdown_extensions:
