@@ -28,3 +28,4 @@ Aqui se encontrarán enlaces a documentos importantes u otros datos.
     * [Presentaciones](https://drive.google.com/drive/u/0/folders/1zXbY3jD_u7Dk6BczAoAQUc2sid30xj8U)
         * [Presentación 1](https://docs.google.com/presentation/d/1BI9UWlLn4Nu5FViSf-7XgfoskeVD7Gq7XfrDimtWrV4/edit?usp=drive_web&ouid=104924850308958917661)
     * [Documentación del proyecto](https://drive.google.com/drive/u/0/folders/1pAZAplitXVp9K74bozsszLzJvSVcx1kW)
+        * [Documento de requisitos de Adrenalive](https://docs.google.com/document/d/1nM5ux3iTecCXL6e1_3qMWTkBScxTdUqlRQnsnzhdZ88/edit)
