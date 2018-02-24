@@ -3,7 +3,7 @@ Aqui se pondrán los diferentes datos relacionados con la organización del grup
 ## Roles
 * Secretario (S): Ignacio José Alés López
 * Project Manager (PM): Daniel Hidalgo Sánchez Noriega
-* Presentador (P): \<Por decidir\>
+* Presentador (P): <Por decidir\>
 * Coordinador del grupo (CP): Enrique Bozada Márquez
 * Encargado de gestión del código (EGC): Alejandro Gallego Segura
 * Investigador de mercado (IM): Álvaro González Jiménez
