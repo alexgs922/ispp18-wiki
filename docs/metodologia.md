@@ -19,6 +19,12 @@ En esta página se detallará las herramientas usadas, procesos de construcción
 * React Native: Framework basado en JS donde se desarrollará la aplicación.
 * Heroku: Despliegue del producto.
 
+### Informes de tecnologías
+Según el [informe de la reunión del 22/02/2018](https://docs.google.com/document/d/15aaYn5ywKANIei9fFYHOkDjm0fT9acJrwim6ZFXT78A/edit?usp=sharing), se recomienda la elaboración de un informe donde se especifique de las tecnologías planteadas. El informe no tendrá que ser formal, al no ser presentado al comité ejecutivo (profesores) pero servirá por los miembros del grupo de desarrollo como guía para escoger las diferentes tecnologías.
+
+#### Informe de React + Redux, por María Román Bayar
+Pienso que de tecnología deberíamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podríamos ofrecer guías y explicaciones sobre la programación en React, a parte hay páginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podríamos guiarnos para realizar nuestra aplicación y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutarán en nativo de forma que no es necesario que tengan un móvil de los más nuevos para que se vea bien las animaciones de la aplicación, en mi opinión creo que la opción de React-native y Redux es la mejor porque en las otras o se hará pesado o necesitaremos aprender y quizás encontremos baches y por mi experiencia propia se aprende bastante rápido React y Redux ya que es inyectar código en html y un sistema cómodo de estado que resulta muy intuitivo de usar.
+
 ## Gestión del código
 La herramienta de gestión del código a utilizar será GitHub.
 
