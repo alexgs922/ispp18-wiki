@@ -4,16 +4,18 @@ En esta sección se detallará datos importantes con relación al trabajo realiz
 ### D01
 #### Contenido
 * El texto de la presentación debe estar en inglés.
-* Se debe comparar las diferentes ideas que han surgido a través del brainstorming y detectar pros y contras.
 * Se debe destacar aspectos por los que se ha escogido la idea final.
 * Se debe explicar, por encima, el proceso organizacional seguido hasta ahora.
 * Se debe realizar un estudio de mercado, con algún tipo de estadistica demostrando el interés del público y la suficiente demanda en un sector del mercado.
 * Se debe comparar la competencia del sector, para así aprender de errores cometido y mejorar la aplicación.
+* Se debe incluir un desglose de costes estimados
+* Se debe incluir la definición del MVP inicial
+* Se debe indicar qué se realizará en cada Sprint, desglose de las funcionalidades de la aplicación.
 * Se deben mencionar los miembros del grupo.
 * Se debe indicar el nombre del grupo.
 
 #### Otros aspectos a tener en cuenta:
-SE DEBE COGER EL MANDO DE LA PRESENTACIÓN
+SE DEBE COGER EL MANDO DE LA PRESENTACIÓN. También se debe asegurar que los videos funcionan
 
 #### Agenda del día de la presentación
 Presentación: 17:45 a 18:10
