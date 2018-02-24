@@ -8,15 +8,13 @@ Ideas planteadas:
 
 ## Formatos y plantillas
 
-### Feedback (v1)
-Título:
-
-Tipo: (Presentación, trabajo o organización)
-
-Descripción:
-
-Otros datos relevantes: (vínculos, imágenes...)
-
+### Resolución del feedback (v1)
+Feedback a solucionar: <Feedback completo>
+Problema (opcional): <Detectar correctamente el problema de la versión actual>
+Solución/Soluciones aportadas para solucionarlo:
+<Se mencionarán las posibles soluciones que existen>
+Resultado:
+<Cómo ha quedado el objeto trás la modificación, mostrar un antes y después es recomendado>
 
 ### Commits (v1)
 Titulo: No mas de 50 caracteres comenzando la linea con "ADD", "FIX", "CHANGE".
