@@ -9,7 +9,7 @@ Aqui se pondrán los diferentes datos relacionados con la organización del grup
 * Investigador de mercado (IM): Álvaro González Jiménez
 * Encargado de recursos humanos (RRHH): Álvaro González Jiménez
 * Diseñadora UX (UX): María Román Bayar
-* Programadores y analistas:
+* Ingenieros informáticos:
     * María Román Bayar
     * Daniel Lozano Portillo
     * Rafael González Villarreal
