@@ -4,7 +4,6 @@
 
 Desglose:
 
-<<<<<<< HEAD
 * [Feedback del contenido de la presentación](/feedbacks/contenido/#clase-23022018-manana)
 * [Feedback del estilo de la presentación](/feedbacks/estilo/#clase-23022018-manana)
 * [Feedback de la idea de negocio de la presentación](/feedbacks/negocio/#clase-23022018-manana)
