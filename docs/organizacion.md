@@ -9,13 +9,12 @@ Aqui se pondrán los diferentes datos relacionados con la organización del grup
 * Investigador de mercado (IM): Álvaro González Jiménez
 * Encargado de recursos humanos (RRHH): Álvaro González Jiménez
 * Diseñadora UX (UX): María Román Bayar
+* Encargado de QA (QA): Mohammed Alaoui Mhammedi
 * Ingenieros informáticos:
-    * María Román Bayar
     * Daniel Lozano Portillo
     * Rafael González Villarreal
     * Julio de la Olla Márquez
     * Anastasio Rafael León González
-    * Mohammed Alaoui Mhammedi
     * Daniel Rodríguez Aguilar
 
 ## Documentacion
