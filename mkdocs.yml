@@ -1,21 +1,14 @@
 site_name: ISPP 18
 pages:
 - Inicio: 'index.md'
-- Trabajo: 'trabajo.md'
+- Asignatura: 'asignatura.md'
+- Documentación: 'documentacion.md'
+- Producto: 'producto.md'
 - Metodología: 'metodologia.md'
 - Organización: 'organizacion.md'
 - Otros: 'otros.md'
-- Feedback: 'feedbacks.md' 
-- Feedback (Presentación): 'feedbacks/presentacion.md'
-- Feedback (Contenido): 'feedbacks/contenido.md'
-- Feedback (Negocio): 'feedbacks/negocio.md'
-- Feedback (Estilo): 'feedbacks/estilo.md'
-- Feedback (Adrenalive): 'feedbacks/adrenalive.md'
-- Feedback (ClimbCode): 'feedbacks/climbcode.md'
-- Feedback (Cocome): 'feedbacks/cocome.md'
-- Feedback (Drafter): 'feedbacks/drafter.md'
-- Feedback (Makai): 'feedbacks/makai.md'
-- Feedback (Music Players): 'feedbacks/music_players.md'
+- Resolución de feedbacks: 'resolucion_feedbacks.md'
+- Plantillas: 'plantillas.md'
 theme:
     name: 'material'
 markdown_extensions:

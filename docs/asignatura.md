@@ -1,4 +1,4 @@
-En esta sección se detallará datos importantes con relación al trabajo realizado, así como datos sobre el feedback aportado por los profesores.
+En esta sección se detallará datos importantes con relación al trabajo realizado.
 
 ## Presentación
 ### D01
