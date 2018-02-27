@@ -11,7 +11,23 @@
 
     
     <url>
-     <loc>/trabajo/</loc>
+     <loc>/asignatura/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/documentacion/</loc>
+     <lastmod>2018-02-27</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/producto/</loc>
      <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -43,7 +59,7 @@
 
     
     <url>
-     <loc>/feedbacks/</loc>
+     <loc>/resolucion_feedbacks/</loc>
      <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -51,79 +67,7 @@
 
     
     <url>
-     <loc>/feedbacks/presentacion/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/contenido/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/negocio/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/estilo/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/adrenalive/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/climbcode/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/cocome/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/drafter/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/makai/</loc>
-     <lastmod>2018-02-27</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>/feedbacks/music_players/</loc>
+     <loc>/plantillas/</loc>
      <lastmod>2018-02-27</lastmod>
      <changefreq>daily</changefreq>
     </url>
