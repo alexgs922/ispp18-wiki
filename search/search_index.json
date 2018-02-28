@@ -67,7 +67,7 @@
         },
         {
             "location": "/documentacion/",
-            "text": "Actas de reuni\u00f3n\n\u00b6\n\n\n\n\nCarpeta de actas de reuni\u00f3n\n\n\nActa de la reuni\u00f3n del 22/02/2018\n\n\nActa de la reuni\u00f3n del 26/02/2018\n\n\n\n\n\n\n\n\nPresentaciones\n\u00b6\n\n\n\n\nCarpeta de presentaciones\n\n\nPresentaci\u00f3n 1\n\n\nPresentaci\u00f3n 2\n\n\n\n\n\n\n\n\nRequisitos\n\u00b6\n\n\n\n\nDocumento de requisitos\n\n\n\n\nInformes de tecnolog\u00edas\n\u00b6\n\n\n\n\nCarpeta de informes de tecnolog\u00edas\n\n\nAngular\n\n\nDjango\n\n\nJava EE\n\n\njHipster\n\n\nMEAN\n\n\nReact + Redux\n\n\nSpring\n\n\nFlask\n\n\n\n\n\n\n\n\nInformaci\u00f3n sobre los Informes de tecnolog\u00edas\n\u00b6\n\n\nSeg\u00fan el \ninforme de la reuni\u00f3n del 22/02/2018\n, se recomienda la elaboraci\u00f3n de un informe donde se especifique de las tecnolog\u00edas planteadas. El informe no tendr\u00e1 que ser formal, al no ser presentado al comit\u00e9 ejecutivo (profesores) pero servir\u00e1 por los miembros del grupo de desarrollo como gu\u00eda para escoger las diferentes tecnolog\u00edas.\n\n\nInforme de React + Redux, por Mar\u00eda Rom\u00e1n Bayar\n\u00b6\n\n\nPienso que de tecnolog\u00eda deber\u00edamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podr\u00edamos ofrecer gu\u00edas y explicaciones sobre la programaci\u00f3n en React, a parte hay p\u00e1ginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podr\u00edamos guiarnos para realizar nuestra aplicaci\u00f3n y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutar\u00e1n en nativo de forma que no es necesario que tengan un m\u00f3vil de los m\u00e1s nuevos para que se vea bien las animaciones de la aplicaci\u00f3n, en mi opini\u00f3n creo que la opci\u00f3n de React-native y Redux es la mejor porque en las otras o se har\u00e1 pesado o necesitaremos aprender y quiz\u00e1s encontremos baches y por mi experiencia propia se aprende bastante r\u00e1pido React y Redux ya que es inyectar c\u00f3digo en html y un sistema c\u00f3modo de estado que resulta muy intuitivo de usar.",
+            "text": "Actas de reuni\u00f3n\n\u00b6\n\n\n\n\nCarpeta de actas de reuni\u00f3n\n\n\nActa de la reuni\u00f3n del 22/02/2018\n\n\nActa de la reuni\u00f3n del 26/02/2018\n\n\n\n\n\n\n\n\nPresentaciones\n\u00b6\n\n\n\n\nCarpeta de presentaciones\n\n\nPresentaci\u00f3n 1\n\n\nPresentaci\u00f3n 2\n\n\n\n\n\n\n\n\nRequisitos\n\u00b6\n\n\n\n\nDocumento de requisitos\n\n\nDesglose de los Sprints\n\n\n\n\nInformes de tecnolog\u00edas\n\u00b6\n\n\n\n\nCarpeta de informes de tecnolog\u00edas\n\n\nAngular\n\n\nDjango\n\n\nJava EE\n\n\njHipster\n\n\nMEAN\n\n\nReact + Redux\n\n\nSpring\n\n\nFlask\n\n\n\n\n\n\n\n\nInformaci\u00f3n sobre los Informes de tecnolog\u00edas\n\u00b6\n\n\nSeg\u00fan el \ninforme de la reuni\u00f3n del 22/02/2018\n, se recomienda la elaboraci\u00f3n de un informe donde se especifique de las tecnolog\u00edas planteadas. El informe no tendr\u00e1 que ser formal, al no ser presentado al comit\u00e9 ejecutivo (profesores) pero servir\u00e1 por los miembros del grupo de desarrollo como gu\u00eda para escoger las diferentes tecnolog\u00edas.\n\n\nInforme de React + Redux, por Mar\u00eda Rom\u00e1n Bayar\n\u00b6\n\n\nPienso que de tecnolog\u00eda deber\u00edamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podr\u00edamos ofrecer gu\u00edas y explicaciones sobre la programaci\u00f3n en React, a parte hay p\u00e1ginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podr\u00edamos guiarnos para realizar nuestra aplicaci\u00f3n y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutar\u00e1n en nativo de forma que no es necesario que tengan un m\u00f3vil de los m\u00e1s nuevos para que se vea bien las animaciones de la aplicaci\u00f3n, en mi opini\u00f3n creo que la opci\u00f3n de React-native y Redux es la mejor porque en las otras o se har\u00e1 pesado o necesitaremos aprender y quiz\u00e1s encontremos baches y por mi experiencia propia se aprende bastante r\u00e1pido React y Redux ya que es inyectar c\u00f3digo en html y un sistema c\u00f3modo de estado que resulta muy intuitivo de usar.\n\n\nPresupuesto\n\u00b6\n\n\n\n\nDesglose del presupuesto\n\n\nHoja Excel con los c\u00e1lculos",
             "title": "Documentaci\u00f3n"
         },
         {
@@ -82,7 +82,7 @@
         },
         {
             "location": "/documentacion/#requisitos",
-            "text": "Documento de requisitos",
+            "text": "Documento de requisitos  Desglose de los Sprints",
             "title": "Requisitos"
         },
         {
@@ -101,8 +101,13 @@
             "title": "Informe de React + Redux, por Mar\u00eda Rom\u00e1n Bayar"
         },
         {
+            "location": "/documentacion/#presupuesto",
+            "text": "Desglose del presupuesto  Hoja Excel con los c\u00e1lculos",
+            "title": "Presupuesto"
+        },
+        {
             "location": "/producto/",
-            "text": "Requisitos\n\u00b6\n\n\nMVP inicial\n\u00b6\n\n\nObjetivos para el primer Sprint\n\u00b6\n\n\nObjetivos para el segundo Sprint\n\u00b6\n\n\nObjectivos para el tercer Sprint\n\u00b6\n\n\nTecnolog\u00edas\n\u00b6\n\n\nDesarrollo m\u00f3vil\n\u00b6\n\n\nPara el desarrollo m\u00f3vil, se utilizar\u00e1 \nReact Native\n. Un framework orientado en el desarrollo de aplicaciones m\u00f3viles en Android y iOS. Utiliza el lenguaje de programaci\u00f3n \nJavascript\n. El c\u00f3digo fuente se encuentra en el siguiente \nrepositorio\n.\n\n\nDesarrollo Web\n\u00b6\n\n\nPara el desarrollo Web, se utilizar\u00e1 \nAngulaprJS\n. El framework usar\u00e1 \nJavascript\n, as\u00ed como \nHTML\n y \nCSS\n. El c\u00f3digo fuente de la aplicaci\u00f3n se encuentra en el mismo \nrepositorio\n que el c\u00f3digo fuente de la API, al usarse la misma tecnolog\u00eda.\n\n\nDesarrollo API\n\u00b6\n\n\nPara el desarrollo de la API, se usa \nnode.js\n. Este interprete de \nJavascript\n usar\u00e1 tambi\u00e9n librer\u00edas como \nExpress\n y como base de datos \nMongoDB\n. El c\u00f3digo fuente de la API se encuentra en \neste\n repositorio, que es tambi\u00e9n donde se desarrollar\u00e1 la aplicaci\u00f3n Web.",
+            "text": "Requisitos\n\u00b6\n\n\nMVP inicial\n\u00b6\n\n\nObjetivos para el primer Sprint\n\u00b6\n\n\nDesarrollar el n\u00facleo de la aplicaci\u00f3n, es decir, el MVP inicial.\n\n\nLas actividades que podr\u00e1 realizar el cliente ser\u00e1n las siguientes:\n\n Acceso a una lista de actividades que tenga el sistema.\n\n Registro en actividades.\n\n Borrarse de actividades que el usuario se haya registrado.\n\n Creaci\u00f3n de actividades.\n\n Seguir a usuarios de la aplicaci\u00f3n.\n\n Comentar en actividades en las que se haya registrado.\n\n\nObjetivos para el segundo Sprint\n\u00b6\n\n\nPara el segundo Sprint, se ampliar\u00e1n las funcionalidades de la aplicaci\u00f3n. Se a\u00f1adir\u00e1n las siguientes funcionalidades:\n\n\n\n\nSistema completo de gesti\u00f3n de usuarios.\n\n\nBuscador de actividades.\n\n\nRecomendaci\u00f3n de actividades basado en par\u00e1metros del usuario.\n\n\nIniciaci\u00f3n del sistema de interacciones.\n\n\n\n\nTambi\u00e9n se tendr\u00e1n en cuenta el feedback de los usuarios del anterior Sprint, resolviendo los problemas que encuentren a trav\u00e9s del formato de resoluci\u00f3n de feedback.\n\n\nObjectivos para el tercer Sprint\n\u00b6\n\n\nPara el tercer Sprint, se terminar\u00e1 de retocar la aplicaci\u00f3n, centr\u00e1ndose \u00fanicamente en el desarrollo de mejoras propuestas por usuarios y solucionado de errores.\n\n\nTecnolog\u00edas\n\u00b6\n\n\nDesarrollo m\u00f3vil\n\u00b6\n\n\nPara el desarrollo m\u00f3vil, se utilizar\u00e1 \nReact Native\n. Un framework orientado en el desarrollo de aplicaciones m\u00f3viles en Android y iOS. Utiliza el lenguaje de programaci\u00f3n \nJavascript\n. El c\u00f3digo fuente se encuentra en el siguiente \nrepositorio\n.\n\n\nDesarrollo Web\n\u00b6\n\n\nPara el desarrollo Web, se utilizar\u00e1 \nAngulaprJS\n. El framework usar\u00e1 \nJavascript\n, as\u00ed como \nHTML\n y \nCSS\n. El c\u00f3digo fuente de la aplicaci\u00f3n se encuentra en el mismo \nrepositorio\n que el c\u00f3digo fuente de la API, al usarse la misma tecnolog\u00eda.\n\n\nDesarrollo API\n\u00b6\n\n\nPara el desarrollo de la API, se usa \nnode.js\n. Este interprete de \nJavascript\n usar\u00e1 tambi\u00e9n librer\u00edas como \nExpress\n y como base de datos \nMongoDB\n. El c\u00f3digo fuente de la API se encuentra en \neste\n repositorio, que es tambi\u00e9n donde se desarrollar\u00e1 la aplicaci\u00f3n Web.",
             "title": "Producto"
         },
         {
@@ -117,17 +122,17 @@
         },
         {
             "location": "/producto/#objetivos-para-el-primer-sprint",
-            "text": "",
+            "text": "Desarrollar el n\u00facleo de la aplicaci\u00f3n, es decir, el MVP inicial.  Las actividades que podr\u00e1 realizar el cliente ser\u00e1n las siguientes:  Acceso a una lista de actividades que tenga el sistema.  Registro en actividades.  Borrarse de actividades que el usuario se haya registrado.  Creaci\u00f3n de actividades.  Seguir a usuarios de la aplicaci\u00f3n.  Comentar en actividades en las que se haya registrado.",
             "title": "Objetivos para el primer Sprint"
         },
         {
             "location": "/producto/#objetivos-para-el-segundo-sprint",
-            "text": "",
+            "text": "Para el segundo Sprint, se ampliar\u00e1n las funcionalidades de la aplicaci\u00f3n. Se a\u00f1adir\u00e1n las siguientes funcionalidades:   Sistema completo de gesti\u00f3n de usuarios.  Buscador de actividades.  Recomendaci\u00f3n de actividades basado en par\u00e1metros del usuario.  Iniciaci\u00f3n del sistema de interacciones.   Tambi\u00e9n se tendr\u00e1n en cuenta el feedback de los usuarios del anterior Sprint, resolviendo los problemas que encuentren a trav\u00e9s del formato de resoluci\u00f3n de feedback.",
             "title": "Objetivos para el segundo Sprint"
         },
         {
             "location": "/producto/#objectivos-para-el-tercer-sprint",
-            "text": "",
+            "text": "Para el tercer Sprint, se terminar\u00e1 de retocar la aplicaci\u00f3n, centr\u00e1ndose \u00fanicamente en el desarrollo de mejoras propuestas por usuarios y solucionado de errores.",
             "title": "Objectivos para el tercer Sprint"
         },
         {
