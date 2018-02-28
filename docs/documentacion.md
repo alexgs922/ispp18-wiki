@@ -13,6 +13,7 @@
 # Requisitos
 
 * [Documento de requisitos](https://docs.google.com/document/d/1nM5ux3iTecCXL6e1_3qMWTkBScxTdUqlRQnsnzhdZ88/edit?usp=drive_web&ouid=104924850308958917661)
+* [Desglose de los Sprints](https://drive.google.com/open?id=1MdqKz36DEbBo9pOOuKOvoxLhSjgiWdUA)
 
 ## Informes de tecnologías
 

@@ -3,10 +3,28 @@
 ## MVP inicial
 
 ## Objetivos para el primer Sprint
+Desarrollar el núcleo de la aplicación, es decir, el MVP inicial.
+
+Las actividades que podrá realizar el cliente serán las siguientes:
+* Acceso a una lista de actividades que tenga el sistema.
+* Registro en actividades.
+* Borrarse de actividades que el usuario se haya registrado.
+* Creación de actividades.
+* Seguir a usuarios de la aplicación.
+* Comentar en actividades en las que se haya registrado.
 
 ## Objetivos para el segundo Sprint
+Para el segundo Sprint, se ampliarán las funcionalidades de la aplicación. Se añadirán las siguientes funcionalidades:
+
+* Sistema completo de gestión de usuarios.
+* Buscador de actividades.
+* Recomendación de actividades basado en parámetros del usuario.
+* Iniciación del sistema de interacciones.
+
+También se tendrán en cuenta el feedback de los usuarios del anterior Sprint, resolviendo los problemas que encuentren a través del formato de resolución de feedback.
 
 ## Objectivos para el tercer Sprint
+Para el tercer Sprint, se terminará de retocar la aplicación, centrándose únicamente en el desarrollo de mejoras propuestas por usuarios y solucionado de errores.
 
 # Tecnologías
 
