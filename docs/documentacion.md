@@ -32,3 +32,8 @@ Según el [informe de la reunión del 22/02/2018](https://docs.google.com/docume
 
 #### Informe de React + Redux, por María Román Bayar
 Pienso que de tecnología deberíamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podríamos ofrecer guías y explicaciones sobre la programación en React, a parte hay páginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podríamos guiarnos para realizar nuestra aplicación y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutarán en nativo de forma que no es necesario que tengan un móvil de los más nuevos para que se vea bien las animaciones de la aplicación, en mi opinión creo que la opción de React-native y Redux es la mejor porque en las otras o se hará pesado o necesitaremos aprender y quizás encontremos baches y por mi experiencia propia se aprende bastante rápido React y Redux ya que es inyectar código en html y un sistema cómodo de estado que resulta muy intuitivo de usar.
+
+# Presupuesto
+
+* [Desglose del presupuesto](https://docs.google.com/document/d/1Xhh1wSfb4YwUpIc3dSv3shoMwwfLJn5oZzO9RZZ5jkI/edit#heading=h.d3niwzo5dc0q)
+* [Hoja Excel con los cálculos](https://drive.google.com/file/d/1sRsV-9D7JQpgJCJhgo3tA3vR8nv0IKkY/view)
