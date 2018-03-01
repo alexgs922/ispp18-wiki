@@ -6,6 +6,7 @@
 Desarrollar el núcleo de la aplicación, es decir, el MVP inicial.
 
 Las actividades que podrá realizar el cliente serán las siguientes:
+
 * Acceso a una lista de actividades que tenga el sistema.
 * Registro en actividades.
 * Borrarse de actividades que el usuario se haya registrado.
