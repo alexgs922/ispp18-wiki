@@ -173,3 +173,4 @@ Solución/Soluciones aportadas para solucionarlo:
   - Se incluirá un DAFO
 Resultado: 
 Se ha incluido un DAFO. Esto aportará una buena conclusión a la solución del problema y sistema de negocio seguido, por lo que se situará después de la explicación del plan de negocio.
+```
