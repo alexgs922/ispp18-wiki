@@ -1,14 +1,35 @@
 site_name: ISPP 18
 pages:
 - Inicio: 'index.md'
-- Asignatura: 'asignatura.md'
-- Documentación: 'documentacion.md'
-- Producto: 'producto.md'
-- Metodología: 'metodologia.md'
-- Organización: 'organizacion.md'
+- Asignatura:
+  - General: 'asignatura.md'
+- Grupo: 
+  - Documentación:
+    - General: 'documentacion.md'
+    - Plantillas: 'plantillas.md'
+  - Producto:
+    - General: 'producto.md'
+  - Metodología: 'metodologia.md'
+  - Organización: 'organizacion.md'
+- Feedbacks:
+  - Clase 02/03/2018:
+    - Mañana:
+      - 02-M01 feedback: "feedbacks/02/02-M01 feedback.md"
+      - 02-M02 feedback: "feedbacks/02/02-M02 feedback.md"
+      - 02-M03 feedback: "feedbacks/02/02-M03 feedback.md"
+      - 02-M04 feedback: "feedbacks/02/02-M04 feedback.md"
+    - Tarde:
+      - 02-T01 feedback: "feedbacks/02/02-T01 feedback.md"
+      - 02-T02 feedback: "feedbacks/02/02-T02 feedback.md"
+      - 02-T03 feedback: "feedbacks/02/02-T03 feedback.md"
+      - 02-T04 feedback: "feedbacks/02/02-T04 feedback.md"
+      - 02-T05 feedback: "feedbacks/02/02-T05 feedback.md"
+      - 02-T06 feedback: "feedbacks/02/02-T06 feedback.md"
+      - 02-T07 feedback: "feedbacks/02/02-T07 feedback.md"
+      - 02-T08 feedback: "feedbacks/02/02-T08 feedback.md"
+      - 02-T general: "feedbacks/02/02-T0X general.md"
+  - Resolución del feedback: "resolucion_feedbacks.md"
 - Otros: 'otros.md'
-- Resolución de feedbacks: 'resolucion_feedbacks.md'
-- Plantillas: 'plantillas.md'
 theme:
     name: 'material'
 markdown_extensions:
