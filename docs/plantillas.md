@@ -13,3 +13,5 @@ Titulo: No mas de 50 caracteres comenzando la linea con "ADD", "FIX", "CHANGE".
 
 Body: Se escribe detalladamente que es lo que se ha hecho.
 ```
+### Contacto con empresas para el estudio de mercado
+[Plantilla](https://docs.google.com/document/d/1_TcnCzfIMz_Jf_MEsJJ4Faw9OjPrPX82d2apPHK2s6g/edit)
