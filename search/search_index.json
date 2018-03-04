@@ -107,7 +107,7 @@
         },
         {
             "location": "/plantillas/",
-            "text": "Resoluci\u00f3n del feedback (v1)\n\u00b6\n\n\nFeedback a solucionar: <Feedback completo>\nProblema (opcional): <Detectar correctamente el problema de la versi\u00f3n actual>\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n<Se mencionar\u00e1n las posibles soluciones que existen>\nResultado:\n<C\u00f3mo ha quedado el objeto tr\u00e1s la modificaci\u00f3n, mostrar un antes y despu\u00e9s es recomendado>\n\n\n\n\nCommits (v1)\n\u00b6\n\n\nTitulo: No mas de 50 caracteres comenzando la linea con \"ADD\", \"FIX\", \"CHANGE\".\n\nBody: Se escribe detalladamente que es lo que se ha hecho.",
+            "text": "Resoluci\u00f3n del feedback (v1)\n\u00b6\n\n\nFeedback a solucionar: <Feedback completo>\nProblema (opcional): <Detectar correctamente el problema de la versi\u00f3n actual>\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n<Se mencionar\u00e1n las posibles soluciones que existen>\nResultado:\n<C\u00f3mo ha quedado el objeto tr\u00e1s la modificaci\u00f3n, mostrar un antes y despu\u00e9s es recomendado>\n\n\n\n\nCommits (v1)\n\u00b6\n\n\nTitulo: No mas de 50 caracteres comenzando la linea con \"ADD\", \"FIX\", \"CHANGE\".\n\nBody: Se escribe detalladamente que es lo que se ha hecho.\n\n\n\n\nContacto con empresas para el estudio de mercado\n\u00b6\n\n\nPlantilla",
             "title": "Plantillas"
         },
         {
@@ -119,6 +119,11 @@
             "location": "/plantillas/#commits-v1",
             "text": "Titulo: No mas de 50 caracteres comenzando la linea con \"ADD\", \"FIX\", \"CHANGE\".\n\nBody: Se escribe detalladamente que es lo que se ha hecho.",
             "title": "Commits (v1)"
+        },
+        {
+            "location": "/plantillas/#contacto-con-empresas-para-el-estudio-de-mercado",
+            "text": "Plantilla",
+            "title": "Contacto con empresas para el estudio de mercado"
         },
         {
             "location": "/producto/",
