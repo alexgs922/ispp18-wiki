@@ -30,6 +30,7 @@ pages:
       - 02-T general: "feedbacks/02/02-T0X general.md"
   - Resolución del feedback: "resolucion_feedbacks.md"
 - Otros: 'otros.md'
+- Subir wiki: 'tutorial_subida.md'
 theme:
     name: 'material'
 markdown_extensions:
