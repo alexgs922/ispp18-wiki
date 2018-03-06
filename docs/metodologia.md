@@ -28,7 +28,7 @@ El progreso de una versión a otra se realizará de la siguiente manera. Se disp
 Una vez el código quede de la forma correcta, se realizará un pull request a 'dev' o a la funcionalidad padre. Se realizarán pruebas cruzadas del código implementado por lo que se espera que el código se haya probado de la forma que se considere adecuada.
 
 ### Commits
-El formato de los commits se encuentra en la siguiente [sección](https://github.com/alexgs922/adrenalive-api/wiki/Otros#commits-v1).
+El formato de los commits se encuentra en la siguiente [sección](plantillas.md#commits-v1).
 
 La frecuencia de commits será de un commit por día trabajado como mínimo, pudiendo realizarse más si se considera necesario (por ejemplo, corrección de errores o mejoras de código).
 
