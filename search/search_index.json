@@ -569,6 +569,26 @@
             "location": "/otros/#brainstormings", 
             "text": "Ideas planteadas:  Multieventual: Gesti\u00f3n de eventos por parte de creador. Se podr\u00e1 comprar entradas y comprobar datos de los eventos. PROBLEMA: Competencia alta.  Adrenalive: Gesti\u00f3n de deportes de riesgo, ya preparado y estudiado.\n* Red social sobre disfraces: Se podr\u00e1 ver diferentes combinaciones y poder comprobar d\u00f3nde se ha comprado cierta pieza o en el caso de ser artesanal, formas de obtenerlo ...", 
             "title": "Brainstormings"
+        }, 
+        {
+            "location": "/tutorial_subida/", 
+            "text": "PROCEDIMIENTO PARA SUBIR A LA WIKI\n\n\nModificaciones locales\n\n\n1.\n Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor (\nrama master\n):\n\n\n        $ git pull origin master\n\n\n\n2.\n Hacer las modificaciones oportunas y ver cambios locales con:\n\n\n        $ mkdocs serve\n\n\n\ny en la direcci\u00f3n \n \nhttp://127.0.0.1:8000\n \n\n\n3.\n Una vez modificado a\u00f1adimos los cambios que tengamos con:\n\n\n        $ git add .\n        $ git commit -m \"\nComentario\n\"\n\n\n\n4.\n Subimos al repositorio remoto:\n\n\n        $ git push origin master\n\n\n\nDesplegar en el servidor\n\n\n1.\n Hay dos posiblidades vamos a explicar primero una, bajarse lo \u00faltimo y resetear la rama \ngh-pages\n:\n\n\n        $ git fech\n        $ git checkout gh-pages\n        $ git reset --hard origin/gh-pages\n        $ git pull origin gh-pages\n\n\n\n2.\n Volvemos a la rama \nmaster\n y desplegamos:\n\n\n        $ git checkout master\n        $ mkdocs gh-deploy\n\n\n\n1.1\n Segunda forma es la siguiente, borramos la rama \ngh-pages\n y luego desplegamos:\n\n\n        $ git branch -D gh-pages\n        $ mkdocs gh-deploy", 
+            "title": "Subir wiki"
+        }, 
+        {
+            "location": "/tutorial_subida/#procedimiento-para-subir-a-la-wiki", 
+            "text": "", 
+            "title": "PROCEDIMIENTO PARA SUBIR A LA WIKI"
+        }, 
+        {
+            "location": "/tutorial_subida/#modificaciones-locales", 
+            "text": "1.  Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor ( rama master ):          $ git pull origin master  2.  Hacer las modificaciones oportunas y ver cambios locales con:          $ mkdocs serve  y en la direcci\u00f3n    http://127.0.0.1:8000    3.  Una vez modificado a\u00f1adimos los cambios que tengamos con:          $ git add .\n        $ git commit -m \" Comentario \"  4.  Subimos al repositorio remoto:          $ git push origin master", 
+            "title": "Modificaciones locales"
+        }, 
+        {
+            "location": "/tutorial_subida/#desplegar-en-el-servidor", 
+            "text": "1.  Hay dos posiblidades vamos a explicar primero una, bajarse lo \u00faltimo y resetear la rama  gh-pages :          $ git fech\n        $ git checkout gh-pages\n        $ git reset --hard origin/gh-pages\n        $ git pull origin gh-pages  2.  Volvemos a la rama  master  y desplegamos:          $ git checkout master\n        $ mkdocs gh-deploy  1.1  Segunda forma es la siguiente, borramos la rama  gh-pages  y luego desplegamos:          $ git branch -D gh-pages\n        $ mkdocs gh-deploy", 
+            "title": "Desplegar en el servidor"
         }
     ]
 }
