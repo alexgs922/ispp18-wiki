@@ -27,7 +27,7 @@ y en la dirección [ *http://127.0.0.1:8000* ](http://127.0.0.1:8000)
 
 **1.** Hay dos posiblidades vamos a explicar primero una, bajarse lo último y resetear la rama *gh-pages*:
 
-			$ git fech
+			$ git fetch
 			$ git checkout gh-pages
 			$ git reset --hard origin/gh-pages
 			$ git pull origin gh-pages
@@ -40,4 +40,5 @@ y en la dirección [ *http://127.0.0.1:8000* ](http://127.0.0.1:8000)
 **1.1** Segunda forma es la siguiente, borramos la rama *gh-pages* y luego desplegamos:
 
 			$ git branch -D gh-pages
+			$ git fetch
 			$ mkdocs gh-deploy
