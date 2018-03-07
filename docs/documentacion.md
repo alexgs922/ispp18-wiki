@@ -12,6 +12,7 @@
 * [Carpeta de presentaciones](https://drive.google.com/drive/u/0/folders/1zXbY3jD_u7Dk6BczAoAQUc2sid30xj8U)
     * [Presentación 1](https://docs.google.com/presentation/d/1BI9UWlLn4Nu5FViSf-7XgfoskeVD7Gq7XfrDimtWrV4/edit?usp=drive_web&ouid=104924850308958917661)
     * [Presentación 2](https://docs.google.com/presentation/d/16yx_770v6HhkaLpAwtQVuVcfKFRshlxhaMRcHMklzFU/edit?usp=drive_web&ouid=104924850308958917661)
+    * [Presentación 3](https://docs.google.com/presentation/d/1_ttYLc9allydDZLh82ZAcfkLvsElsv-Yd7IDjEX5B2k/edit#slide=id.g336ace9554_0_49)
 
 # Requisitos
 
@@ -38,4 +39,5 @@ Pienso que de tecnología deberíamos usar React-native con Redux ya que tenemos
 
 # Presupuesto
 
-* [Hoja Excel con los cálculos v2.](https://drive.google.com/file/d/19d7_4oewF1keAeXzqZf_uuMuvbKPcWF6/view?ths=true)
+* [Hoja Excel con los cálculos v3.](https://drive.google.com/file/d/1l4N_-oaqjlBGkqlaUOWcnP5HqZhfdrM_/view)
+* [Retorno de inversiones](https://docs.google.com/spreadsheets/d/1Ouil8nR3VthjDKi8meI9Dg9vJbpkvOxpZaedvrX-K5U/edit#gid=1101275197)
