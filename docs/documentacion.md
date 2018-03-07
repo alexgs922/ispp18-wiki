@@ -38,5 +38,4 @@ Pienso que de tecnología deberíamos usar React-native con Redux ya que tenemos
 
 # Presupuesto
 
-* [Desglose del presupuesto](https://docs.google.com/document/d/1Xhh1wSfb4YwUpIc3dSv3shoMwwfLJn5oZzO9RZZ5jkI/edit#heading=h.d3niwzo5dc0q)
-* [Hoja Excel con los cálculos](https://drive.google.com/file/d/1sRsV-9D7JQpgJCJhgo3tA3vR8nv0IKkY/view)
+* [Hoja Excel con los cálculos v2.](https://drive.google.com/file/d/19d7_4oewF1keAeXzqZf_uuMuvbKPcWF6/view?ths=true)
