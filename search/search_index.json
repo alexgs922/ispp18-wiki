@@ -1,593 +1,593 @@
 {
     "docs": [
         {
-            "location": "/",
-            "text": "Bienvenido a la wiki de ISPP\n\u00b6",
+            "location": "/", 
+            "text": "Bienvenido a la wiki de ISPP", 
             "title": "Inicio"
-        },
+        }, 
         {
-            "location": "/#bienvenido-a-la-wiki-de-ispp",
-            "text": "",
+            "location": "/#bienvenido-a-la-wiki-de-ispp", 
+            "text": "", 
             "title": "Bienvenido a la wiki de ISPP"
-        },
+        }, 
         {
-            "location": "/asignatura/",
-            "text": "En esta secci\u00f3n se detallar\u00e1 datos importantes con relaci\u00f3n al trabajo realizado.\n\n\nPresentaci\u00f3n\n\u00b6\n\n\nD01\n\u00b6\n\n\nContenido\n\u00b6\n\n\n\n\nEl texto de la presentaci\u00f3n debe estar en ingl\u00e9s.\n\n\nSe debe destacar aspectos por los que se ha escogido la idea final.\n\n\nSe debe explicar, por encima, el proceso organizacional seguido hasta ahora.\n\n\nSe debe realizar un estudio de mercado, con alg\u00fan tipo de estadistica demostrando el inter\u00e9s del p\u00fablico y la suficiente demanda en un sector del mercado.\n\n\nSe debe comparar la competencia del sector, para as\u00ed aprender de errores cometido y mejorar la aplicaci\u00f3n.\n\n\nSe debe incluir un desglose de costes estimados\n\n\nSe debe incluir la definici\u00f3n del MVP inicial\n\n\nSe debe indicar qu\u00e9 se realizar\u00e1 en cada Sprint, desglose de las funcionalidades de la aplicaci\u00f3n.\n\n\nSe deben mencionar los miembros del grupo.\n\n\nSe debe indicar el nombre del grupo.\n\n\n\n\nOtros aspectos a tener en cuenta:\n\u00b6\n\n\nSE DEBE COGER EL MANDO DE LA PRESENTACI\u00d3N. Tambi\u00e9n se debe asegurar que los videos funcionan\n\n\nAgenda del d\u00eda de la presentaci\u00f3n\n\u00b6\n\n\nPresentaci\u00f3n: 17:45 a 18:10\nM\u00e1s informaci\u00f3n en el siguiente \nv\u00ednculo\n\n\nProducto\n\u00b6\n\n\nEntrega realizada por EV.\n\n\nD01\n\u00b6\n\n\nTBD (parece no ser necesario realizar una entrega de los productos, se debe confirmar esto!)\n\n\nSprint 1 (D02?)\n\u00b6\n\n\n\n\nMVP (Minimum Viable Product) inicial: Puede contener errores o aspecto no final, pero debe presentarse casos de uso base (deben, por lo tanto, escogerse algunos que puedan ser interesantes).\n\n\nFeedback del cliente: Aspectos a mejorar del prototipo realizado.\n\n\n\n\nSprint 2 (D03?)\n\u00b6\n\n\n\n\nPrototipo completo: Deber\u00e1 contener todos los casos de uso aplicables, as\u00ed como empezar a realizar correcciones del programa seg\u00fan el feedback aportado por el cliente.\n\n\n\n\nSprint 3 (D04?)\n\u00b6\n\n\n\n\nMVP completo: Debe contener un software completo (todos los casos de uso tratados, s\u00f3lo errores simples, aspecto final de la aplicaci\u00f3n...).",
+            "location": "/asignatura/", 
+            "text": "En esta secci\u00f3n se detallar\u00e1 datos importantes con relaci\u00f3n al trabajo realizado.\n\n\nPresentaci\u00f3n\n\n\nD01\n\n\nContenido\n\n\n\n\nEl texto de la presentaci\u00f3n debe estar en ingl\u00e9s.\n\n\nSe debe destacar aspectos por los que se ha escogido la idea final.\n\n\nSe debe explicar, por encima, el proceso organizacional seguido hasta ahora.\n\n\nSe debe realizar un estudio de mercado, con alg\u00fan tipo de estadistica demostrando el inter\u00e9s del p\u00fablico y la suficiente demanda en un sector del mercado.\n\n\nSe debe comparar la competencia del sector, para as\u00ed aprender de errores cometido y mejorar la aplicaci\u00f3n.\n\n\nSe debe incluir un desglose de costes estimados\n\n\nSe debe incluir la definici\u00f3n del MVP inicial\n\n\nSe debe indicar qu\u00e9 se realizar\u00e1 en cada Sprint, desglose de las funcionalidades de la aplicaci\u00f3n.\n\n\nSe deben mencionar los miembros del grupo.\n\n\nSe debe indicar el nombre del grupo.\n\n\n\n\nOtros aspectos a tener en cuenta:\n\n\nSE DEBE COGER EL MANDO DE LA PRESENTACI\u00d3N. Tambi\u00e9n se debe asegurar que los videos funcionan\n\n\nAgenda del d\u00eda de la presentaci\u00f3n\n\n\nPresentaci\u00f3n: 17:45 a 18:10\nM\u00e1s informaci\u00f3n en el siguiente \nv\u00ednculo\n\n\nProducto\n\n\nEntrega realizada por EV.\n\n\nD01\n\n\nTBD (parece no ser necesario realizar una entrega de los productos, se debe confirmar esto!)\n\n\nSprint 1 (D02?)\n\n\n\n\nMVP (Minimum Viable Product) inicial: Puede contener errores o aspecto no final, pero debe presentarse casos de uso base (deben, por lo tanto, escogerse algunos que puedan ser interesantes).\n\n\nFeedback del cliente: Aspectos a mejorar del prototipo realizado.\n\n\n\n\nSprint 2 (D03?)\n\n\n\n\nPrototipo completo: Deber\u00e1 contener todos los casos de uso aplicables, as\u00ed como empezar a realizar correcciones del programa seg\u00fan el feedback aportado por el cliente.\n\n\n\n\nSprint 3 (D04?)\n\n\n\n\nMVP completo: Debe contener un software completo (todos los casos de uso tratados, s\u00f3lo errores simples, aspecto final de la aplicaci\u00f3n...).", 
             "title": "General"
-        },
+        }, 
         {
-            "location": "/asignatura/#presentacion",
-            "text": "",
+            "location": "/asignatura/#presentacion", 
+            "text": "", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/asignatura/#d01",
-            "text": "",
+            "location": "/asignatura/#d01", 
+            "text": "", 
             "title": "D01"
-        },
+        }, 
         {
-            "location": "/asignatura/#contenido",
-            "text": "El texto de la presentaci\u00f3n debe estar en ingl\u00e9s.  Se debe destacar aspectos por los que se ha escogido la idea final.  Se debe explicar, por encima, el proceso organizacional seguido hasta ahora.  Se debe realizar un estudio de mercado, con alg\u00fan tipo de estadistica demostrando el inter\u00e9s del p\u00fablico y la suficiente demanda en un sector del mercado.  Se debe comparar la competencia del sector, para as\u00ed aprender de errores cometido y mejorar la aplicaci\u00f3n.  Se debe incluir un desglose de costes estimados  Se debe incluir la definici\u00f3n del MVP inicial  Se debe indicar qu\u00e9 se realizar\u00e1 en cada Sprint, desglose de las funcionalidades de la aplicaci\u00f3n.  Se deben mencionar los miembros del grupo.  Se debe indicar el nombre del grupo.",
+            "location": "/asignatura/#contenido", 
+            "text": "El texto de la presentaci\u00f3n debe estar en ingl\u00e9s.  Se debe destacar aspectos por los que se ha escogido la idea final.  Se debe explicar, por encima, el proceso organizacional seguido hasta ahora.  Se debe realizar un estudio de mercado, con alg\u00fan tipo de estadistica demostrando el inter\u00e9s del p\u00fablico y la suficiente demanda en un sector del mercado.  Se debe comparar la competencia del sector, para as\u00ed aprender de errores cometido y mejorar la aplicaci\u00f3n.  Se debe incluir un desglose de costes estimados  Se debe incluir la definici\u00f3n del MVP inicial  Se debe indicar qu\u00e9 se realizar\u00e1 en cada Sprint, desglose de las funcionalidades de la aplicaci\u00f3n.  Se deben mencionar los miembros del grupo.  Se debe indicar el nombre del grupo.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/asignatura/#otros-aspectos-a-tener-en-cuenta",
-            "text": "SE DEBE COGER EL MANDO DE LA PRESENTACI\u00d3N. Tambi\u00e9n se debe asegurar que los videos funcionan",
+            "location": "/asignatura/#otros-aspectos-a-tener-en-cuenta", 
+            "text": "SE DEBE COGER EL MANDO DE LA PRESENTACI\u00d3N. Tambi\u00e9n se debe asegurar que los videos funcionan", 
             "title": "Otros aspectos a tener en cuenta:"
-        },
+        }, 
         {
-            "location": "/asignatura/#agenda-del-dia-de-la-presentacion",
-            "text": "Presentaci\u00f3n: 17:45 a 18:10\nM\u00e1s informaci\u00f3n en el siguiente  v\u00ednculo",
+            "location": "/asignatura/#agenda-del-dia-de-la-presentacion", 
+            "text": "Presentaci\u00f3n: 17:45 a 18:10\nM\u00e1s informaci\u00f3n en el siguiente  v\u00ednculo", 
             "title": "Agenda del d\u00eda de la presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/asignatura/#producto",
-            "text": "Entrega realizada por EV.",
+            "location": "/asignatura/#producto", 
+            "text": "Entrega realizada por EV.", 
             "title": "Producto"
-        },
+        }, 
         {
-            "location": "/asignatura/#d01_1",
-            "text": "TBD (parece no ser necesario realizar una entrega de los productos, se debe confirmar esto!)",
+            "location": "/asignatura/#d01_1", 
+            "text": "TBD (parece no ser necesario realizar una entrega de los productos, se debe confirmar esto!)", 
             "title": "D01"
-        },
+        }, 
         {
-            "location": "/asignatura/#sprint-1-d02",
-            "text": "MVP (Minimum Viable Product) inicial: Puede contener errores o aspecto no final, pero debe presentarse casos de uso base (deben, por lo tanto, escogerse algunos que puedan ser interesantes).  Feedback del cliente: Aspectos a mejorar del prototipo realizado.",
+            "location": "/asignatura/#sprint-1-d02", 
+            "text": "MVP (Minimum Viable Product) inicial: Puede contener errores o aspecto no final, pero debe presentarse casos de uso base (deben, por lo tanto, escogerse algunos que puedan ser interesantes).  Feedback del cliente: Aspectos a mejorar del prototipo realizado.", 
             "title": "Sprint 1 (D02?)"
-        },
+        }, 
         {
-            "location": "/asignatura/#sprint-2-d03",
-            "text": "Prototipo completo: Deber\u00e1 contener todos los casos de uso aplicables, as\u00ed como empezar a realizar correcciones del programa seg\u00fan el feedback aportado por el cliente.",
+            "location": "/asignatura/#sprint-2-d03", 
+            "text": "Prototipo completo: Deber\u00e1 contener todos los casos de uso aplicables, as\u00ed como empezar a realizar correcciones del programa seg\u00fan el feedback aportado por el cliente.", 
             "title": "Sprint 2 (D03?)"
-        },
+        }, 
         {
-            "location": "/asignatura/#sprint-3-d04",
-            "text": "MVP completo: Debe contener un software completo (todos los casos de uso tratados, s\u00f3lo errores simples, aspecto final de la aplicaci\u00f3n...).",
+            "location": "/asignatura/#sprint-3-d04", 
+            "text": "MVP completo: Debe contener un software completo (todos los casos de uso tratados, s\u00f3lo errores simples, aspecto final de la aplicaci\u00f3n...).", 
             "title": "Sprint 3 (D04?)"
-        },
+        }, 
         {
-            "location": "/documentacion/",
-            "text": "Actas de reuni\u00f3n\n\u00b6\n\n\n\n\nCarpeta de actas de reuni\u00f3n\n\n\nActa de la reuni\u00f3n del 22/02/2018\n\n\nActa de la reuni\u00f3n del 26/02/2018\n\n\nActa de la reuni\u00f3n del 01/03/2018\n\n\nActa de la reuni\u00f3n del 03/03/2018\n\n\nActa de la reuni\u00f3n del 07/03/2018\n\n\n\n\n\n\n\n\nPresentaciones\n\u00b6\n\n\n\n\nCarpeta de presentaciones\n\n\nPresentaci\u00f3n 1\n\n\nPresentaci\u00f3n 2\n\n\n\n\n\n\n\n\nRequisitos\n\u00b6\n\n\n\n\nDocumento de requisitos\n\n\nDesglose de los Sprints\n\n\n\n\nInformes de tecnolog\u00edas\n\u00b6\n\n\n\n\nCarpeta de informes de tecnolog\u00edas\n\n\nAngular\n\n\nDjango\n\n\nJava EE\n\n\njHipster\n\n\nMEAN\n\n\nReact + Redux\n\n\nSpring\n\n\nFlask\n\n\n\n\n\n\n\n\nInformaci\u00f3n sobre los Informes de tecnolog\u00edas\n\u00b6\n\n\nSeg\u00fan el \ninforme de la reuni\u00f3n del 22/02/2018\n, se recomienda la elaboraci\u00f3n de un informe donde se especifique de las tecnolog\u00edas planteadas. El informe no tendr\u00e1 que ser formal, al no ser presentado al comit\u00e9 ejecutivo (profesores) pero servir\u00e1 por los miembros del grupo de desarrollo como gu\u00eda para escoger las diferentes tecnolog\u00edas.\n\n\nInforme de React + Redux, por Mar\u00eda Rom\u00e1n Bayar\n\u00b6\n\n\nPienso que de tecnolog\u00eda deber\u00edamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podr\u00edamos ofrecer gu\u00edas y explicaciones sobre la programaci\u00f3n en React, a parte hay p\u00e1ginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podr\u00edamos guiarnos para realizar nuestra aplicaci\u00f3n y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutar\u00e1n en nativo de forma que no es necesario que tengan un m\u00f3vil de los m\u00e1s nuevos para que se vea bien las animaciones de la aplicaci\u00f3n, en mi opini\u00f3n creo que la opci\u00f3n de React-native y Redux es la mejor porque en las otras o se har\u00e1 pesado o necesitaremos aprender y quiz\u00e1s encontremos baches y por mi experiencia propia se aprende bastante r\u00e1pido React y Redux ya que es inyectar c\u00f3digo en html y un sistema c\u00f3modo de estado que resulta muy intuitivo de usar.\n\n\nPresupuesto\n\u00b6\n\n\n\n\nHoja Excel con los c\u00e1lculos v2.",
+            "location": "/documentacion/", 
+            "text": "Actas de reuni\u00f3n\n\n\n\n\nCarpeta de actas de reuni\u00f3n\n\n\nActa de la reuni\u00f3n del 22/02/2018\n\n\nActa de la reuni\u00f3n del 26/02/2018\n\n\nActa de la reuni\u00f3n del 01/03/2018\n\n\nActa de la reuni\u00f3n del 03/03/2018\n\n\n\n\n\n\n\n\nPresentaciones\n\n\n\n\nCarpeta de presentaciones\n\n\nPresentaci\u00f3n 1\n\n\nPresentaci\u00f3n 2\n\n\n\n\n\n\n\n\nRequisitos\n\n\n\n\nDocumento de requisitos\n\n\nDesglose de los Sprints\n\n\n\n\nInformes de tecnolog\u00edas\n\n\n\n\nCarpeta de informes de tecnolog\u00edas\n\n\nAngular\n\n\nDjango\n\n\nJava EE\n\n\njHipster\n\n\nMEAN\n\n\nReact + Redux\n\n\nSpring\n\n\nFlask\n\n\n\n\n\n\n\n\nInformaci\u00f3n sobre los Informes de tecnolog\u00edas\n\n\nSeg\u00fan el \ninforme de la reuni\u00f3n del 22/02/2018\n, se recomienda la elaboraci\u00f3n de un informe donde se especifique de las tecnolog\u00edas planteadas. El informe no tendr\u00e1 que ser formal, al no ser presentado al comit\u00e9 ejecutivo (profesores) pero servir\u00e1 por los miembros del grupo de desarrollo como gu\u00eda para escoger las diferentes tecnolog\u00edas.\n\n\nInforme de React + Redux, por Mar\u00eda Rom\u00e1n Bayar\n\n\nPienso que de tecnolog\u00eda deber\u00edamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podr\u00edamos ofrecer gu\u00edas y explicaciones sobre la programaci\u00f3n en React, a parte hay p\u00e1ginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podr\u00edamos guiarnos para realizar nuestra aplicaci\u00f3n y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutar\u00e1n en nativo de forma que no es necesario que tengan un m\u00f3vil de los m\u00e1s nuevos para que se vea bien las animaciones de la aplicaci\u00f3n, en mi opini\u00f3n creo que la opci\u00f3n de React-native y Redux es la mejor porque en las otras o se har\u00e1 pesado o necesitaremos aprender y quiz\u00e1s encontremos baches y por mi experiencia propia se aprende bastante r\u00e1pido React y Redux ya que es inyectar c\u00f3digo en html y un sistema c\u00f3modo de estado que resulta muy intuitivo de usar.\n\n\nPresupuesto\n\n\n\n\nHoja Excel con los c\u00e1lculos v2.", 
             "title": "General"
-        },
+        }, 
         {
-            "location": "/documentacion/#actas-de-reunion",
-            "text": "Carpeta de actas de reuni\u00f3n  Acta de la reuni\u00f3n del 22/02/2018  Acta de la reuni\u00f3n del 26/02/2018  Acta de la reuni\u00f3n del 01/03/2018  Acta de la reuni\u00f3n del 03/03/2018  Acta de la reuni\u00f3n del 07/03/2018",
+            "location": "/documentacion/#actas-de-reunion", 
+            "text": "Carpeta de actas de reuni\u00f3n  Acta de la reuni\u00f3n del 22/02/2018  Acta de la reuni\u00f3n del 26/02/2018  Acta de la reuni\u00f3n del 01/03/2018  Acta de la reuni\u00f3n del 03/03/2018", 
             "title": "Actas de reuni\u00f3n"
-        },
+        }, 
         {
-            "location": "/documentacion/#presentaciones",
-            "text": "Carpeta de presentaciones  Presentaci\u00f3n 1  Presentaci\u00f3n 2",
+            "location": "/documentacion/#presentaciones", 
+            "text": "Carpeta de presentaciones  Presentaci\u00f3n 1  Presentaci\u00f3n 2", 
             "title": "Presentaciones"
-        },
+        }, 
         {
-            "location": "/documentacion/#requisitos",
-            "text": "Documento de requisitos  Desglose de los Sprints",
+            "location": "/documentacion/#requisitos", 
+            "text": "Documento de requisitos  Desglose de los Sprints", 
             "title": "Requisitos"
-        },
+        }, 
         {
-            "location": "/documentacion/#informes-de-tecnologias",
-            "text": "Carpeta de informes de tecnolog\u00edas  Angular  Django  Java EE  jHipster  MEAN  React + Redux  Spring  Flask",
+            "location": "/documentacion/#informes-de-tecnologias", 
+            "text": "Carpeta de informes de tecnolog\u00edas  Angular  Django  Java EE  jHipster  MEAN  React + Redux  Spring  Flask", 
             "title": "Informes de tecnolog\u00edas"
-        },
+        }, 
         {
-            "location": "/documentacion/#informacion-sobre-los-informes-de-tecnologias",
-            "text": "Seg\u00fan el  informe de la reuni\u00f3n del 22/02/2018 , se recomienda la elaboraci\u00f3n de un informe donde se especifique de las tecnolog\u00edas planteadas. El informe no tendr\u00e1 que ser formal, al no ser presentado al comit\u00e9 ejecutivo (profesores) pero servir\u00e1 por los miembros del grupo de desarrollo como gu\u00eda para escoger las diferentes tecnolog\u00edas.",
+            "location": "/documentacion/#informacion-sobre-los-informes-de-tecnologias", 
+            "text": "Seg\u00fan el  informe de la reuni\u00f3n del 22/02/2018 , se recomienda la elaboraci\u00f3n de un informe donde se especifique de las tecnolog\u00edas planteadas. El informe no tendr\u00e1 que ser formal, al no ser presentado al comit\u00e9 ejecutivo (profesores) pero servir\u00e1 por los miembros del grupo de desarrollo como gu\u00eda para escoger las diferentes tecnolog\u00edas.", 
             "title": "Informaci\u00f3n sobre los Informes de tecnolog\u00edas"
-        },
+        }, 
         {
-            "location": "/documentacion/#informe-de-react-redux-por-maria-roman-bayar",
-            "text": "Pienso que de tecnolog\u00eda deber\u00edamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podr\u00edamos ofrecer gu\u00edas y explicaciones sobre la programaci\u00f3n en React, a parte hay p\u00e1ginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podr\u00edamos guiarnos para realizar nuestra aplicaci\u00f3n y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutar\u00e1n en nativo de forma que no es necesario que tengan un m\u00f3vil de los m\u00e1s nuevos para que se vea bien las animaciones de la aplicaci\u00f3n, en mi opini\u00f3n creo que la opci\u00f3n de React-native y Redux es la mejor porque en las otras o se har\u00e1 pesado o necesitaremos aprender y quiz\u00e1s encontremos baches y por mi experiencia propia se aprende bastante r\u00e1pido React y Redux ya que es inyectar c\u00f3digo en html y un sistema c\u00f3modo de estado que resulta muy intuitivo de usar.",
+            "location": "/documentacion/#informe-de-react-redux-por-maria-roman-bayar", 
+            "text": "Pienso que de tecnolog\u00eda deber\u00edamos usar React-native con Redux ya que tenemos una base del proyecto hecha con React, Nacho y yo ya hemos aprendido el funcionamiento de React y podr\u00edamos ofrecer gu\u00edas y explicaciones sobre la programaci\u00f3n en React, a parte hay p\u00e1ginas como Awesome React que vienen hechos todo tipo de funcionalidades con React con las que podr\u00edamos guiarnos para realizar nuestra aplicaci\u00f3n y encima al ser React-native nativo, las animaciones y cosas que pongamos se ejecutar\u00e1n en nativo de forma que no es necesario que tengan un m\u00f3vil de los m\u00e1s nuevos para que se vea bien las animaciones de la aplicaci\u00f3n, en mi opini\u00f3n creo que la opci\u00f3n de React-native y Redux es la mejor porque en las otras o se har\u00e1 pesado o necesitaremos aprender y quiz\u00e1s encontremos baches y por mi experiencia propia se aprende bastante r\u00e1pido React y Redux ya que es inyectar c\u00f3digo en html y un sistema c\u00f3modo de estado que resulta muy intuitivo de usar.", 
             "title": "Informe de React + Redux, por Mar\u00eda Rom\u00e1n Bayar"
-        },
+        }, 
         {
-            "location": "/documentacion/#presupuesto",
-            "text": "Hoja Excel con los c\u00e1lculos v2.",
+            "location": "/documentacion/#presupuesto", 
+            "text": "Hoja Excel con los c\u00e1lculos v2.", 
             "title": "Presupuesto"
-        },
+        }, 
         {
-            "location": "/plantillas/",
-            "text": "Resoluci\u00f3n del feedback (v1)\n\u00b6\n\n\nFeedback a solucionar: <Feedback completo>\nProblema (opcional): <Detectar correctamente el problema de la versi\u00f3n actual>\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n<Se mencionar\u00e1n las posibles soluciones que existen>\nResultado:\n<C\u00f3mo ha quedado el objeto tr\u00e1s la modificaci\u00f3n, mostrar un antes y despu\u00e9s es recomendado>\n\n\n\n\nCommits (v1)\n\u00b6\n\n\nTitulo: No mas de 50 caracteres comenzando la linea con \"ADD\", \"FIX\", \"CHANGE\".\n\nBody: Se escribe detalladamente que es lo que se ha hecho.\n\n\n\n\nCommits (v2)\n\u00b6\n\n\nFormato de los commits de las historias de usuarios y defectos:\n\n\nTitulo: No mas de 50 caracteres con un breve descripcion y comenzando \nla linea con el coodigo de historia de usuario o defecto \"USXXXX\", \"DEXXXX\".\n\nCuerpo: Se describe detalladamente para saber que es lo que se ha subido.\n\n\n\n\nContacto con empresas para el estudio de mercado\n\u00b6\n\n\nPlantilla",
+            "location": "/plantillas/", 
+            "text": "Resoluci\u00f3n del feedback (v1)\n\n\nFeedback a solucionar: \nFeedback completo\n\nProblema (opcional): \nDetectar correctamente el problema de la versi\u00f3n actual\n\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n\nSe mencionar\u00e1n las posibles soluciones que existen\n\nResultado:\n\nC\u00f3mo ha quedado el objeto tr\u00e1s la modificaci\u00f3n, mostrar un antes y despu\u00e9s es recomendado\n\n\n\n\n\nCommits (v1)\n\n\nTitulo: No mas de 50 caracteres comenzando la linea con \nADD\n, \nFIX\n, \nCHANGE\n.\n\nBody: Se escribe detalladamente que es lo que se ha hecho.\n\n\n\n\nCommits (v2)\n\n\nFormato de los commits de las historias de usuarios y defectos:\n\n\nTitulo: No mas de 50 caracteres con un breve descripcion y comenzando \nla linea con el coodigo de historia de usuario o defecto \nUSXXXX\n, \nDEXXXX\n.\n\nCuerpo: Se describe detalladamente para saber que es lo que se ha subido.\n\n\n\n\nContacto con empresas para el estudio de mercado\n\n\nPlantilla", 
             "title": "Plantillas"
-        },
+        }, 
         {
-            "location": "/plantillas/#resolucion-del-feedback-v1",
-            "text": "Feedback a solucionar: <Feedback completo>\nProblema (opcional): <Detectar correctamente el problema de la versi\u00f3n actual>\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n<Se mencionar\u00e1n las posibles soluciones que existen>\nResultado:\n<C\u00f3mo ha quedado el objeto tr\u00e1s la modificaci\u00f3n, mostrar un antes y despu\u00e9s es recomendado>",
+            "location": "/plantillas/#resolucion-del-feedback-v1", 
+            "text": "Feedback a solucionar:  Feedback completo \nProblema (opcional):  Detectar correctamente el problema de la versi\u00f3n actual \nSoluci\u00f3n/Soluciones aportadas para solucionarlo: Se mencionar\u00e1n las posibles soluciones que existen \nResultado: C\u00f3mo ha quedado el objeto tr\u00e1s la modificaci\u00f3n, mostrar un antes y despu\u00e9s es recomendado", 
             "title": "Resoluci\u00f3n del feedback (v1)"
-        },
+        }, 
         {
-            "location": "/plantillas/#commits-v1",
-            "text": "Titulo: No mas de 50 caracteres comenzando la linea con \"ADD\", \"FIX\", \"CHANGE\".\n\nBody: Se escribe detalladamente que es lo que se ha hecho.",
+            "location": "/plantillas/#commits-v1", 
+            "text": "Titulo: No mas de 50 caracteres comenzando la linea con  ADD ,  FIX ,  CHANGE .\n\nBody: Se escribe detalladamente que es lo que se ha hecho.", 
             "title": "Commits (v1)"
-        },
+        }, 
         {
-            "location": "/plantillas/#commits-v2",
-            "text": "Formato de los commits de las historias de usuarios y defectos:  Titulo: No mas de 50 caracteres con un breve descripcion y comenzando \nla linea con el coodigo de historia de usuario o defecto \"USXXXX\", \"DEXXXX\".\n\nCuerpo: Se describe detalladamente para saber que es lo que se ha subido.",
+            "location": "/plantillas/#commits-v2", 
+            "text": "Formato de los commits de las historias de usuarios y defectos:  Titulo: No mas de 50 caracteres con un breve descripcion y comenzando \nla linea con el coodigo de historia de usuario o defecto  USXXXX ,  DEXXXX .\n\nCuerpo: Se describe detalladamente para saber que es lo que se ha subido.", 
             "title": "Commits (v2)"
-        },
+        }, 
         {
-            "location": "/plantillas/#contacto-con-empresas-para-el-estudio-de-mercado",
-            "text": "Plantilla",
+            "location": "/plantillas/#contacto-con-empresas-para-el-estudio-de-mercado", 
+            "text": "Plantilla", 
             "title": "Contacto con empresas para el estudio de mercado"
-        },
+        }, 
         {
-            "location": "/producto/",
-            "text": "Requisitos\n\u00b6\n\n\nMVP inicial\n\u00b6\n\n\nObjetivos para el primer Sprint\n\u00b6\n\n\nDesarrollar el n\u00facleo de la aplicaci\u00f3n, es decir, el MVP inicial.\n\n\nLas actividades que podr\u00e1 realizar el cliente ser\u00e1n las siguientes:\n\n\n\n\nAcceso a una lista de actividades que tenga el sistema.\n\n\nRegistro en actividades.\n\n\nBorrarse de actividades que el usuario se haya registrado.\n\n\nCreaci\u00f3n de actividades.\n\n\nSeguir a usuarios de la aplicaci\u00f3n.\n\n\nComentar en actividades en las que se haya registrado.\n\n\n\n\nObjetivos para el segundo Sprint\n\u00b6\n\n\nPara el segundo Sprint, se ampliar\u00e1n las funcionalidades de la aplicaci\u00f3n. Se a\u00f1adir\u00e1n las siguientes funcionalidades:\n\n\n\n\nSistema completo de gesti\u00f3n de usuarios.\n\n\nBuscador de actividades.\n\n\nRecomendaci\u00f3n de actividades basado en par\u00e1metros del usuario.\n\n\nIniciaci\u00f3n del sistema de interacciones.\n\n\n\n\nTambi\u00e9n se tendr\u00e1n en cuenta el feedback de los usuarios del anterior Sprint, resolviendo los problemas que encuentren a trav\u00e9s del formato de resoluci\u00f3n de feedback.\n\n\nObjectivos para el tercer Sprint\n\u00b6\n\n\nPara el tercer Sprint, se terminar\u00e1 de retocar la aplicaci\u00f3n, centr\u00e1ndose \u00fanicamente en el desarrollo de mejoras propuestas por usuarios y solucionado de errores.\n\n\nTecnolog\u00edas\n\u00b6\n\n\nDesarrollo m\u00f3vil\n\u00b6\n\n\nPara el desarrollo m\u00f3vil, se utilizar\u00e1 \nReact Native\n. Un framework orientado en el desarrollo de aplicaciones m\u00f3viles en Android y iOS. Utiliza el lenguaje de programaci\u00f3n \nJavascript\n. El c\u00f3digo fuente se encuentra en el siguiente \nrepositorio\n.\n\n\nDesarrollo Web\n\u00b6\n\n\nPara el desarrollo Web, se utilizar\u00e1 \nAngulaprJS\n. El framework usar\u00e1 \nJavascript\n, as\u00ed como \nHTML\n y \nCSS\n. El c\u00f3digo fuente de la aplicaci\u00f3n se encuentra en el mismo \nrepositorio\n que el c\u00f3digo fuente de la API, al usarse la misma tecnolog\u00eda.\n\n\nDesarrollo API\n\u00b6\n\n\nPara el desarrollo de la API, se usa \nnode.js\n. Este interprete de \nJavascript\n usar\u00e1 tambi\u00e9n librer\u00edas como \nExpress\n y como base de datos \nMongoDB\n. El c\u00f3digo fuente de la API se encuentra en \neste\n repositorio, que es tambi\u00e9n donde se desarrollar\u00e1 la aplicaci\u00f3n Web.",
+            "location": "/producto/", 
+            "text": "Requisitos\n\n\nMVP inicial\n\n\nObjetivos para el primer Sprint\n\n\nDesarrollar el n\u00facleo de la aplicaci\u00f3n, es decir, el MVP inicial.\n\n\nLas actividades que podr\u00e1 realizar el cliente ser\u00e1n las siguientes:\n\n\n\n\nAcceso a una lista de actividades que tenga el sistema.\n\n\nRegistro en actividades.\n\n\nBorrarse de actividades que el usuario se haya registrado.\n\n\nCreaci\u00f3n de actividades.\n\n\nSeguir a usuarios de la aplicaci\u00f3n.\n\n\nComentar en actividades en las que se haya registrado.\n\n\n\n\nObjetivos para el segundo Sprint\n\n\nPara el segundo Sprint, se ampliar\u00e1n las funcionalidades de la aplicaci\u00f3n. Se a\u00f1adir\u00e1n las siguientes funcionalidades:\n\n\n\n\nSistema completo de gesti\u00f3n de usuarios.\n\n\nBuscador de actividades.\n\n\nRecomendaci\u00f3n de actividades basado en par\u00e1metros del usuario.\n\n\nIniciaci\u00f3n del sistema de interacciones.\n\n\n\n\nTambi\u00e9n se tendr\u00e1n en cuenta el feedback de los usuarios del anterior Sprint, resolviendo los problemas que encuentren a trav\u00e9s del formato de resoluci\u00f3n de feedback.\n\n\nObjectivos para el tercer Sprint\n\n\nPara el tercer Sprint, se terminar\u00e1 de retocar la aplicaci\u00f3n, centr\u00e1ndose \u00fanicamente en el desarrollo de mejoras propuestas por usuarios y solucionado de errores.\n\n\nTecnolog\u00edas\n\n\nDesarrollo m\u00f3vil\n\n\nPara el desarrollo m\u00f3vil, se utilizar\u00e1 \nReact Native\n. Un framework orientado en el desarrollo de aplicaciones m\u00f3viles en Android y iOS. Utiliza el lenguaje de programaci\u00f3n \nJavascript\n. El c\u00f3digo fuente se encuentra en el siguiente \nrepositorio\n.\n\n\nDesarrollo Web\n\n\nPara el desarrollo Web, se utilizar\u00e1 \nAngulaprJS\n. El framework usar\u00e1 \nJavascript\n, as\u00ed como \nHTML\n y \nCSS\n. El c\u00f3digo fuente de la aplicaci\u00f3n se encuentra en el mismo \nrepositorio\n que el c\u00f3digo fuente de la API, al usarse la misma tecnolog\u00eda.\n\n\nDesarrollo API\n\n\nPara el desarrollo de la API, se usa \nnode.js\n. Este interprete de \nJavascript\n usar\u00e1 tambi\u00e9n librer\u00edas como \nExpress\n y como base de datos \nMongoDB\n. El c\u00f3digo fuente de la API se encuentra en \neste\n repositorio, que es tambi\u00e9n donde se desarrollar\u00e1 la aplicaci\u00f3n Web.", 
             "title": "General"
-        },
+        }, 
         {
-            "location": "/producto/#requisitos",
-            "text": "",
+            "location": "/producto/#requisitos", 
+            "text": "", 
             "title": "Requisitos"
-        },
+        }, 
         {
-            "location": "/producto/#mvp-inicial",
-            "text": "",
+            "location": "/producto/#mvp-inicial", 
+            "text": "", 
             "title": "MVP inicial"
-        },
+        }, 
         {
-            "location": "/producto/#objetivos-para-el-primer-sprint",
-            "text": "Desarrollar el n\u00facleo de la aplicaci\u00f3n, es decir, el MVP inicial.  Las actividades que podr\u00e1 realizar el cliente ser\u00e1n las siguientes:   Acceso a una lista de actividades que tenga el sistema.  Registro en actividades.  Borrarse de actividades que el usuario se haya registrado.  Creaci\u00f3n de actividades.  Seguir a usuarios de la aplicaci\u00f3n.  Comentar en actividades en las que se haya registrado.",
+            "location": "/producto/#objetivos-para-el-primer-sprint", 
+            "text": "Desarrollar el n\u00facleo de la aplicaci\u00f3n, es decir, el MVP inicial.  Las actividades que podr\u00e1 realizar el cliente ser\u00e1n las siguientes:   Acceso a una lista de actividades que tenga el sistema.  Registro en actividades.  Borrarse de actividades que el usuario se haya registrado.  Creaci\u00f3n de actividades.  Seguir a usuarios de la aplicaci\u00f3n.  Comentar en actividades en las que se haya registrado.", 
             "title": "Objetivos para el primer Sprint"
-        },
+        }, 
         {
-            "location": "/producto/#objetivos-para-el-segundo-sprint",
-            "text": "Para el segundo Sprint, se ampliar\u00e1n las funcionalidades de la aplicaci\u00f3n. Se a\u00f1adir\u00e1n las siguientes funcionalidades:   Sistema completo de gesti\u00f3n de usuarios.  Buscador de actividades.  Recomendaci\u00f3n de actividades basado en par\u00e1metros del usuario.  Iniciaci\u00f3n del sistema de interacciones.   Tambi\u00e9n se tendr\u00e1n en cuenta el feedback de los usuarios del anterior Sprint, resolviendo los problemas que encuentren a trav\u00e9s del formato de resoluci\u00f3n de feedback.",
+            "location": "/producto/#objetivos-para-el-segundo-sprint", 
+            "text": "Para el segundo Sprint, se ampliar\u00e1n las funcionalidades de la aplicaci\u00f3n. Se a\u00f1adir\u00e1n las siguientes funcionalidades:   Sistema completo de gesti\u00f3n de usuarios.  Buscador de actividades.  Recomendaci\u00f3n de actividades basado en par\u00e1metros del usuario.  Iniciaci\u00f3n del sistema de interacciones.   Tambi\u00e9n se tendr\u00e1n en cuenta el feedback de los usuarios del anterior Sprint, resolviendo los problemas que encuentren a trav\u00e9s del formato de resoluci\u00f3n de feedback.", 
             "title": "Objetivos para el segundo Sprint"
-        },
+        }, 
         {
-            "location": "/producto/#objectivos-para-el-tercer-sprint",
-            "text": "Para el tercer Sprint, se terminar\u00e1 de retocar la aplicaci\u00f3n, centr\u00e1ndose \u00fanicamente en el desarrollo de mejoras propuestas por usuarios y solucionado de errores.",
+            "location": "/producto/#objectivos-para-el-tercer-sprint", 
+            "text": "Para el tercer Sprint, se terminar\u00e1 de retocar la aplicaci\u00f3n, centr\u00e1ndose \u00fanicamente en el desarrollo de mejoras propuestas por usuarios y solucionado de errores.", 
             "title": "Objectivos para el tercer Sprint"
-        },
+        }, 
         {
-            "location": "/producto/#tecnologias",
-            "text": "",
+            "location": "/producto/#tecnologias", 
+            "text": "", 
             "title": "Tecnolog\u00edas"
-        },
+        }, 
         {
-            "location": "/producto/#desarrollo-movil",
-            "text": "Para el desarrollo m\u00f3vil, se utilizar\u00e1  React Native . Un framework orientado en el desarrollo de aplicaciones m\u00f3viles en Android y iOS. Utiliza el lenguaje de programaci\u00f3n  Javascript . El c\u00f3digo fuente se encuentra en el siguiente  repositorio .",
+            "location": "/producto/#desarrollo-movil", 
+            "text": "Para el desarrollo m\u00f3vil, se utilizar\u00e1  React Native . Un framework orientado en el desarrollo de aplicaciones m\u00f3viles en Android y iOS. Utiliza el lenguaje de programaci\u00f3n  Javascript . El c\u00f3digo fuente se encuentra en el siguiente  repositorio .", 
             "title": "Desarrollo m\u00f3vil"
-        },
+        }, 
         {
-            "location": "/producto/#desarrollo-web",
-            "text": "Para el desarrollo Web, se utilizar\u00e1  AngulaprJS . El framework usar\u00e1  Javascript , as\u00ed como  HTML  y  CSS . El c\u00f3digo fuente de la aplicaci\u00f3n se encuentra en el mismo  repositorio  que el c\u00f3digo fuente de la API, al usarse la misma tecnolog\u00eda.",
+            "location": "/producto/#desarrollo-web", 
+            "text": "Para el desarrollo Web, se utilizar\u00e1  AngulaprJS . El framework usar\u00e1  Javascript , as\u00ed como  HTML  y  CSS . El c\u00f3digo fuente de la aplicaci\u00f3n se encuentra en el mismo  repositorio  que el c\u00f3digo fuente de la API, al usarse la misma tecnolog\u00eda.", 
             "title": "Desarrollo Web"
-        },
+        }, 
         {
-            "location": "/producto/#desarrollo-api",
-            "text": "Para el desarrollo de la API, se usa  node.js . Este interprete de  Javascript  usar\u00e1 tambi\u00e9n librer\u00edas como  Express  y como base de datos  MongoDB . El c\u00f3digo fuente de la API se encuentra en  este  repositorio, que es tambi\u00e9n donde se desarrollar\u00e1 la aplicaci\u00f3n Web.",
+            "location": "/producto/#desarrollo-api", 
+            "text": "Para el desarrollo de la API, se usa  node.js . Este interprete de  Javascript  usar\u00e1 tambi\u00e9n librer\u00edas como  Express  y como base de datos  MongoDB . El c\u00f3digo fuente de la API se encuentra en  este  repositorio, que es tambi\u00e9n donde se desarrollar\u00e1 la aplicaci\u00f3n Web.", 
             "title": "Desarrollo API"
-        },
+        }, 
         {
-            "location": "/metodologia/",
-            "text": "En esta p\u00e1gina se detallar\u00e1 las herramientas usadas, procesos de construcci\u00f3n del software ...\n\n\nHerramientas\n\u00b6\n\n\nPlanificaci\u00f3n\n\u00b6\n\n\n\n\nTrello: Creaci\u00f3n, asignaci\u00f3n y comprobaci\u00f3n del estado de las tareas.\n\n\nToggl: Control del tiempo aplicado a las tareas de Trello.\n\n\nSlack: Comunicaci\u00f3n informal escrita.\n\n\nSkype: Comunicaci\u00f3n informal y formal oral.\n\n\n\n\nIntegraci\u00f3n\n\u00b6\n\n\n\n\nSonar: Comprobaci\u00f3n de pruebas en el c\u00f3digo.\n\n\nIcinga: Monitorizaci\u00f3n de la red.\n\n\nTravis: Integraci\u00f3n continua.\n\n\n\n\nDesarrollo\n\u00b6\n\n\n\n\nGithub: Gesti\u00f3n del control de versiones.\n\n\nHeroku: Despliegue del producto.\n\n\n\n\nGesti\u00f3n del c\u00f3digo\n\u00b6\n\n\nLa herramienta de gesti\u00f3n del c\u00f3digo a utilizar ser\u00e1 GitHub.\n\n\nRamas\n\u00b6\n\n\nLa gesti\u00f3n de las ramas se realizar\u00e1 de la siguiente forma. Primero, se dispondr\u00e1 de 'master', que almacenar\u00e1 un c\u00f3digo que se considera como listo para despliegue, por lo que pasar\u00e1 pruebas funcionales, de sistema y de casos de uso. Despu\u00e9s, se tendr\u00e1 la rama de 'dev', que puede contener c\u00f3digo con nuevas funcionalidades, pero pueden no estar probadas completamente y pueden dar errores. \n\n\nEl progreso de una versi\u00f3n a otra se realizar\u00e1 de la siguiente manera. Se dispondr\u00e1n de ramas de defectos y de casos de uso. Estas ramas se trabajar\u00e1n realizando un 'branch' desde 'dev'. Una vez se considere el c\u00f3digo como terminado, se realizar\u00e1 inicialmente un 'pull' de 'dev' y 'rebase' desde 'dev' a la nueva funcionalidad de forma local (es decir, sin subir el c\u00f3digo). Se realizar\u00e1 el proceso contrario, realizando un 'rebase' desde la rama trabajada a 'dev', de esta forma los conflictos quedar\u00e1n eliminados con el primer 'rebase' y se podr\u00e1 seguir trabajando en la funcionalidad. Una vez se hayan solucionado los conflictos, se subir\u00e1 la rama de funcionalidad/defecto al repositorio remoto.\n\n\nUna vez el c\u00f3digo quede de la forma correcta, se realizar\u00e1 un pull request a 'dev' o a la funcionalidad padre. Se realizar\u00e1n pruebas cruzadas del c\u00f3digo implementado por lo que se espera que el c\u00f3digo se haya probado de la forma que se considere adecuada.\n\n\nCommits\n\u00b6\n\n\nEl formato de los commits se encuentra en la siguiente \nsecci\u00f3n\n.\n\n\nLa frecuencia de commits ser\u00e1 de un commit por d\u00eda trabajado como m\u00ednimo, pudiendo realizarse m\u00e1s si se considera necesario (por ejemplo, correcci\u00f3n de errores o mejoras de c\u00f3digo).\n\n\nPruebas cruzadas\n\u00b6\n\n\nCon el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.\n\n\nLas pruebas cruzadas se aplicar\u00e1n a ramas subidas al repositorio remoto que contengan un pull request. Las personas que no realicen tareas o hayan terminado la suya podr\u00e1n realizar estas pruebas. Si se detecta un error, se debe informar al desarrollador correspondiente del error, detallando cuanto m\u00e1s mejor sobre la generaci\u00f3n del error.",
+            "location": "/metodologia/", 
+            "text": "En esta p\u00e1gina se detallar\u00e1 las herramientas usadas, procesos de construcci\u00f3n del software ...\n\n\nHerramientas\n\n\nPlanificaci\u00f3n\n\n\n\n\nTrello: Creaci\u00f3n, asignaci\u00f3n y comprobaci\u00f3n del estado de las tareas.\n\n\nToggl: Control del tiempo aplicado a las tareas de Trello.\n\n\nSlack: Comunicaci\u00f3n informal escrita.\n\n\nSkype: Comunicaci\u00f3n informal y formal oral.\n\n\n\n\nIntegraci\u00f3n\n\n\n\n\nSonar: Comprobaci\u00f3n de pruebas en el c\u00f3digo.\n\n\nIcinga: Monitorizaci\u00f3n de la red.\n\n\nTravis: Integraci\u00f3n continua.\n\n\n\n\nDesarrollo\n\n\n\n\nGithub: Gesti\u00f3n del control de versiones.\n\n\nHeroku: Despliegue del producto.\n\n\n\n\nGesti\u00f3n del c\u00f3digo\n\n\nLa herramienta de gesti\u00f3n del c\u00f3digo a utilizar ser\u00e1 GitHub.\n\n\nRamas\n\n\nLa gesti\u00f3n de las ramas se realizar\u00e1 de la siguiente forma. Primero, se dispondr\u00e1 de 'master', que almacenar\u00e1 un c\u00f3digo que se considera como listo para despliegue, por lo que pasar\u00e1 pruebas funcionales, de sistema y de casos de uso. Despu\u00e9s, se tendr\u00e1 la rama de 'dev', que puede contener c\u00f3digo con nuevas funcionalidades, pero pueden no estar probadas completamente y pueden dar errores. \n\n\nEl progreso de una versi\u00f3n a otra se realizar\u00e1 de la siguiente manera. Se dispondr\u00e1n de ramas de defectos y de casos de uso. Estas ramas se trabajar\u00e1n realizando un 'branch' desde 'dev'. Una vez se considere el c\u00f3digo como terminado, se realizar\u00e1 inicialmente un 'pull' de 'dev' y 'rebase' desde 'dev' a la nueva funcionalidad de forma local (es decir, sin subir el c\u00f3digo). Se realizar\u00e1 el proceso contrario, realizando un 'rebase' desde la rama trabajada a 'dev', de esta forma los conflictos quedar\u00e1n eliminados con el primer 'rebase' y se podr\u00e1 seguir trabajando en la funcionalidad. Una vez se hayan solucionado los conflictos, se subir\u00e1 la rama de funcionalidad/defecto al repositorio remoto.\n\n\nUna vez el c\u00f3digo quede de la forma correcta, se realizar\u00e1 un pull request a 'dev' o a la funcionalidad padre. Se realizar\u00e1n pruebas cruzadas del c\u00f3digo implementado por lo que se espera que el c\u00f3digo se haya probado de la forma que se considere adecuada.\n\n\nCommits\n\n\nEl formato de los commits se encuentra en la siguiente \nsecci\u00f3n\n.\n\n\nLa frecuencia de commits ser\u00e1 de un commit por d\u00eda trabajado como m\u00ednimo, pudiendo realizarse m\u00e1s si se considera necesario (por ejemplo, correcci\u00f3n de errores o mejoras de c\u00f3digo).\n\n\nPruebas cruzadas\n\n\nCon el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.\n\n\nLas pruebas cruzadas se aplicar\u00e1n a ramas subidas al repositorio remoto que contengan un pull request. Las personas que no realicen tareas o hayan terminado la suya podr\u00e1n realizar estas pruebas. Si se detecta un error, se debe informar al desarrollador correspondiente del error, detallando cuanto m\u00e1s mejor sobre la generaci\u00f3n del error.", 
             "title": "Metodolog\u00eda"
-        },
+        }, 
         {
-            "location": "/metodologia/#herramientas",
-            "text": "",
+            "location": "/metodologia/#herramientas", 
+            "text": "", 
             "title": "Herramientas"
-        },
+        }, 
         {
-            "location": "/metodologia/#planificacion",
-            "text": "Trello: Creaci\u00f3n, asignaci\u00f3n y comprobaci\u00f3n del estado de las tareas.  Toggl: Control del tiempo aplicado a las tareas de Trello.  Slack: Comunicaci\u00f3n informal escrita.  Skype: Comunicaci\u00f3n informal y formal oral.",
+            "location": "/metodologia/#planificacion", 
+            "text": "Trello: Creaci\u00f3n, asignaci\u00f3n y comprobaci\u00f3n del estado de las tareas.  Toggl: Control del tiempo aplicado a las tareas de Trello.  Slack: Comunicaci\u00f3n informal escrita.  Skype: Comunicaci\u00f3n informal y formal oral.", 
             "title": "Planificaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/metodologia/#integracion",
-            "text": "Sonar: Comprobaci\u00f3n de pruebas en el c\u00f3digo.  Icinga: Monitorizaci\u00f3n de la red.  Travis: Integraci\u00f3n continua.",
+            "location": "/metodologia/#integracion", 
+            "text": "Sonar: Comprobaci\u00f3n de pruebas en el c\u00f3digo.  Icinga: Monitorizaci\u00f3n de la red.  Travis: Integraci\u00f3n continua.", 
             "title": "Integraci\u00f3n"
-        },
+        }, 
         {
-            "location": "/metodologia/#desarrollo",
-            "text": "Github: Gesti\u00f3n del control de versiones.  Heroku: Despliegue del producto.",
+            "location": "/metodologia/#desarrollo", 
+            "text": "Github: Gesti\u00f3n del control de versiones.  Heroku: Despliegue del producto.", 
             "title": "Desarrollo"
-        },
+        }, 
         {
-            "location": "/metodologia/#gestion-del-codigo",
-            "text": "La herramienta de gesti\u00f3n del c\u00f3digo a utilizar ser\u00e1 GitHub.",
+            "location": "/metodologia/#gestion-del-codigo", 
+            "text": "La herramienta de gesti\u00f3n del c\u00f3digo a utilizar ser\u00e1 GitHub.", 
             "title": "Gesti\u00f3n del c\u00f3digo"
-        },
+        }, 
         {
-            "location": "/metodologia/#ramas",
-            "text": "La gesti\u00f3n de las ramas se realizar\u00e1 de la siguiente forma. Primero, se dispondr\u00e1 de 'master', que almacenar\u00e1 un c\u00f3digo que se considera como listo para despliegue, por lo que pasar\u00e1 pruebas funcionales, de sistema y de casos de uso. Despu\u00e9s, se tendr\u00e1 la rama de 'dev', que puede contener c\u00f3digo con nuevas funcionalidades, pero pueden no estar probadas completamente y pueden dar errores.   El progreso de una versi\u00f3n a otra se realizar\u00e1 de la siguiente manera. Se dispondr\u00e1n de ramas de defectos y de casos de uso. Estas ramas se trabajar\u00e1n realizando un 'branch' desde 'dev'. Una vez se considere el c\u00f3digo como terminado, se realizar\u00e1 inicialmente un 'pull' de 'dev' y 'rebase' desde 'dev' a la nueva funcionalidad de forma local (es decir, sin subir el c\u00f3digo). Se realizar\u00e1 el proceso contrario, realizando un 'rebase' desde la rama trabajada a 'dev', de esta forma los conflictos quedar\u00e1n eliminados con el primer 'rebase' y se podr\u00e1 seguir trabajando en la funcionalidad. Una vez se hayan solucionado los conflictos, se subir\u00e1 la rama de funcionalidad/defecto al repositorio remoto.  Una vez el c\u00f3digo quede de la forma correcta, se realizar\u00e1 un pull request a 'dev' o a la funcionalidad padre. Se realizar\u00e1n pruebas cruzadas del c\u00f3digo implementado por lo que se espera que el c\u00f3digo se haya probado de la forma que se considere adecuada.",
+            "location": "/metodologia/#ramas", 
+            "text": "La gesti\u00f3n de las ramas se realizar\u00e1 de la siguiente forma. Primero, se dispondr\u00e1 de 'master', que almacenar\u00e1 un c\u00f3digo que se considera como listo para despliegue, por lo que pasar\u00e1 pruebas funcionales, de sistema y de casos de uso. Despu\u00e9s, se tendr\u00e1 la rama de 'dev', que puede contener c\u00f3digo con nuevas funcionalidades, pero pueden no estar probadas completamente y pueden dar errores.   El progreso de una versi\u00f3n a otra se realizar\u00e1 de la siguiente manera. Se dispondr\u00e1n de ramas de defectos y de casos de uso. Estas ramas se trabajar\u00e1n realizando un 'branch' desde 'dev'. Una vez se considere el c\u00f3digo como terminado, se realizar\u00e1 inicialmente un 'pull' de 'dev' y 'rebase' desde 'dev' a la nueva funcionalidad de forma local (es decir, sin subir el c\u00f3digo). Se realizar\u00e1 el proceso contrario, realizando un 'rebase' desde la rama trabajada a 'dev', de esta forma los conflictos quedar\u00e1n eliminados con el primer 'rebase' y se podr\u00e1 seguir trabajando en la funcionalidad. Una vez se hayan solucionado los conflictos, se subir\u00e1 la rama de funcionalidad/defecto al repositorio remoto.  Una vez el c\u00f3digo quede de la forma correcta, se realizar\u00e1 un pull request a 'dev' o a la funcionalidad padre. Se realizar\u00e1n pruebas cruzadas del c\u00f3digo implementado por lo que se espera que el c\u00f3digo se haya probado de la forma que se considere adecuada.", 
             "title": "Ramas"
-        },
+        }, 
         {
-            "location": "/metodologia/#commits",
-            "text": "El formato de los commits se encuentra en la siguiente  secci\u00f3n .  La frecuencia de commits ser\u00e1 de un commit por d\u00eda trabajado como m\u00ednimo, pudiendo realizarse m\u00e1s si se considera necesario (por ejemplo, correcci\u00f3n de errores o mejoras de c\u00f3digo).",
+            "location": "/metodologia/#commits", 
+            "text": "El formato de los commits se encuentra en la siguiente  secci\u00f3n .  La frecuencia de commits ser\u00e1 de un commit por d\u00eda trabajado como m\u00ednimo, pudiendo realizarse m\u00e1s si se considera necesario (por ejemplo, correcci\u00f3n de errores o mejoras de c\u00f3digo).", 
             "title": "Commits"
-        },
+        }, 
         {
-            "location": "/metodologia/#pruebas-cruzadas",
-            "text": "Con el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.  Las pruebas cruzadas se aplicar\u00e1n a ramas subidas al repositorio remoto que contengan un pull request. Las personas que no realicen tareas o hayan terminado la suya podr\u00e1n realizar estas pruebas. Si se detecta un error, se debe informar al desarrollador correspondiente del error, detallando cuanto m\u00e1s mejor sobre la generaci\u00f3n del error.",
+            "location": "/metodologia/#pruebas-cruzadas", 
+            "text": "Con el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.  Las pruebas cruzadas se aplicar\u00e1n a ramas subidas al repositorio remoto que contengan un pull request. Las personas que no realicen tareas o hayan terminado la suya podr\u00e1n realizar estas pruebas. Si se detecta un error, se debe informar al desarrollador correspondiente del error, detallando cuanto m\u00e1s mejor sobre la generaci\u00f3n del error.", 
             "title": "Pruebas cruzadas"
-        },
+        }, 
         {
-            "location": "/organizacion/",
-            "text": "Aqui se pondr\u00e1n los diferentes datos relacionados con la organizaci\u00f3n del grupo.\n\n\nRoles\n\u00b6\n\n\n\n\nSecretario (S): Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez\n\n\nProject Manager (PM): Daniel Hidalgo S\u00e1nchez Noriega\n\n\nPresentador (P): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nCoordinador del grupo (CP): Enrique Bozada M\u00e1rquez\n\n\nEncargado de gesti\u00f3n del c\u00f3digo (EGC): Alejandro Gallego Segura\n\n\nInvestigador de mercado (IM): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nEncargado de recursos humanos (RRHH): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nDise\u00f1adora UX (UX): Mar\u00eda Rom\u00e1n Bayar\n\n\nEncargado de QA (QA): Mohammed Alaoui Mhammedi\n\n\nEquipo de trabajo M\u00f3vil:\n\n\nMar\u00eda Rom\u00e1n Bayar\n\n\nJulio de la Olla M\u00e1rquez\n\n\n\u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nAnastasio Rafael Le\u00f3n Gonz\u00e1lez\n\n\n\n\n\n\nEquipo de trabajo Web+API:\n\n\nIgnacio Jos\u00e9 Al\u00e9s L\u00f3pez\n\n\nMohammed Alaoui Mhammedi\n\n\nAlejandro Gallego Segura\n\n\nEnrique Bozada M\u00e1rquez\n\n\nDaniel Hidalgo S\u00e1nchez Noriega\n\n\nDaniel Lozano Portillo\n\n\nRafael Gonz\u00e1lez Villarreal\n\n\nDaniel Rodr\u00edguez Aguilar",
+            "location": "/organizacion/", 
+            "text": "Aqui se pondr\u00e1n los diferentes datos relacionados con la organizaci\u00f3n del grupo.\n\n\nRoles\n\n\n\n\nSecretario (S): Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez\n\n\nProject Manager (PM): Daniel Hidalgo S\u00e1nchez Noriega\n\n\nPresentador (P): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nCoordinador del grupo (CP): Enrique Bozada M\u00e1rquez\n\n\nEncargado de gesti\u00f3n del c\u00f3digo (EGC): Alejandro Gallego Segura\n\n\nInvestigador de mercado (IM): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nEncargado de recursos humanos (RRHH): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nDise\u00f1adora UX (UX): Mar\u00eda Rom\u00e1n Bayar\n\n\nEncargado de QA (QA): Mohammed Alaoui Mhammedi\n\n\nEquipo de trabajo M\u00f3vil:\n\n\nMar\u00eda Rom\u00e1n Bayar\n\n\nJulio de la Olla M\u00e1rquez\n\n\n\u00c1lvaro Gonz\u00e1lez Jim\u00e9nez\n\n\nAnastasio Rafael Le\u00f3n Gonz\u00e1lez\n\n\n\n\n\n\nEquipo de trabajo Web+API:\n\n\nIgnacio Jos\u00e9 Al\u00e9s L\u00f3pez\n\n\nMohammed Alaoui Mhammedi\n\n\nAlejandro Gallego Segura\n\n\nEnrique Bozada M\u00e1rquez\n\n\nDaniel Hidalgo S\u00e1nchez Noriega\n\n\nDaniel Lozano Portillo\n\n\nRafael Gonz\u00e1lez Villarreal\n\n\nDaniel Rodr\u00edguez Aguilar", 
             "title": "Organizaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/organizacion/#roles",
-            "text": "Secretario (S): Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez  Project Manager (PM): Daniel Hidalgo S\u00e1nchez Noriega  Presentador (P): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Coordinador del grupo (CP): Enrique Bozada M\u00e1rquez  Encargado de gesti\u00f3n del c\u00f3digo (EGC): Alejandro Gallego Segura  Investigador de mercado (IM): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Encargado de recursos humanos (RRHH): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Dise\u00f1adora UX (UX): Mar\u00eda Rom\u00e1n Bayar  Encargado de QA (QA): Mohammed Alaoui Mhammedi  Equipo de trabajo M\u00f3vil:  Mar\u00eda Rom\u00e1n Bayar  Julio de la Olla M\u00e1rquez  \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Anastasio Rafael Le\u00f3n Gonz\u00e1lez    Equipo de trabajo Web+API:  Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez  Mohammed Alaoui Mhammedi  Alejandro Gallego Segura  Enrique Bozada M\u00e1rquez  Daniel Hidalgo S\u00e1nchez Noriega  Daniel Lozano Portillo  Rafael Gonz\u00e1lez Villarreal  Daniel Rodr\u00edguez Aguilar",
+            "location": "/organizacion/#roles", 
+            "text": "Secretario (S): Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez  Project Manager (PM): Daniel Hidalgo S\u00e1nchez Noriega  Presentador (P): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Coordinador del grupo (CP): Enrique Bozada M\u00e1rquez  Encargado de gesti\u00f3n del c\u00f3digo (EGC): Alejandro Gallego Segura  Investigador de mercado (IM): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Encargado de recursos humanos (RRHH): \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Dise\u00f1adora UX (UX): Mar\u00eda Rom\u00e1n Bayar  Encargado de QA (QA): Mohammed Alaoui Mhammedi  Equipo de trabajo M\u00f3vil:  Mar\u00eda Rom\u00e1n Bayar  Julio de la Olla M\u00e1rquez  \u00c1lvaro Gonz\u00e1lez Jim\u00e9nez  Anastasio Rafael Le\u00f3n Gonz\u00e1lez    Equipo de trabajo Web+API:  Ignacio Jos\u00e9 Al\u00e9s L\u00f3pez  Mohammed Alaoui Mhammedi  Alejandro Gallego Segura  Enrique Bozada M\u00e1rquez  Daniel Hidalgo S\u00e1nchez Noriega  Daniel Lozano Portillo  Rafael Gonz\u00e1lez Villarreal  Daniel Rodr\u00edguez Aguilar", 
             "title": "Roles"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M01 feedback/",
-            "text": "\u00a1Todav\u00eda no se tiene moderador!\n\n\nPresentaci\u00f3n 1\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\n\"Creo\", nunca usar. Todas las hip\u00f3tesis deben estar suplidas.\n\n\n\u00a1\u00a1\u00a1\u00a1\u00a1\u00a116:9 NO, usar 4:3!!!!!!!\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nGifs confusos, deben saberse poner y usar. En la primera diapositiva, la idea era introducir pero no se ha explicado. Se tiene que explicar claramente por qu\u00e9 est\u00e1 eso ah\u00ed.\n\n\nLlamar la atenci\u00f3n vale, pero no dejarle confuso con respecto a lo que has mostrado. La idea es explicar el contexto, mostrar un caso. \n\n\nSe puede llamar la atenci\u00f3n demasiado, no comentar durante la presentaci\u00f3n.\n\n\n\u00cdndice debe tener una estructura clara, no s\u00f3lo items sueltos. Presentaci\u00f3n de lo que se va a haber con una conexi\u00f3n entre cada apartado, \"Why\", \"What\", \"How\", ... No es necesario detallarlo, con un nivel mayor de abstracci\u00f3n.\n\n\n\"Is it legal?\" no queda bien, da una impresi\u00f3n barriobajera. Mejorar la presentaci\u00f3n del tema \"Implicaciones legales\".\n\n\nMockups no se ven. Hacer zoom o poner menos por diapositiva. Texto no se lee.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\n\"Legal salvo casa particular\". \u00bfEs eso suficiente para demostrar que la aplicaci\u00f3n es legal? \u00bfPropiedad privada, no pasa nada?. \n\n\nMVP debe ser m\u00ednimo, \"sistema de puntos\" puede ser opcional porque aunque diferencia la aplicaci\u00f3n, es un aspecto que no hace. \n\n\nProfesores son los clientes, \u00bfd\u00f3nde est\u00e1 el aliciente? Se debe explicar correctamente todos los usuarios de la aplicaci\u00f3n y realizar estad\u00edsticas de todos, nunca usar \"creos\".\n\n\nMostrar los competidores, explicar los servicios que ofrecen y c\u00f3mo tu aplicaci\u00f3n se diferencia. No consiste en mostrar \u00fanicamente lo malo y punto.\n\n\nCompetidores en m\u00f3vil y web, explicar por qu\u00e9 tu aplicaci\u00f3n es mejor en ambos aspectos. Que est\u00e9 en el m\u00f3vil no implica que no haya competencia.",
+            "location": "/feedbacks/02/02-M01 feedback/", 
+            "text": "\u00a1Todav\u00eda no se tiene moderador!\n\n\nPresentaci\u00f3n 1\n\n\nPresentaci\u00f3n\n\n\n\n\n\"Creo\", nunca usar. Todas las hip\u00f3tesis deben estar suplidas.\n\n\n\u00a1\u00a1\u00a1\u00a1\u00a1\u00a116:9 NO, usar 4:3!!!!!!!\n\n\n\n\nContenido\n\n\n\n\nGifs confusos, deben saberse poner y usar. En la primera diapositiva, la idea era introducir pero no se ha explicado. Se tiene que explicar claramente por qu\u00e9 est\u00e1 eso ah\u00ed.\n\n\nLlamar la atenci\u00f3n vale, pero no dejarle confuso con respecto a lo que has mostrado. La idea es explicar el contexto, mostrar un caso. \n\n\nSe puede llamar la atenci\u00f3n demasiado, no comentar durante la presentaci\u00f3n.\n\n\n\u00cdndice debe tener una estructura clara, no s\u00f3lo items sueltos. Presentaci\u00f3n de lo que se va a haber con una conexi\u00f3n entre cada apartado, \"Why\", \"What\", \"How\", ... No es necesario detallarlo, con un nivel mayor de abstracci\u00f3n.\n\n\n\"Is it legal?\" no queda bien, da una impresi\u00f3n barriobajera. Mejorar la presentaci\u00f3n del tema \"Implicaciones legales\".\n\n\nMockups no se ven. Hacer zoom o poner menos por diapositiva. Texto no se lee.\n\n\n\n\nNegocio\n\n\n\n\n\"Legal salvo casa particular\". \u00bfEs eso suficiente para demostrar que la aplicaci\u00f3n es legal? \u00bfPropiedad privada, no pasa nada?. \n\n\nMVP debe ser m\u00ednimo, \"sistema de puntos\" puede ser opcional porque aunque diferencia la aplicaci\u00f3n, es un aspecto que no hace. \n\n\nProfesores son los clientes, \u00bfd\u00f3nde est\u00e1 el aliciente? Se debe explicar correctamente todos los usuarios de la aplicaci\u00f3n y realizar estad\u00edsticas de todos, nunca usar \"creos\".\n\n\nMostrar los competidores, explicar los servicios que ofrecen y c\u00f3mo tu aplicaci\u00f3n se diferencia. No consiste en mostrar \u00fanicamente lo malo y punto.\n\n\nCompetidores en m\u00f3vil y web, explicar por qu\u00e9 tu aplicaci\u00f3n es mejor en ambos aspectos. Que est\u00e9 en el m\u00f3vil no implica que no haya competencia.", 
             "title": "02-M01 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M01 feedback/#presentacion-1",
-            "text": "",
+            "location": "/feedbacks/02/02-M01 feedback/#presentacion-1", 
+            "text": "", 
             "title": "Presentaci\u00f3n 1"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M01 feedback/#presentacion",
-            "text": "\"Creo\", nunca usar. Todas las hip\u00f3tesis deben estar suplidas.  \u00a1\u00a1\u00a1\u00a1\u00a1\u00a116:9 NO, usar 4:3!!!!!!!",
+            "location": "/feedbacks/02/02-M01 feedback/#presentacion", 
+            "text": "\"Creo\", nunca usar. Todas las hip\u00f3tesis deben estar suplidas.  \u00a1\u00a1\u00a1\u00a1\u00a1\u00a116:9 NO, usar 4:3!!!!!!!", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M01 feedback/#contenido",
-            "text": "Gifs confusos, deben saberse poner y usar. En la primera diapositiva, la idea era introducir pero no se ha explicado. Se tiene que explicar claramente por qu\u00e9 est\u00e1 eso ah\u00ed.  Llamar la atenci\u00f3n vale, pero no dejarle confuso con respecto a lo que has mostrado. La idea es explicar el contexto, mostrar un caso.   Se puede llamar la atenci\u00f3n demasiado, no comentar durante la presentaci\u00f3n.  \u00cdndice debe tener una estructura clara, no s\u00f3lo items sueltos. Presentaci\u00f3n de lo que se va a haber con una conexi\u00f3n entre cada apartado, \"Why\", \"What\", \"How\", ... No es necesario detallarlo, con un nivel mayor de abstracci\u00f3n.  \"Is it legal?\" no queda bien, da una impresi\u00f3n barriobajera. Mejorar la presentaci\u00f3n del tema \"Implicaciones legales\".  Mockups no se ven. Hacer zoom o poner menos por diapositiva. Texto no se lee.",
+            "location": "/feedbacks/02/02-M01 feedback/#contenido", 
+            "text": "Gifs confusos, deben saberse poner y usar. En la primera diapositiva, la idea era introducir pero no se ha explicado. Se tiene que explicar claramente por qu\u00e9 est\u00e1 eso ah\u00ed.  Llamar la atenci\u00f3n vale, pero no dejarle confuso con respecto a lo que has mostrado. La idea es explicar el contexto, mostrar un caso.   Se puede llamar la atenci\u00f3n demasiado, no comentar durante la presentaci\u00f3n.  \u00cdndice debe tener una estructura clara, no s\u00f3lo items sueltos. Presentaci\u00f3n de lo que se va a haber con una conexi\u00f3n entre cada apartado, \"Why\", \"What\", \"How\", ... No es necesario detallarlo, con un nivel mayor de abstracci\u00f3n.  \"Is it legal?\" no queda bien, da una impresi\u00f3n barriobajera. Mejorar la presentaci\u00f3n del tema \"Implicaciones legales\".  Mockups no se ven. Hacer zoom o poner menos por diapositiva. Texto no se lee.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M01 feedback/#negocio",
-            "text": "\"Legal salvo casa particular\". \u00bfEs eso suficiente para demostrar que la aplicaci\u00f3n es legal? \u00bfPropiedad privada, no pasa nada?.   MVP debe ser m\u00ednimo, \"sistema de puntos\" puede ser opcional porque aunque diferencia la aplicaci\u00f3n, es un aspecto que no hace.   Profesores son los clientes, \u00bfd\u00f3nde est\u00e1 el aliciente? Se debe explicar correctamente todos los usuarios de la aplicaci\u00f3n y realizar estad\u00edsticas de todos, nunca usar \"creos\".  Mostrar los competidores, explicar los servicios que ofrecen y c\u00f3mo tu aplicaci\u00f3n se diferencia. No consiste en mostrar \u00fanicamente lo malo y punto.  Competidores en m\u00f3vil y web, explicar por qu\u00e9 tu aplicaci\u00f3n es mejor en ambos aspectos. Que est\u00e9 en el m\u00f3vil no implica que no haya competencia.",
+            "location": "/feedbacks/02/02-M01 feedback/#negocio", 
+            "text": "\"Legal salvo casa particular\". \u00bfEs eso suficiente para demostrar que la aplicaci\u00f3n es legal? \u00bfPropiedad privada, no pasa nada?.   MVP debe ser m\u00ednimo, \"sistema de puntos\" puede ser opcional porque aunque diferencia la aplicaci\u00f3n, es un aspecto que no hace.   Profesores son los clientes, \u00bfd\u00f3nde est\u00e1 el aliciente? Se debe explicar correctamente todos los usuarios de la aplicaci\u00f3n y realizar estad\u00edsticas de todos, nunca usar \"creos\".  Mostrar los competidores, explicar los servicios que ofrecen y c\u00f3mo tu aplicaci\u00f3n se diferencia. No consiste en mostrar \u00fanicamente lo malo y punto.  Competidores en m\u00f3vil y web, explicar por qu\u00e9 tu aplicaci\u00f3n es mejor en ambos aspectos. Que est\u00e9 en el m\u00f3vil no implica que no haya competencia.", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M02 feedback/",
-            "text": "Sistema para indicar el tiempo restante, muy muy buena idea.\n\n\nPresentaci\u00f3n 2\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\nStarting point m\u00e1s desarrollado.\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nFaltan fotos de cada persona. \n\n\nDesarrolladores no, ingenierios inform\u00e1ticos (al menos nos lo dijeron en la tarde).\n\n\nFaltar\u00eda incluir los mockups. Se tienen, pero estar\u00eda bien tenerlas en la diapositiva.\n\n\nMetodolog\u00eda de trabajo puede que sea demasiado.\n\n\nNo hace falta explicar cada herramienta, tecnolog\u00eda o metodolog\u00eda.\n\n\n\u00cdndice demasiado largo, 11 puntos es demasiado. Se debe intentar aglutinar elementos.\n\n\nIm\u00e1genes pueden quedar demasiado \"en poco foco\".\n\n\nTextos deben estar a la derecha, im\u00e1genes, de apoyo, a la izquierda (idea, leemos de izquierda a derecha, debemos seguir ese formato). Igual pasa de abajo a arriba.\n\n\nLayouts, imagen grande, imagen con definici\u00f3n abajo, texto a derecha y im\u00e1genes a la izquierda.\n\n\nEnumeraciones deben estar para enumerar, detallar cosas pueden hacerse con texto.\n\n\n2 gr\u00e1ficas a la vez, no deber\u00eda hacerse. Cada diapositiva debe tener poca informaci\u00f3n y \u00a1transmitir una idea!.\n\n\nConsistencia en los colores de las diapositivas. Lo bueno en un color, lo malo en otro (a nuestro punto de vista).\n\n\nMeter todo el presuesto, m\u00e1s desglosado\n. Al menos una divisi\u00f3n m\u00e1s, personal, amortizaci\u00f3n...\n\n\nIndicar las escalas de las estad\u00edsticas. Asegurarse que los n\u00fameros est\u00e1n bien, quizas a\u00f1adiendo nuevas escalas o indicadores.\n\n\nN\u00fameros en ingl\u00e9s\n, la presentaci\u00f3n est\u00e1 en ingl\u00e9s despu\u00e9s de todo.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nMVP demasiado grande, se trata de lo m\u00ednimo posible",
+            "location": "/feedbacks/02/02-M02 feedback/", 
+            "text": "Sistema para indicar el tiempo restante, muy muy buena idea.\n\n\nPresentaci\u00f3n 2\n\n\nPresentaci\u00f3n\n\n\n\n\nStarting point m\u00e1s desarrollado.\n\n\n\n\nContenido\n\n\n\n\nFaltan fotos de cada persona. \n\n\nDesarrolladores no, ingenierios inform\u00e1ticos (al menos nos lo dijeron en la tarde).\n\n\nFaltar\u00eda incluir los mockups. Se tienen, pero estar\u00eda bien tenerlas en la diapositiva.\n\n\nMetodolog\u00eda de trabajo puede que sea demasiado.\n\n\nNo hace falta explicar cada herramienta, tecnolog\u00eda o metodolog\u00eda.\n\n\n\u00cdndice demasiado largo, 11 puntos es demasiado. Se debe intentar aglutinar elementos.\n\n\nIm\u00e1genes pueden quedar demasiado \"en poco foco\".\n\n\nTextos deben estar a la derecha, im\u00e1genes, de apoyo, a la izquierda (idea, leemos de izquierda a derecha, debemos seguir ese formato). Igual pasa de abajo a arriba.\n\n\nLayouts, imagen grande, imagen con definici\u00f3n abajo, texto a derecha y im\u00e1genes a la izquierda.\n\n\nEnumeraciones deben estar para enumerar, detallar cosas pueden hacerse con texto.\n\n\n2 gr\u00e1ficas a la vez, no deber\u00eda hacerse. Cada diapositiva debe tener poca informaci\u00f3n y \u00a1transmitir una idea!.\n\n\nConsistencia en los colores de las diapositivas. Lo bueno en un color, lo malo en otro (a nuestro punto de vista).\n\n\nMeter todo el presuesto, m\u00e1s desglosado\n. Al menos una divisi\u00f3n m\u00e1s, personal, amortizaci\u00f3n...\n\n\nIndicar las escalas de las estad\u00edsticas. Asegurarse que los n\u00fameros est\u00e1n bien, quizas a\u00f1adiendo nuevas escalas o indicadores.\n\n\nN\u00fameros en ingl\u00e9s\n, la presentaci\u00f3n est\u00e1 en ingl\u00e9s despu\u00e9s de todo.\n\n\n\n\nNegocio\n\n\n\n\nMVP demasiado grande, se trata de lo m\u00ednimo posible", 
             "title": "02-M02 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M02 feedback/#presentacion-2",
-            "text": "",
+            "location": "/feedbacks/02/02-M02 feedback/#presentacion-2", 
+            "text": "", 
             "title": "Presentaci\u00f3n 2"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M02 feedback/#presentacion",
-            "text": "Starting point m\u00e1s desarrollado.",
+            "location": "/feedbacks/02/02-M02 feedback/#presentacion", 
+            "text": "Starting point m\u00e1s desarrollado.", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M02 feedback/#contenido",
-            "text": "Faltan fotos de cada persona.   Desarrolladores no, ingenierios inform\u00e1ticos (al menos nos lo dijeron en la tarde).  Faltar\u00eda incluir los mockups. Se tienen, pero estar\u00eda bien tenerlas en la diapositiva.  Metodolog\u00eda de trabajo puede que sea demasiado.  No hace falta explicar cada herramienta, tecnolog\u00eda o metodolog\u00eda.  \u00cdndice demasiado largo, 11 puntos es demasiado. Se debe intentar aglutinar elementos.  Im\u00e1genes pueden quedar demasiado \"en poco foco\".  Textos deben estar a la derecha, im\u00e1genes, de apoyo, a la izquierda (idea, leemos de izquierda a derecha, debemos seguir ese formato). Igual pasa de abajo a arriba.  Layouts, imagen grande, imagen con definici\u00f3n abajo, texto a derecha y im\u00e1genes a la izquierda.  Enumeraciones deben estar para enumerar, detallar cosas pueden hacerse con texto.  2 gr\u00e1ficas a la vez, no deber\u00eda hacerse. Cada diapositiva debe tener poca informaci\u00f3n y \u00a1transmitir una idea!.  Consistencia en los colores de las diapositivas. Lo bueno en un color, lo malo en otro (a nuestro punto de vista).  Meter todo el presuesto, m\u00e1s desglosado . Al menos una divisi\u00f3n m\u00e1s, personal, amortizaci\u00f3n...  Indicar las escalas de las estad\u00edsticas. Asegurarse que los n\u00fameros est\u00e1n bien, quizas a\u00f1adiendo nuevas escalas o indicadores.  N\u00fameros en ingl\u00e9s , la presentaci\u00f3n est\u00e1 en ingl\u00e9s despu\u00e9s de todo.",
+            "location": "/feedbacks/02/02-M02 feedback/#contenido", 
+            "text": "Faltan fotos de cada persona.   Desarrolladores no, ingenierios inform\u00e1ticos (al menos nos lo dijeron en la tarde).  Faltar\u00eda incluir los mockups. Se tienen, pero estar\u00eda bien tenerlas en la diapositiva.  Metodolog\u00eda de trabajo puede que sea demasiado.  No hace falta explicar cada herramienta, tecnolog\u00eda o metodolog\u00eda.  \u00cdndice demasiado largo, 11 puntos es demasiado. Se debe intentar aglutinar elementos.  Im\u00e1genes pueden quedar demasiado \"en poco foco\".  Textos deben estar a la derecha, im\u00e1genes, de apoyo, a la izquierda (idea, leemos de izquierda a derecha, debemos seguir ese formato). Igual pasa de abajo a arriba.  Layouts, imagen grande, imagen con definici\u00f3n abajo, texto a derecha y im\u00e1genes a la izquierda.  Enumeraciones deben estar para enumerar, detallar cosas pueden hacerse con texto.  2 gr\u00e1ficas a la vez, no deber\u00eda hacerse. Cada diapositiva debe tener poca informaci\u00f3n y \u00a1transmitir una idea!.  Consistencia en los colores de las diapositivas. Lo bueno en un color, lo malo en otro (a nuestro punto de vista).  Meter todo el presuesto, m\u00e1s desglosado . Al menos una divisi\u00f3n m\u00e1s, personal, amortizaci\u00f3n...  Indicar las escalas de las estad\u00edsticas. Asegurarse que los n\u00fameros est\u00e1n bien, quizas a\u00f1adiendo nuevas escalas o indicadores.  N\u00fameros en ingl\u00e9s , la presentaci\u00f3n est\u00e1 en ingl\u00e9s despu\u00e9s de todo.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M02 feedback/#negocio",
-            "text": "MVP demasiado grande, se trata de lo m\u00ednimo posible",
+            "location": "/feedbacks/02/02-M02 feedback/#negocio", 
+            "text": "MVP demasiado grande, se trata de lo m\u00ednimo posible", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M03 feedback/",
-            "text": "Presentaci\u00f3n 3\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\nUn ejemplo de uso est\u00e1 bien visto.\n\n\nHacer una pregunta, igual de buena idea. Aunque est\u00e1 el riesgo de que te respondan, tema conocido por todos y que invite a responder.\n\n\nCronometrar el tiempo por diapositiva, intentar siempre que dure 1 minuto.\n\n\nDAFOs est\u00e1n bien vistos, intentarlo porque queda bien. Deben estar bien explicado, no sacar argumentos poco coherentes y r\u00e1pidos de explicar (concisos).\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nReforzar la explicaci\u00f3n con el apoyo visual, que alimenten lo comentado.\n\n\nMockups deben ser muy visibles, a\u00f1adir zoom y otras posibilidades. Es posible que uno por diapositiva sea suficiente, pero debe intentar verse.\n\n\nEs posible que haya demasiado poco texto. Enumerados son \u00fatiles.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nPresupuesto falta, desglosado por secciones.\n\n\nPlanificaci\u00f3n del Sprint debe estar tambi\u00e9n. Determinar qu\u00e9 se va a hacer la semana que viene (indicar que al menos est\u00e1 en preparaci\u00f3n).\n\n\nSistema de opiniones debe poder ser accesible por los usuarios de la aplicaci\u00f3n. Ejemplo, los animales no van a poder comunicar el estado del cuidado.",
+            "location": "/feedbacks/02/02-M03 feedback/", 
+            "text": "Presentaci\u00f3n 3\n\n\nPresentaci\u00f3n\n\n\n\n\nUn ejemplo de uso est\u00e1 bien visto.\n\n\nHacer una pregunta, igual de buena idea. Aunque est\u00e1 el riesgo de que te respondan, tema conocido por todos y que invite a responder.\n\n\nCronometrar el tiempo por diapositiva, intentar siempre que dure 1 minuto.\n\n\nDAFOs est\u00e1n bien vistos, intentarlo porque queda bien. Deben estar bien explicado, no sacar argumentos poco coherentes y r\u00e1pidos de explicar (concisos).\n\n\n\n\nContenido\n\n\n\n\nReforzar la explicaci\u00f3n con el apoyo visual, que alimenten lo comentado.\n\n\nMockups deben ser muy visibles, a\u00f1adir zoom y otras posibilidades. Es posible que uno por diapositiva sea suficiente, pero debe intentar verse.\n\n\nEs posible que haya demasiado poco texto. Enumerados son \u00fatiles.\n\n\n\n\nNegocio\n\n\n\n\nPresupuesto falta, desglosado por secciones.\n\n\nPlanificaci\u00f3n del Sprint debe estar tambi\u00e9n. Determinar qu\u00e9 se va a hacer la semana que viene (indicar que al menos est\u00e1 en preparaci\u00f3n).\n\n\nSistema de opiniones debe poder ser accesible por los usuarios de la aplicaci\u00f3n. Ejemplo, los animales no van a poder comunicar el estado del cuidado.", 
             "title": "02-M03 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M03 feedback/#presentacion-3",
-            "text": "",
+            "location": "/feedbacks/02/02-M03 feedback/#presentacion-3", 
+            "text": "", 
             "title": "Presentaci\u00f3n 3"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M03 feedback/#presentacion",
-            "text": "Un ejemplo de uso est\u00e1 bien visto.  Hacer una pregunta, igual de buena idea. Aunque est\u00e1 el riesgo de que te respondan, tema conocido por todos y que invite a responder.  Cronometrar el tiempo por diapositiva, intentar siempre que dure 1 minuto.  DAFOs est\u00e1n bien vistos, intentarlo porque queda bien. Deben estar bien explicado, no sacar argumentos poco coherentes y r\u00e1pidos de explicar (concisos).",
+            "location": "/feedbacks/02/02-M03 feedback/#presentacion", 
+            "text": "Un ejemplo de uso est\u00e1 bien visto.  Hacer una pregunta, igual de buena idea. Aunque est\u00e1 el riesgo de que te respondan, tema conocido por todos y que invite a responder.  Cronometrar el tiempo por diapositiva, intentar siempre que dure 1 minuto.  DAFOs est\u00e1n bien vistos, intentarlo porque queda bien. Deben estar bien explicado, no sacar argumentos poco coherentes y r\u00e1pidos de explicar (concisos).", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M03 feedback/#contenido",
-            "text": "Reforzar la explicaci\u00f3n con el apoyo visual, que alimenten lo comentado.  Mockups deben ser muy visibles, a\u00f1adir zoom y otras posibilidades. Es posible que uno por diapositiva sea suficiente, pero debe intentar verse.  Es posible que haya demasiado poco texto. Enumerados son \u00fatiles.",
+            "location": "/feedbacks/02/02-M03 feedback/#contenido", 
+            "text": "Reforzar la explicaci\u00f3n con el apoyo visual, que alimenten lo comentado.  Mockups deben ser muy visibles, a\u00f1adir zoom y otras posibilidades. Es posible que uno por diapositiva sea suficiente, pero debe intentar verse.  Es posible que haya demasiado poco texto. Enumerados son \u00fatiles.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M03 feedback/#negocio",
-            "text": "Presupuesto falta, desglosado por secciones.  Planificaci\u00f3n del Sprint debe estar tambi\u00e9n. Determinar qu\u00e9 se va a hacer la semana que viene (indicar que al menos est\u00e1 en preparaci\u00f3n).  Sistema de opiniones debe poder ser accesible por los usuarios de la aplicaci\u00f3n. Ejemplo, los animales no van a poder comunicar el estado del cuidado.",
+            "location": "/feedbacks/02/02-M03 feedback/#negocio", 
+            "text": "Presupuesto falta, desglosado por secciones.  Planificaci\u00f3n del Sprint debe estar tambi\u00e9n. Determinar qu\u00e9 se va a hacer la semana que viene (indicar que al menos est\u00e1 en preparaci\u00f3n).  Sistema de opiniones debe poder ser accesible por los usuarios de la aplicaci\u00f3n. Ejemplo, los animales no van a poder comunicar el estado del cuidado.", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M04 feedback/",
-            "text": "Presentaci\u00f3n 4\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\nTransparencia con Layout de definci\u00f3n, es bueno repetir la definici\u00f3n para dar paso a la diapositiva. El cliente estar\u00e1 atento del texto, pueden leerlo junto al p\u00fablico.\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nPresupuesto demasiado r\u00e1pido, debe intentar verse.\n\n\nAn\u00e1lisis de competidores con tabla y funcionalidad, positivos todos. Da un prejuicio positivo. \n\n\nEstad\u00edsticas deben contener datos sobre los que dicen s\u00ed o no.\n\n\nIncluir un correo para contactar con el grupo.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nNombre influye. Connotaciones positivas con relaci\u00f3n con el producto.\n\n\nAbarcar mucho negocio puede tener problemas. MVP es el objetivo, y no puede tener tantos objetos.\n\n\nContacto completo a trav\u00e9s de la app puede ser un tanto dif\u00edcil, tenemos tener en cuenta que lo usar\u00e1n fuera de la aplicaci\u00f3n.\n\n\nBuena base de usuarios, clave para el inicio de la aplicaci\u00f3n. \nUsar marketing y otros procesos\n.\n\n\nLas estad\u00edsticas deben intentar reflejar el p\u00fablico objetivo, o usuarios.\n\n\nMarketing debe estar bien enfocado. Indicar en la diapositiva qu\u00e9 aplicaciones afectar\u00e1n m\u00e1s.\n\n\nInversion inicial, \ndebemos saber de d\u00f3nde sacarlo\n!",
+            "location": "/feedbacks/02/02-M04 feedback/", 
+            "text": "Presentaci\u00f3n 4\n\n\nPresentaci\u00f3n\n\n\n\n\nTransparencia con Layout de definci\u00f3n, es bueno repetir la definici\u00f3n para dar paso a la diapositiva. El cliente estar\u00e1 atento del texto, pueden leerlo junto al p\u00fablico.\n\n\n\n\nContenido\n\n\n\n\nPresupuesto demasiado r\u00e1pido, debe intentar verse.\n\n\nAn\u00e1lisis de competidores con tabla y funcionalidad, positivos todos. Da un prejuicio positivo. \n\n\nEstad\u00edsticas deben contener datos sobre los que dicen s\u00ed o no.\n\n\nIncluir un correo para contactar con el grupo.\n\n\n\n\nNegocio\n\n\n\n\nNombre influye. Connotaciones positivas con relaci\u00f3n con el producto.\n\n\nAbarcar mucho negocio puede tener problemas. MVP es el objetivo, y no puede tener tantos objetos.\n\n\nContacto completo a trav\u00e9s de la app puede ser un tanto dif\u00edcil, tenemos tener en cuenta que lo usar\u00e1n fuera de la aplicaci\u00f3n.\n\n\nBuena base de usuarios, clave para el inicio de la aplicaci\u00f3n. \nUsar marketing y otros procesos\n.\n\n\nLas estad\u00edsticas deben intentar reflejar el p\u00fablico objetivo, o usuarios.\n\n\nMarketing debe estar bien enfocado. Indicar en la diapositiva qu\u00e9 aplicaciones afectar\u00e1n m\u00e1s.\n\n\nInversion inicial, \ndebemos saber de d\u00f3nde sacarlo\n!", 
             "title": "02-M04 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M04 feedback/#presentacion-4",
-            "text": "",
+            "location": "/feedbacks/02/02-M04 feedback/#presentacion-4", 
+            "text": "", 
             "title": "Presentaci\u00f3n 4"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M04 feedback/#presentacion",
-            "text": "Transparencia con Layout de definci\u00f3n, es bueno repetir la definici\u00f3n para dar paso a la diapositiva. El cliente estar\u00e1 atento del texto, pueden leerlo junto al p\u00fablico.",
+            "location": "/feedbacks/02/02-M04 feedback/#presentacion", 
+            "text": "Transparencia con Layout de definci\u00f3n, es bueno repetir la definici\u00f3n para dar paso a la diapositiva. El cliente estar\u00e1 atento del texto, pueden leerlo junto al p\u00fablico.", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M04 feedback/#contenido",
-            "text": "Presupuesto demasiado r\u00e1pido, debe intentar verse.  An\u00e1lisis de competidores con tabla y funcionalidad, positivos todos. Da un prejuicio positivo.   Estad\u00edsticas deben contener datos sobre los que dicen s\u00ed o no.  Incluir un correo para contactar con el grupo.",
+            "location": "/feedbacks/02/02-M04 feedback/#contenido", 
+            "text": "Presupuesto demasiado r\u00e1pido, debe intentar verse.  An\u00e1lisis de competidores con tabla y funcionalidad, positivos todos. Da un prejuicio positivo.   Estad\u00edsticas deben contener datos sobre los que dicen s\u00ed o no.  Incluir un correo para contactar con el grupo.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-M04 feedback/#negocio",
-            "text": "Nombre influye. Connotaciones positivas con relaci\u00f3n con el producto.  Abarcar mucho negocio puede tener problemas. MVP es el objetivo, y no puede tener tantos objetos.  Contacto completo a trav\u00e9s de la app puede ser un tanto dif\u00edcil, tenemos tener en cuenta que lo usar\u00e1n fuera de la aplicaci\u00f3n.  Buena base de usuarios, clave para el inicio de la aplicaci\u00f3n.  Usar marketing y otros procesos .  Las estad\u00edsticas deben intentar reflejar el p\u00fablico objetivo, o usuarios.  Marketing debe estar bien enfocado. Indicar en la diapositiva qu\u00e9 aplicaciones afectar\u00e1n m\u00e1s.  Inversion inicial,  debemos saber de d\u00f3nde sacarlo !",
+            "location": "/feedbacks/02/02-M04 feedback/#negocio", 
+            "text": "Nombre influye. Connotaciones positivas con relaci\u00f3n con el producto.  Abarcar mucho negocio puede tener problemas. MVP es el objetivo, y no puede tener tantos objetos.  Contacto completo a trav\u00e9s de la app puede ser un tanto dif\u00edcil, tenemos tener en cuenta que lo usar\u00e1n fuera de la aplicaci\u00f3n.  Buena base de usuarios, clave para el inicio de la aplicaci\u00f3n.  Usar marketing y otros procesos .  Las estad\u00edsticas deben intentar reflejar el p\u00fablico objetivo, o usuarios.  Marketing debe estar bien enfocado. Indicar en la diapositiva qu\u00e9 aplicaciones afectar\u00e1n m\u00e1s.  Inversion inicial,  debemos saber de d\u00f3nde sacarlo !", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T01 feedback/",
-            "text": "Presentaci\u00f3n 1\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\nNo est\u00e1 del todo aprendida.\n\n\nEn la presentaci\u00f3n, que las personas est\u00e9n de pie. \n\n\n\n\nContenido\n\u00b6\n\n\n\n\nEl formato de la 3a diapositiva es incorrecto, el texto deber\u00eda (suele) estar debajo de la imagen, como una especie de definici\u00f3n.\n\n\nFrases famosas, buen Starting Point.\n\n\nPara los mockups, mostrar el uso de la aplicaci\u00f3n en mockups, que est\u00e9 en funcionamiento para mostrar c\u00f3mo la aplicaci\u00f3n funcionar\u00eda.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nMejorar las t\u00e9cnicas de pagos, se ha abierto muchos frentes, pero no se han detallado mucho. Permitir el pago con PayPal u otras fuentes de alimentaci\u00f3n.\n\n\nEn las encuestas estad\u00edsticas, segmentar el sector, por tipos de perfil. Usar personas no conocidas, como estad\u00edsticas.\n\n\nBanners con los que se puede pagar.\n\n\nDynamo puede no ser v\u00e1lido. Puede que la limitaci\u00f3n de almacenamiento no sea suficiente. \n\n\nM\u00e1s informaci\u00f3n sobre la creaci\u00f3n de QRs.\n\n\nValoraci\u00f3n, los clientes deber\u00edan tener feedback sobre el restaurante (o otros).",
+            "location": "/feedbacks/02/02-T01 feedback/", 
+            "text": "Presentaci\u00f3n 1\n\n\nPresentaci\u00f3n\n\n\n\n\nNo est\u00e1 del todo aprendida.\n\n\nEn la presentaci\u00f3n, que las personas est\u00e9n de pie. \n\n\n\n\nContenido\n\n\n\n\nEl formato de la 3a diapositiva es incorrecto, el texto deber\u00eda (suele) estar debajo de la imagen, como una especie de definici\u00f3n.\n\n\nFrases famosas, buen Starting Point.\n\n\nPara los mockups, mostrar el uso de la aplicaci\u00f3n en mockups, que est\u00e9 en funcionamiento para mostrar c\u00f3mo la aplicaci\u00f3n funcionar\u00eda.\n\n\n\n\nNegocio\n\n\n\n\nMejorar las t\u00e9cnicas de pagos, se ha abierto muchos frentes, pero no se han detallado mucho. Permitir el pago con PayPal u otras fuentes de alimentaci\u00f3n.\n\n\nEn las encuestas estad\u00edsticas, segmentar el sector, por tipos de perfil. Usar personas no conocidas, como estad\u00edsticas.\n\n\nBanners con los que se puede pagar.\n\n\nDynamo puede no ser v\u00e1lido. Puede que la limitaci\u00f3n de almacenamiento no sea suficiente. \n\n\nM\u00e1s informaci\u00f3n sobre la creaci\u00f3n de QRs.\n\n\nValoraci\u00f3n, los clientes deber\u00edan tener feedback sobre el restaurante (o otros).", 
             "title": "02-T01 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T01 feedback/#presentacion-1",
-            "text": "",
+            "location": "/feedbacks/02/02-T01 feedback/#presentacion-1", 
+            "text": "", 
             "title": "Presentaci\u00f3n 1"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T01 feedback/#presentacion",
-            "text": "No est\u00e1 del todo aprendida.  En la presentaci\u00f3n, que las personas est\u00e9n de pie.",
+            "location": "/feedbacks/02/02-T01 feedback/#presentacion", 
+            "text": "No est\u00e1 del todo aprendida.  En la presentaci\u00f3n, que las personas est\u00e9n de pie.", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T01 feedback/#contenido",
-            "text": "El formato de la 3a diapositiva es incorrecto, el texto deber\u00eda (suele) estar debajo de la imagen, como una especie de definici\u00f3n.  Frases famosas, buen Starting Point.  Para los mockups, mostrar el uso de la aplicaci\u00f3n en mockups, que est\u00e9 en funcionamiento para mostrar c\u00f3mo la aplicaci\u00f3n funcionar\u00eda.",
+            "location": "/feedbacks/02/02-T01 feedback/#contenido", 
+            "text": "El formato de la 3a diapositiva es incorrecto, el texto deber\u00eda (suele) estar debajo de la imagen, como una especie de definici\u00f3n.  Frases famosas, buen Starting Point.  Para los mockups, mostrar el uso de la aplicaci\u00f3n en mockups, que est\u00e9 en funcionamiento para mostrar c\u00f3mo la aplicaci\u00f3n funcionar\u00eda.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T01 feedback/#negocio",
-            "text": "Mejorar las t\u00e9cnicas de pagos, se ha abierto muchos frentes, pero no se han detallado mucho. Permitir el pago con PayPal u otras fuentes de alimentaci\u00f3n.  En las encuestas estad\u00edsticas, segmentar el sector, por tipos de perfil. Usar personas no conocidas, como estad\u00edsticas.  Banners con los que se puede pagar.  Dynamo puede no ser v\u00e1lido. Puede que la limitaci\u00f3n de almacenamiento no sea suficiente.   M\u00e1s informaci\u00f3n sobre la creaci\u00f3n de QRs.  Valoraci\u00f3n, los clientes deber\u00edan tener feedback sobre el restaurante (o otros).",
+            "location": "/feedbacks/02/02-T01 feedback/#negocio", 
+            "text": "Mejorar las t\u00e9cnicas de pagos, se ha abierto muchos frentes, pero no se han detallado mucho. Permitir el pago con PayPal u otras fuentes de alimentaci\u00f3n.  En las encuestas estad\u00edsticas, segmentar el sector, por tipos de perfil. Usar personas no conocidas, como estad\u00edsticas.  Banners con los que se puede pagar.  Dynamo puede no ser v\u00e1lido. Puede que la limitaci\u00f3n de almacenamiento no sea suficiente.   M\u00e1s informaci\u00f3n sobre la creaci\u00f3n de QRs.  Valoraci\u00f3n, los clientes deber\u00edan tener feedback sobre el restaurante (o otros).", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T02 feedback/",
-            "text": "Presentaci\u00f3n 2\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nDAFOs, quedan bien como conclusi\u00f3n. Reforzar los puntos de la presentaci\u00f3n.\n\n\nInicio efectivo, starting point... Vital para el trabajo.\n\n\nNunca usar margenes en toda la presentaci\u00f3n, poco efectivo y no queda bien.\n\n\nAmarillo sobre blanco, \nmal\n. Colores contrastados.\n\n\nMockups deben estar bien explicado y verse bien. Ahora no, pero despu\u00e9s, al ser capturas de pantallas s\u00ed.\n\n\nAplicaci\u00f3n demasiado compleja\n\n\nRiesgo de aprendizaje de las herramientas\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nROI, se recomienda una estimaci\u00f3n pesimista, optimista y media. \n\n\nReuniones personalizadas, pudiendo fijar cada paso y permitir mezclas... Brainstorming con X.\n\n\nCompetidores bien diferenciados, \ntablas comparativas es una buena idea\n.\n\n\n\u00bfQui\u00e9n paga? \u00bfCu\u00e1nto y c\u00f3mo?\n\n\nM\u00f3viles son importantes en una reuni\u00f3n.\n\n\nMVP deber\u00eda estar definido, con funcionalidades claramente demarcadas.\n\n\nDar detalles de los pagos por volumen.\n\n\nRiesgo de aprendizaje de las herramientas\n.",
+            "location": "/feedbacks/02/02-T02 feedback/", 
+            "text": "Presentaci\u00f3n 2\n\n\nPresentaci\u00f3n\n\n\n\n\n\n\n\n\nContenido\n\n\n\n\nDAFOs, quedan bien como conclusi\u00f3n. Reforzar los puntos de la presentaci\u00f3n.\n\n\nInicio efectivo, starting point... Vital para el trabajo.\n\n\nNunca usar margenes en toda la presentaci\u00f3n, poco efectivo y no queda bien.\n\n\nAmarillo sobre blanco, \nmal\n. Colores contrastados.\n\n\nMockups deben estar bien explicado y verse bien. Ahora no, pero despu\u00e9s, al ser capturas de pantallas s\u00ed.\n\n\nAplicaci\u00f3n demasiado compleja\n\n\nRiesgo de aprendizaje de las herramientas\n\n\n\n\nNegocio\n\n\n\n\nROI, se recomienda una estimaci\u00f3n pesimista, optimista y media. \n\n\nReuniones personalizadas, pudiendo fijar cada paso y permitir mezclas... Brainstorming con X.\n\n\nCompetidores bien diferenciados, \ntablas comparativas es una buena idea\n.\n\n\n\u00bfQui\u00e9n paga? \u00bfCu\u00e1nto y c\u00f3mo?\n\n\nM\u00f3viles son importantes en una reuni\u00f3n.\n\n\nMVP deber\u00eda estar definido, con funcionalidades claramente demarcadas.\n\n\nDar detalles de los pagos por volumen.\n\n\nRiesgo de aprendizaje de las herramientas\n.", 
             "title": "02-T02 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T02 feedback/#presentacion-2",
-            "text": "",
+            "location": "/feedbacks/02/02-T02 feedback/#presentacion-2", 
+            "text": "", 
             "title": "Presentaci\u00f3n 2"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T02 feedback/#presentacion",
-            "text": "",
+            "location": "/feedbacks/02/02-T02 feedback/#presentacion", 
+            "text": "", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T02 feedback/#contenido",
-            "text": "DAFOs, quedan bien como conclusi\u00f3n. Reforzar los puntos de la presentaci\u00f3n.  Inicio efectivo, starting point... Vital para el trabajo.  Nunca usar margenes en toda la presentaci\u00f3n, poco efectivo y no queda bien.  Amarillo sobre blanco,  mal . Colores contrastados.  Mockups deben estar bien explicado y verse bien. Ahora no, pero despu\u00e9s, al ser capturas de pantallas s\u00ed.  Aplicaci\u00f3n demasiado compleja  Riesgo de aprendizaje de las herramientas",
+            "location": "/feedbacks/02/02-T02 feedback/#contenido", 
+            "text": "DAFOs, quedan bien como conclusi\u00f3n. Reforzar los puntos de la presentaci\u00f3n.  Inicio efectivo, starting point... Vital para el trabajo.  Nunca usar margenes en toda la presentaci\u00f3n, poco efectivo y no queda bien.  Amarillo sobre blanco,  mal . Colores contrastados.  Mockups deben estar bien explicado y verse bien. Ahora no, pero despu\u00e9s, al ser capturas de pantallas s\u00ed.  Aplicaci\u00f3n demasiado compleja  Riesgo de aprendizaje de las herramientas", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T02 feedback/#negocio",
-            "text": "ROI, se recomienda una estimaci\u00f3n pesimista, optimista y media.   Reuniones personalizadas, pudiendo fijar cada paso y permitir mezclas... Brainstorming con X.  Competidores bien diferenciados,  tablas comparativas es una buena idea .  \u00bfQui\u00e9n paga? \u00bfCu\u00e1nto y c\u00f3mo?  M\u00f3viles son importantes en una reuni\u00f3n.  MVP deber\u00eda estar definido, con funcionalidades claramente demarcadas.  Dar detalles de los pagos por volumen.  Riesgo de aprendizaje de las herramientas .",
+            "location": "/feedbacks/02/02-T02 feedback/#negocio", 
+            "text": "ROI, se recomienda una estimaci\u00f3n pesimista, optimista y media.   Reuniones personalizadas, pudiendo fijar cada paso y permitir mezclas... Brainstorming con X.  Competidores bien diferenciados,  tablas comparativas es una buena idea .  \u00bfQui\u00e9n paga? \u00bfCu\u00e1nto y c\u00f3mo?  M\u00f3viles son importantes en una reuni\u00f3n.  MVP deber\u00eda estar definido, con funcionalidades claramente demarcadas.  Dar detalles de los pagos por volumen.  Riesgo de aprendizaje de las herramientas .", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T03 feedback/",
-            "text": "Presentaci\u00f3n 3\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\nSe ha tardado demasiado tiempo en preparaci\u00f3n\n\n\nSe ha repetido lo que contiene el \u00edndice, no es recomendado.\n\n\nAdrenalive\n. Remarcarlo m\u00e1s.\n\n\nMockups, pasarse m\u00e1s tiempo en \u00e9stos, para indicarlo mejor la interacci\u00f3n cliente-servidor.\n\n\nDeber\u00eda presentar \u00c1lvaro.\n\n\nIntentar mirar a todos, mantener la vista a todos.\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nSe ven mal los mockups. Hacer zoom para la pr\u00f3xima.\n\n\nDiapositiva 18, m\u00e1s im\u00e1genes o texto para reforzar la idea. Se deber\u00eda incluir los diferentes aspectos.\n\n\nFalta de consistencia, usar im\u00e1gen completa o no siempre.\n\n\nTransparencia 5 no se ve bi\u00e9n.\n\n\nMockups realistas no es tan necesario. M\u00e1s sobre la aplicaci\u00f3n m\u00e1s diferenciados.\n\n\nMockup, hacer zoom porque no se ve. \n\n\nDise\u00f1o de la aplicaci\u00f3n, muy complicada, explicarla\n\n\nTecnolog\u00edas, mejor separarlas por funcionalidad.\n\n\nCostes, parecen hechos al tun tun, indicar mucho m\u00e1s los costes. Debemos incluir local, luz... Realista, debemos incluir \nlocal\n y otros aspectos.\n\n\nAmortizaci\u00f3n de horas o meses.\n\n\nInicio efectivo afectado por actitud. \n\n\n\u00a1\u00a1\u00a1\nDAFO\n!!!\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nSe ha indicado que el MVP se realizar\u00e1 en el primer Sprint, ser\u00eda el MVP inicial, no el general.\n\n\n\u00bfQui\u00e9n paga? \u00bfC\u00f3mo paga?\n. Algo tiene que estar planteado.",
+            "location": "/feedbacks/02/02-T03 feedback/", 
+            "text": "Presentaci\u00f3n 3\n\n\nPresentaci\u00f3n\n\n\n\n\nSe ha tardado demasiado tiempo en preparaci\u00f3n\n\n\nSe ha repetido lo que contiene el \u00edndice, no es recomendado.\n\n\nAdrenalive\n. Remarcarlo m\u00e1s.\n\n\nMockups, pasarse m\u00e1s tiempo en \u00e9stos, para indicarlo mejor la interacci\u00f3n cliente-servidor.\n\n\nDeber\u00eda presentar \u00c1lvaro.\n\n\nIntentar mirar a todos, mantener la vista a todos.\n\n\n\n\nContenido\n\n\n\n\nSe ven mal los mockups. Hacer zoom para la pr\u00f3xima.\n\n\nDiapositiva 18, m\u00e1s im\u00e1genes o texto para reforzar la idea. Se deber\u00eda incluir los diferentes aspectos.\n\n\nFalta de consistencia, usar im\u00e1gen completa o no siempre.\n\n\nTransparencia 5 no se ve bi\u00e9n.\n\n\nMockups realistas no es tan necesario. M\u00e1s sobre la aplicaci\u00f3n m\u00e1s diferenciados.\n\n\nMockup, hacer zoom porque no se ve. \n\n\nDise\u00f1o de la aplicaci\u00f3n, muy complicada, explicarla\n\n\nTecnolog\u00edas, mejor separarlas por funcionalidad.\n\n\nCostes, parecen hechos al tun tun, indicar mucho m\u00e1s los costes. Debemos incluir local, luz... Realista, debemos incluir \nlocal\n y otros aspectos.\n\n\nAmortizaci\u00f3n de horas o meses.\n\n\nInicio efectivo afectado por actitud. \n\n\n\u00a1\u00a1\u00a1\nDAFO\n!!!\n\n\n\n\nNegocio\n\n\n\n\nSe ha indicado que el MVP se realizar\u00e1 en el primer Sprint, ser\u00eda el MVP inicial, no el general.\n\n\n\u00bfQui\u00e9n paga? \u00bfC\u00f3mo paga?\n. Algo tiene que estar planteado.", 
             "title": "02-T03 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T03 feedback/#presentacion-3",
-            "text": "",
+            "location": "/feedbacks/02/02-T03 feedback/#presentacion-3", 
+            "text": "", 
             "title": "Presentaci\u00f3n 3"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T03 feedback/#presentacion",
-            "text": "Se ha tardado demasiado tiempo en preparaci\u00f3n  Se ha repetido lo que contiene el \u00edndice, no es recomendado.  Adrenalive . Remarcarlo m\u00e1s.  Mockups, pasarse m\u00e1s tiempo en \u00e9stos, para indicarlo mejor la interacci\u00f3n cliente-servidor.  Deber\u00eda presentar \u00c1lvaro.  Intentar mirar a todos, mantener la vista a todos.",
+            "location": "/feedbacks/02/02-T03 feedback/#presentacion", 
+            "text": "Se ha tardado demasiado tiempo en preparaci\u00f3n  Se ha repetido lo que contiene el \u00edndice, no es recomendado.  Adrenalive . Remarcarlo m\u00e1s.  Mockups, pasarse m\u00e1s tiempo en \u00e9stos, para indicarlo mejor la interacci\u00f3n cliente-servidor.  Deber\u00eda presentar \u00c1lvaro.  Intentar mirar a todos, mantener la vista a todos.", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T03 feedback/#contenido",
-            "text": "Se ven mal los mockups. Hacer zoom para la pr\u00f3xima.  Diapositiva 18, m\u00e1s im\u00e1genes o texto para reforzar la idea. Se deber\u00eda incluir los diferentes aspectos.  Falta de consistencia, usar im\u00e1gen completa o no siempre.  Transparencia 5 no se ve bi\u00e9n.  Mockups realistas no es tan necesario. M\u00e1s sobre la aplicaci\u00f3n m\u00e1s diferenciados.  Mockup, hacer zoom porque no se ve.   Dise\u00f1o de la aplicaci\u00f3n, muy complicada, explicarla  Tecnolog\u00edas, mejor separarlas por funcionalidad.  Costes, parecen hechos al tun tun, indicar mucho m\u00e1s los costes. Debemos incluir local, luz... Realista, debemos incluir  local  y otros aspectos.  Amortizaci\u00f3n de horas o meses.  Inicio efectivo afectado por actitud.   \u00a1\u00a1\u00a1 DAFO !!!",
+            "location": "/feedbacks/02/02-T03 feedback/#contenido", 
+            "text": "Se ven mal los mockups. Hacer zoom para la pr\u00f3xima.  Diapositiva 18, m\u00e1s im\u00e1genes o texto para reforzar la idea. Se deber\u00eda incluir los diferentes aspectos.  Falta de consistencia, usar im\u00e1gen completa o no siempre.  Transparencia 5 no se ve bi\u00e9n.  Mockups realistas no es tan necesario. M\u00e1s sobre la aplicaci\u00f3n m\u00e1s diferenciados.  Mockup, hacer zoom porque no se ve.   Dise\u00f1o de la aplicaci\u00f3n, muy complicada, explicarla  Tecnolog\u00edas, mejor separarlas por funcionalidad.  Costes, parecen hechos al tun tun, indicar mucho m\u00e1s los costes. Debemos incluir local, luz... Realista, debemos incluir  local  y otros aspectos.  Amortizaci\u00f3n de horas o meses.  Inicio efectivo afectado por actitud.   \u00a1\u00a1\u00a1 DAFO !!!", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T03 feedback/#negocio",
-            "text": "Se ha indicado que el MVP se realizar\u00e1 en el primer Sprint, ser\u00eda el MVP inicial, no el general.  \u00bfQui\u00e9n paga? \u00bfC\u00f3mo paga? . Algo tiene que estar planteado.",
+            "location": "/feedbacks/02/02-T03 feedback/#negocio", 
+            "text": "Se ha indicado que el MVP se realizar\u00e1 en el primer Sprint, ser\u00eda el MVP inicial, no el general.  \u00bfQui\u00e9n paga? \u00bfC\u00f3mo paga? . Algo tiene que estar planteado.", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T04 feedback/",
-            "text": "Presentaci\u00f3n 4\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\nPara la idea, usar similes con Wuloa.\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nCostes,\n\n\nCoste total, \u00bfCu\u00e1nto se ha gastado? Sacado de la cantidad de tiempo invertido. \nBarra de tiempo con el coste\n.\n\n\nMVP menos texto, m\u00e1s im\u00e1genes.\n\n\nDAFO con menos texto.\n\n\nIm\u00e1genes de los equipos, usar mismo color.\n\n\nN\u00fameros no respaldados por costes.\n\n\nMucho texto en la transparencia.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nSupervisi\u00f3n de la calidad de los cursos o otros.\n\n\nModerador que revise el curso.\n\n\nROI\n, estimaci\u00f3n pesimista, optimista... Relacionado con el uso de los clientes de la aplicaci\u00f3n.\n\n\nUdemy tiene el mismo rango de precios que quickacademy, diferencia m\u00ednima. Cursos gratuitos son ofrecidos por Udemy.\n\n\nIndicar correctamente qu\u00e9 diferencia a los usuarios.\n\n\nDAFO amarillo y blanco o gris. Que \nresalte\n. \n\n\nPartnership con Wuloa.\n\n\nM\u00e9todo de calidad, la calificaci\u00f3n de la asignatura.\n\n\nCopiaje es muy peligroso.\n\n\nRealismo en cuanto a ideas.",
+            "location": "/feedbacks/02/02-T04 feedback/", 
+            "text": "Presentaci\u00f3n 4\n\n\nPresentaci\u00f3n\n\n\n\n\nPara la idea, usar similes con Wuloa.\n\n\n\n\nContenido\n\n\n\n\nCostes,\n\n\nCoste total, \u00bfCu\u00e1nto se ha gastado? Sacado de la cantidad de tiempo invertido. \nBarra de tiempo con el coste\n.\n\n\nMVP menos texto, m\u00e1s im\u00e1genes.\n\n\nDAFO con menos texto.\n\n\nIm\u00e1genes de los equipos, usar mismo color.\n\n\nN\u00fameros no respaldados por costes.\n\n\nMucho texto en la transparencia.\n\n\n\n\nNegocio\n\n\n\n\nSupervisi\u00f3n de la calidad de los cursos o otros.\n\n\nModerador que revise el curso.\n\n\nROI\n, estimaci\u00f3n pesimista, optimista... Relacionado con el uso de los clientes de la aplicaci\u00f3n.\n\n\nUdemy tiene el mismo rango de precios que quickacademy, diferencia m\u00ednima. Cursos gratuitos son ofrecidos por Udemy.\n\n\nIndicar correctamente qu\u00e9 diferencia a los usuarios.\n\n\nDAFO amarillo y blanco o gris. Que \nresalte\n. \n\n\nPartnership con Wuloa.\n\n\nM\u00e9todo de calidad, la calificaci\u00f3n de la asignatura.\n\n\nCopiaje es muy peligroso.\n\n\nRealismo en cuanto a ideas.", 
             "title": "02-T04 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T04 feedback/#presentacion-4",
-            "text": "",
+            "location": "/feedbacks/02/02-T04 feedback/#presentacion-4", 
+            "text": "", 
             "title": "Presentaci\u00f3n 4"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T04 feedback/#presentacion",
-            "text": "Para la idea, usar similes con Wuloa.",
+            "location": "/feedbacks/02/02-T04 feedback/#presentacion", 
+            "text": "Para la idea, usar similes con Wuloa.", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T04 feedback/#contenido",
-            "text": "Costes,  Coste total, \u00bfCu\u00e1nto se ha gastado? Sacado de la cantidad de tiempo invertido.  Barra de tiempo con el coste .  MVP menos texto, m\u00e1s im\u00e1genes.  DAFO con menos texto.  Im\u00e1genes de los equipos, usar mismo color.  N\u00fameros no respaldados por costes.  Mucho texto en la transparencia.",
+            "location": "/feedbacks/02/02-T04 feedback/#contenido", 
+            "text": "Costes,  Coste total, \u00bfCu\u00e1nto se ha gastado? Sacado de la cantidad de tiempo invertido.  Barra de tiempo con el coste .  MVP menos texto, m\u00e1s im\u00e1genes.  DAFO con menos texto.  Im\u00e1genes de los equipos, usar mismo color.  N\u00fameros no respaldados por costes.  Mucho texto en la transparencia.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T04 feedback/#negocio",
-            "text": "Supervisi\u00f3n de la calidad de los cursos o otros.  Moderador que revise el curso.  ROI , estimaci\u00f3n pesimista, optimista... Relacionado con el uso de los clientes de la aplicaci\u00f3n.  Udemy tiene el mismo rango de precios que quickacademy, diferencia m\u00ednima. Cursos gratuitos son ofrecidos por Udemy.  Indicar correctamente qu\u00e9 diferencia a los usuarios.  DAFO amarillo y blanco o gris. Que  resalte .   Partnership con Wuloa.  M\u00e9todo de calidad, la calificaci\u00f3n de la asignatura.  Copiaje es muy peligroso.  Realismo en cuanto a ideas.",
+            "location": "/feedbacks/02/02-T04 feedback/#negocio", 
+            "text": "Supervisi\u00f3n de la calidad de los cursos o otros.  Moderador que revise el curso.  ROI , estimaci\u00f3n pesimista, optimista... Relacionado con el uso de los clientes de la aplicaci\u00f3n.  Udemy tiene el mismo rango de precios que quickacademy, diferencia m\u00ednima. Cursos gratuitos son ofrecidos por Udemy.  Indicar correctamente qu\u00e9 diferencia a los usuarios.  DAFO amarillo y blanco o gris. Que  resalte .   Partnership con Wuloa.  M\u00e9todo de calidad, la calificaci\u00f3n de la asignatura.  Copiaje es muy peligroso.  Realismo en cuanto a ideas.", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T05 feedback/",
-            "text": "Presentaci\u00f3n 5\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\nConsistencia en los t\u00e9rminos de la aplicaci\u00f3n.\n\n\nLa idea es que esta charla la puedas realizar a inversores, a sponsors...\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nCostes divide entre cada uno de los tipos, esto es el objetivo.\n\n\nApoyo visual, estar\u00eda bien incluir en partes con mucho texto.\n\n\nNo decir que enviar\u00e1s SPAM.\n\n\nM\u00e1s iconos gr\u00e1ficos.\n\n\nSi hay texto, tener en cuenta la p\u00e9rdida de atenci\u00f3n de la lectura del texto.\n\n\nDefinir claramente las cosas que se realizar\u00e1n en cada Sprint.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nCompetidores, debemos distinguirlo m\u00e1s. \nQu\u00e9 se ha buscado\n, por qu\u00e9 nuestra aplicaci\u00f3n es diferente...\n\n\nJustificar diferencias.\n\n\nDelimitar el MVP al subconjunto m\u00e1s innovador. La primera caracter\u00edstica debe ser la principal diferencia de la aplicaci\u00f3n.\n\n\nDefinir todos los t\u00e9rminos de la aplicaci\u00f3n.",
+            "location": "/feedbacks/02/02-T05 feedback/", 
+            "text": "Presentaci\u00f3n 5\n\n\nPresentaci\u00f3n\n\n\n\n\nConsistencia en los t\u00e9rminos de la aplicaci\u00f3n.\n\n\nLa idea es que esta charla la puedas realizar a inversores, a sponsors...\n\n\n\n\nContenido\n\n\n\n\nCostes divide entre cada uno de los tipos, esto es el objetivo.\n\n\nApoyo visual, estar\u00eda bien incluir en partes con mucho texto.\n\n\nNo decir que enviar\u00e1s SPAM.\n\n\nM\u00e1s iconos gr\u00e1ficos.\n\n\nSi hay texto, tener en cuenta la p\u00e9rdida de atenci\u00f3n de la lectura del texto.\n\n\nDefinir claramente las cosas que se realizar\u00e1n en cada Sprint.\n\n\n\n\nNegocio\n\n\n\n\nCompetidores, debemos distinguirlo m\u00e1s. \nQu\u00e9 se ha buscado\n, por qu\u00e9 nuestra aplicaci\u00f3n es diferente...\n\n\nJustificar diferencias.\n\n\nDelimitar el MVP al subconjunto m\u00e1s innovador. La primera caracter\u00edstica debe ser la principal diferencia de la aplicaci\u00f3n.\n\n\nDefinir todos los t\u00e9rminos de la aplicaci\u00f3n.", 
             "title": "02-T05 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T05 feedback/#presentacion-5",
-            "text": "",
+            "location": "/feedbacks/02/02-T05 feedback/#presentacion-5", 
+            "text": "", 
             "title": "Presentaci\u00f3n 5"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T05 feedback/#presentacion",
-            "text": "Consistencia en los t\u00e9rminos de la aplicaci\u00f3n.  La idea es que esta charla la puedas realizar a inversores, a sponsors...",
+            "location": "/feedbacks/02/02-T05 feedback/#presentacion", 
+            "text": "Consistencia en los t\u00e9rminos de la aplicaci\u00f3n.  La idea es que esta charla la puedas realizar a inversores, a sponsors...", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T05 feedback/#contenido",
-            "text": "Costes divide entre cada uno de los tipos, esto es el objetivo.  Apoyo visual, estar\u00eda bien incluir en partes con mucho texto.  No decir que enviar\u00e1s SPAM.  M\u00e1s iconos gr\u00e1ficos.  Si hay texto, tener en cuenta la p\u00e9rdida de atenci\u00f3n de la lectura del texto.  Definir claramente las cosas que se realizar\u00e1n en cada Sprint.",
+            "location": "/feedbacks/02/02-T05 feedback/#contenido", 
+            "text": "Costes divide entre cada uno de los tipos, esto es el objetivo.  Apoyo visual, estar\u00eda bien incluir en partes con mucho texto.  No decir que enviar\u00e1s SPAM.  M\u00e1s iconos gr\u00e1ficos.  Si hay texto, tener en cuenta la p\u00e9rdida de atenci\u00f3n de la lectura del texto.  Definir claramente las cosas que se realizar\u00e1n en cada Sprint.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T05 feedback/#negocio",
-            "text": "Competidores, debemos distinguirlo m\u00e1s.  Qu\u00e9 se ha buscado , por qu\u00e9 nuestra aplicaci\u00f3n es diferente...  Justificar diferencias.  Delimitar el MVP al subconjunto m\u00e1s innovador. La primera caracter\u00edstica debe ser la principal diferencia de la aplicaci\u00f3n.  Definir todos los t\u00e9rminos de la aplicaci\u00f3n.",
+            "location": "/feedbacks/02/02-T05 feedback/#negocio", 
+            "text": "Competidores, debemos distinguirlo m\u00e1s.  Qu\u00e9 se ha buscado , por qu\u00e9 nuestra aplicaci\u00f3n es diferente...  Justificar diferencias.  Delimitar el MVP al subconjunto m\u00e1s innovador. La primera caracter\u00edstica debe ser la principal diferencia de la aplicaci\u00f3n.  Definir todos los t\u00e9rminos de la aplicaci\u00f3n.", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T06 feedback/",
-            "text": "Presentaci\u00f3n 6\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\n\"Tal como dijimos\" no aplicable. Estamos repitiendo la misma presentaci\u00f3n.\n\n\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nMarcos, de nuevo.\n\n\nMucho texto, nada de frases. \n\n\n\u00cdndices reducidos, separados en secciones. 4 apartado es suficiente.\n\n\nApoyo gr\u00e1fico en los DAFOs, no usar texto. Sincronizar el icono cuando sale la idea (animaci\u00f3n).\n\n\nCoherencia en los iconos, nada de mezclas.\n\n\nIm\u00e1genes como refuerzo de las ideas expresadas.\n\n\nAnimar el uso de la aplicaci\u00f3n con mockups (balsamiq permite interacciones para ver el programa en funcionamiento).\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nM\u00e1s de 2 fortalezas, igual de posible pero deben estar claros.\n\n\nSi se usan paquetes, describirlos (describir \nbien\n el modelo de negocios).\n\n\nModelo de negocio, debe estar \nmuy claro\n.",
+            "location": "/feedbacks/02/02-T06 feedback/", 
+            "text": "Presentaci\u00f3n 6\n\n\nPresentaci\u00f3n\n\n\n\n\n\"Tal como dijimos\" no aplicable. Estamos repitiendo la misma presentaci\u00f3n.\n\n\n\n\n\n\nContenido\n\n\n\n\nMarcos, de nuevo.\n\n\nMucho texto, nada de frases. \n\n\n\u00cdndices reducidos, separados en secciones. 4 apartado es suficiente.\n\n\nApoyo gr\u00e1fico en los DAFOs, no usar texto. Sincronizar el icono cuando sale la idea (animaci\u00f3n).\n\n\nCoherencia en los iconos, nada de mezclas.\n\n\nIm\u00e1genes como refuerzo de las ideas expresadas.\n\n\nAnimar el uso de la aplicaci\u00f3n con mockups (balsamiq permite interacciones para ver el programa en funcionamiento).\n\n\n\n\nNegocio\n\n\n\n\nM\u00e1s de 2 fortalezas, igual de posible pero deben estar claros.\n\n\nSi se usan paquetes, describirlos (describir \nbien\n el modelo de negocios).\n\n\nModelo de negocio, debe estar \nmuy claro\n.", 
             "title": "02-T06 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T06 feedback/#presentacion-6",
-            "text": "",
+            "location": "/feedbacks/02/02-T06 feedback/#presentacion-6", 
+            "text": "", 
             "title": "Presentaci\u00f3n 6"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T06 feedback/#presentacion",
-            "text": "\"Tal como dijimos\" no aplicable. Estamos repitiendo la misma presentaci\u00f3n.",
+            "location": "/feedbacks/02/02-T06 feedback/#presentacion", 
+            "text": "\"Tal como dijimos\" no aplicable. Estamos repitiendo la misma presentaci\u00f3n.", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T06 feedback/#contenido",
-            "text": "Marcos, de nuevo.  Mucho texto, nada de frases.   \u00cdndices reducidos, separados en secciones. 4 apartado es suficiente.  Apoyo gr\u00e1fico en los DAFOs, no usar texto. Sincronizar el icono cuando sale la idea (animaci\u00f3n).  Coherencia en los iconos, nada de mezclas.  Im\u00e1genes como refuerzo de las ideas expresadas.  Animar el uso de la aplicaci\u00f3n con mockups (balsamiq permite interacciones para ver el programa en funcionamiento).",
+            "location": "/feedbacks/02/02-T06 feedback/#contenido", 
+            "text": "Marcos, de nuevo.  Mucho texto, nada de frases.   \u00cdndices reducidos, separados en secciones. 4 apartado es suficiente.  Apoyo gr\u00e1fico en los DAFOs, no usar texto. Sincronizar el icono cuando sale la idea (animaci\u00f3n).  Coherencia en los iconos, nada de mezclas.  Im\u00e1genes como refuerzo de las ideas expresadas.  Animar el uso de la aplicaci\u00f3n con mockups (balsamiq permite interacciones para ver el programa en funcionamiento).", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T06 feedback/#negocio",
-            "text": "M\u00e1s de 2 fortalezas, igual de posible pero deben estar claros.  Si se usan paquetes, describirlos (describir  bien  el modelo de negocios).  Modelo de negocio, debe estar  muy claro .",
+            "location": "/feedbacks/02/02-T06 feedback/#negocio", 
+            "text": "M\u00e1s de 2 fortalezas, igual de posible pero deben estar claros.  Si se usan paquetes, describirlos (describir  bien  el modelo de negocios).  Modelo de negocio, debe estar  muy claro .", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T07 feedback/",
-            "text": "Presentaci\u00f3n 7\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nContenido de los Sprints, no est\u00e1 definido \nexpl\u00edcitamente\n. Especialmente el primer Sprint (al terminar la primera presentaci\u00f3n). \n\n\nConsistencia\n en los iconos. \n\n\nBreak even. Ponerlo visualmente. \n\n\nEstilo de la presentaci\u00f3n puede romperse si se est\u00e1 explicando la idea inicial o starting point.\n\n\nDomain of Problem -> Problem Domain\n\n\nIm\u00e1genes del DAFO deben intentar mostrar la idea claramente y usar un formato correcto.\n\n\nCostes no hace falta indicar hasta el \u00faltimo euro, indicar 30k \u20ac, de forma estimada o reducida.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nMarketing, no se ha tenido en cuenta. Debe estar. \n\n\nLa parte de los usuarios no es entendido.\n\n\nSi la aplicaci\u00f3n es de desconocidos. \u00bfEstar\u00eda dispuestos los usuarios a usar usuarios desconocidos?\n\n\nCompetidores, muy de pasada pero no hay tabla o \nmatriz de funcionalidades\n.\n\n\nCostes\n definidos claramente.\n\n\nExplicar los estudios de los costes, de d\u00f3nde han salido. Explicar qu\u00e9 se ha asumido, cu\u00e1nto se ha asumido de qu\u00e9 usuarios... Por encima.",
+            "location": "/feedbacks/02/02-T07 feedback/", 
+            "text": "Presentaci\u00f3n 7\n\n\nPresentaci\u00f3n\n\n\n\n\n\n\n\n\nContenido\n\n\n\n\nContenido de los Sprints, no est\u00e1 definido \nexpl\u00edcitamente\n. Especialmente el primer Sprint (al terminar la primera presentaci\u00f3n). \n\n\nConsistencia\n en los iconos. \n\n\nBreak even. Ponerlo visualmente. \n\n\nEstilo de la presentaci\u00f3n puede romperse si se est\u00e1 explicando la idea inicial o starting point.\n\n\nDomain of Problem -\n Problem Domain\n\n\nIm\u00e1genes del DAFO deben intentar mostrar la idea claramente y usar un formato correcto.\n\n\nCostes no hace falta indicar hasta el \u00faltimo euro, indicar 30k \u20ac, de forma estimada o reducida.\n\n\n\n\nNegocio\n\n\n\n\nMarketing, no se ha tenido en cuenta. Debe estar. \n\n\nLa parte de los usuarios no es entendido.\n\n\nSi la aplicaci\u00f3n es de desconocidos. \u00bfEstar\u00eda dispuestos los usuarios a usar usuarios desconocidos?\n\n\nCompetidores, muy de pasada pero no hay tabla o \nmatriz de funcionalidades\n.\n\n\nCostes\n definidos claramente.\n\n\nExplicar los estudios de los costes, de d\u00f3nde han salido. Explicar qu\u00e9 se ha asumido, cu\u00e1nto se ha asumido de qu\u00e9 usuarios... Por encima.", 
             "title": "02-T07 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T07 feedback/#presentacion-7",
-            "text": "",
+            "location": "/feedbacks/02/02-T07 feedback/#presentacion-7", 
+            "text": "", 
             "title": "Presentaci\u00f3n 7"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T07 feedback/#presentacion",
-            "text": "",
+            "location": "/feedbacks/02/02-T07 feedback/#presentacion", 
+            "text": "", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T07 feedback/#contenido",
-            "text": "Contenido de los Sprints, no est\u00e1 definido  expl\u00edcitamente . Especialmente el primer Sprint (al terminar la primera presentaci\u00f3n).   Consistencia  en los iconos.   Break even. Ponerlo visualmente.   Estilo de la presentaci\u00f3n puede romperse si se est\u00e1 explicando la idea inicial o starting point.  Domain of Problem -> Problem Domain  Im\u00e1genes del DAFO deben intentar mostrar la idea claramente y usar un formato correcto.  Costes no hace falta indicar hasta el \u00faltimo euro, indicar 30k \u20ac, de forma estimada o reducida.",
+            "location": "/feedbacks/02/02-T07 feedback/#contenido", 
+            "text": "Contenido de los Sprints, no est\u00e1 definido  expl\u00edcitamente . Especialmente el primer Sprint (al terminar la primera presentaci\u00f3n).   Consistencia  en los iconos.   Break even. Ponerlo visualmente.   Estilo de la presentaci\u00f3n puede romperse si se est\u00e1 explicando la idea inicial o starting point.  Domain of Problem -  Problem Domain  Im\u00e1genes del DAFO deben intentar mostrar la idea claramente y usar un formato correcto.  Costes no hace falta indicar hasta el \u00faltimo euro, indicar 30k \u20ac, de forma estimada o reducida.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T07 feedback/#negocio",
-            "text": "Marketing, no se ha tenido en cuenta. Debe estar.   La parte de los usuarios no es entendido.  Si la aplicaci\u00f3n es de desconocidos. \u00bfEstar\u00eda dispuestos los usuarios a usar usuarios desconocidos?  Competidores, muy de pasada pero no hay tabla o  matriz de funcionalidades .  Costes  definidos claramente.  Explicar los estudios de los costes, de d\u00f3nde han salido. Explicar qu\u00e9 se ha asumido, cu\u00e1nto se ha asumido de qu\u00e9 usuarios... Por encima.",
+            "location": "/feedbacks/02/02-T07 feedback/#negocio", 
+            "text": "Marketing, no se ha tenido en cuenta. Debe estar.   La parte de los usuarios no es entendido.  Si la aplicaci\u00f3n es de desconocidos. \u00bfEstar\u00eda dispuestos los usuarios a usar usuarios desconocidos?  Competidores, muy de pasada pero no hay tabla o  matriz de funcionalidades .  Costes  definidos claramente.  Explicar los estudios de los costes, de d\u00f3nde han salido. Explicar qu\u00e9 se ha asumido, cu\u00e1nto se ha asumido de qu\u00e9 usuarios... Por encima.", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T08 feedback/",
-            "text": "Presentaci\u00f3n 8\n\u00b6\n\n\nPresentaci\u00f3n\n\u00b6\n\n\n\n\n\n\n\n\nContenido\n\u00b6\n\n\n\n\nFotos con uniforme.\n\n\nWeb Accomodation -> Web hosting.\n\n\nEl contenido de la diapositiva deber\u00e1 comprenderse sin necesidad de anotaciones o detallando de ninguna manera.\n\n\nEl primer Sprint debe estar definido. Incluir qu\u00e9 vais a implementar en esta primera versi\u00f3n.\n\n\nTesting debe estar antes, mucho antes. Desde el principio debes intentar introducir testing.\n\n\nF\u00f3rmulas no hacen falta, lo explicas. Aportar datos clave pero no indicar c\u00f3mo se ha hecho eso.\n\n\nM\u00e1s detalle de las horas, deber\u00edan aportarse horas totales, o mensual, pero no horas por coste de horas.\n\n\n\n\nNegocio\n\u00b6\n\n\n\n\nModelo de negocio no claro. \u00bfC\u00faantas personas han realizado las excursiones con amigos? Enfocar el negocio, o con amigos o desconocidos.\n\n\nChat durante el viaje, de soporte a viajes contratados. Chat con desconocidos una vez se est\u00e9 en viaje puede ser mejor idea. Comentar con gu\u00eda, agrupar a los miembros ... Sin necesidad de crear grupos de WH u otros sistemas.",
+            "location": "/feedbacks/02/02-T08 feedback/", 
+            "text": "Presentaci\u00f3n 8\n\n\nPresentaci\u00f3n\n\n\n\n\n\n\n\n\nContenido\n\n\n\n\nFotos con uniforme.\n\n\nWeb Accomodation -\n Web hosting.\n\n\nEl contenido de la diapositiva deber\u00e1 comprenderse sin necesidad de anotaciones o detallando de ninguna manera.\n\n\nEl primer Sprint debe estar definido. Incluir qu\u00e9 vais a implementar en esta primera versi\u00f3n.\n\n\nTesting debe estar antes, mucho antes. Desde el principio debes intentar introducir testing.\n\n\nF\u00f3rmulas no hacen falta, lo explicas. Aportar datos clave pero no indicar c\u00f3mo se ha hecho eso.\n\n\nM\u00e1s detalle de las horas, deber\u00edan aportarse horas totales, o mensual, pero no horas por coste de horas.\n\n\n\n\nNegocio\n\n\n\n\nModelo de negocio no claro. \u00bfC\u00faantas personas han realizado las excursiones con amigos? Enfocar el negocio, o con amigos o desconocidos.\n\n\nChat durante el viaje, de soporte a viajes contratados. Chat con desconocidos una vez se est\u00e9 en viaje puede ser mejor idea. Comentar con gu\u00eda, agrupar a los miembros ... Sin necesidad de crear grupos de WH u otros sistemas.", 
             "title": "02-T08 feedback"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T08 feedback/#presentacion-8",
-            "text": "",
+            "location": "/feedbacks/02/02-T08 feedback/#presentacion-8", 
+            "text": "", 
             "title": "Presentaci\u00f3n 8"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T08 feedback/#presentacion",
-            "text": "",
+            "location": "/feedbacks/02/02-T08 feedback/#presentacion", 
+            "text": "", 
             "title": "Presentaci\u00f3n"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T08 feedback/#contenido",
-            "text": "Fotos con uniforme.  Web Accomodation -> Web hosting.  El contenido de la diapositiva deber\u00e1 comprenderse sin necesidad de anotaciones o detallando de ninguna manera.  El primer Sprint debe estar definido. Incluir qu\u00e9 vais a implementar en esta primera versi\u00f3n.  Testing debe estar antes, mucho antes. Desde el principio debes intentar introducir testing.  F\u00f3rmulas no hacen falta, lo explicas. Aportar datos clave pero no indicar c\u00f3mo se ha hecho eso.  M\u00e1s detalle de las horas, deber\u00edan aportarse horas totales, o mensual, pero no horas por coste de horas.",
+            "location": "/feedbacks/02/02-T08 feedback/#contenido", 
+            "text": "Fotos con uniforme.  Web Accomodation -  Web hosting.  El contenido de la diapositiva deber\u00e1 comprenderse sin necesidad de anotaciones o detallando de ninguna manera.  El primer Sprint debe estar definido. Incluir qu\u00e9 vais a implementar en esta primera versi\u00f3n.  Testing debe estar antes, mucho antes. Desde el principio debes intentar introducir testing.  F\u00f3rmulas no hacen falta, lo explicas. Aportar datos clave pero no indicar c\u00f3mo se ha hecho eso.  M\u00e1s detalle de las horas, deber\u00edan aportarse horas totales, o mensual, pero no horas por coste de horas.", 
             "title": "Contenido"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T08 feedback/#negocio",
-            "text": "Modelo de negocio no claro. \u00bfC\u00faantas personas han realizado las excursiones con amigos? Enfocar el negocio, o con amigos o desconocidos.  Chat durante el viaje, de soporte a viajes contratados. Chat con desconocidos una vez se est\u00e9 en viaje puede ser mejor idea. Comentar con gu\u00eda, agrupar a los miembros ... Sin necesidad de crear grupos de WH u otros sistemas.",
+            "location": "/feedbacks/02/02-T08 feedback/#negocio", 
+            "text": "Modelo de negocio no claro. \u00bfC\u00faantas personas han realizado las excursiones con amigos? Enfocar el negocio, o con amigos o desconocidos.  Chat durante el viaje, de soporte a viajes contratados. Chat con desconocidos una vez se est\u00e9 en viaje puede ser mejor idea. Comentar con gu\u00eda, agrupar a los miembros ... Sin necesidad de crear grupos de WH u otros sistemas.", 
             "title": "Negocio"
-        },
+        }, 
         {
-            "location": "/feedbacks/02/02-T0X general/",
-            "text": "No habemos incidido en tecnolog\u00edas nuevas. No sabemos skill de base.\n\n\nModeraci\u00f3n necesita mejoras. Moderador ser\u00e1 activo, efectivo, sin ser intrusivo. Tampoco la idea es moderaci\u00f3n del profesor, lo suyo es: Un moderador que hace frente a todo el p\u00fablico y ejerce de maestro de ceremonia, gu\u00eda a cada fase de cada presentaci\u00f3n (\"Nos queda tiempo para una \u00faltima pregunta\"...). Moderar a toda la clase. \nTemporizador\n, 2 personas responsables, uno sobre el timer (puede ser un ordenador, \ntanto para los que preguntan como los que presentan\n).\n\n\nLos profesores se quedan a veces sin tiempo, debemos acortar las presentaciones.\n\n\nSi hay 2 profesores, debemos repartir su tiempo de mejor forma. La idea es que el grupo rote cada profesor.\n\n\nEl moderador deber\u00eda ser m\u00e1s explicito de que se empieza a la hora, ser m\u00e1s \nestrictos\n con los tiempos.\n\n\nNo queda claro al terminar del Sprint 1, 2 y 3. En la secci\u00f3n de productos. Funcionalidades.\n\n\nHay gente que han usado \nmarcos\n. \nTarjeta amarilla\n.\n\n\nPositivo no \nsirve\n, salvo cuando no se tenga.\n\n\nGesti\u00f3n de los feedbacks. Proponerlo entre todos. Una forma es el informe detallado, incluido dentro del entregable. Otra forma es presentarlo para la pr\u00f3xima, esquem\u00e1tico.\n\n\nTiempos muertos pueden gestionarse mejor. Preparar el ordenador\n\n\nGesti\u00f3n de costes evolutivo, hemos gastado y tenemos que explicarlo\n\n\nDestacar cada versi\u00f3n de los costes, positivo, negativo, neutral.\n\n\nPara la pr\u00f3xima tiene que hacerse.\n\n\n\u00bfCuanto tenemos de tiempo? Tener unos tiempos fijados por cada profesor.\n\n\nEl entregable se cerrar\u00e1 el d\u00eda antes de la presentaci\u00f3n 12 de la noche.\n\n\nEstar\u00eda bien que estos feedbacks se observen los diferentes Layouts. Se tienen registrados en la ma\u00f1ana.\n\n\n\u00cdndices, no s\u00f3lo mera enumeraci\u00f3n. Como mucho 5 bloques que siempre empiece por la idea del proyecto, el equipo, y cada uno como vea.\n\n\nInicio efectivo, hemos visto pregunta (pero nadie responde). Apoyarse en noticias, videos, teatrillo, ... Muchas formas para tratarlo. (Articulo sobre estad\u00edstica, en mitad alguien comenta la estad\u00edstica, para demostrar lo mal que se pone las estad\u00edsticas en documentos l\u00f3gicos). Para videos, Cender.\n\n\nEstudio de los competidores. Error com\u00fan, por qu\u00e9 hemos seleccionado estos competidores. Hacer una matriz de funcionalidades.\n\n\nEnsayo, \nrequerido\n. Con los compa\u00f1eros para el feedback.",
+            "location": "/feedbacks/02/02-T0X general/", 
+            "text": "No habemos incidido en tecnolog\u00edas nuevas. No sabemos skill de base.\n\n\nModeraci\u00f3n necesita mejoras. Moderador ser\u00e1 activo, efectivo, sin ser intrusivo. Tampoco la idea es moderaci\u00f3n del profesor, lo suyo es: Un moderador que hace frente a todo el p\u00fablico y ejerce de maestro de ceremonia, gu\u00eda a cada fase de cada presentaci\u00f3n (\"Nos queda tiempo para una \u00faltima pregunta\"...). Moderar a toda la clase. \nTemporizador\n, 2 personas responsables, uno sobre el timer (puede ser un ordenador, \ntanto para los que preguntan como los que presentan\n).\n\n\nLos profesores se quedan a veces sin tiempo, debemos acortar las presentaciones.\n\n\nSi hay 2 profesores, debemos repartir su tiempo de mejor forma. La idea es que el grupo rote cada profesor.\n\n\nEl moderador deber\u00eda ser m\u00e1s explicito de que se empieza a la hora, ser m\u00e1s \nestrictos\n con los tiempos.\n\n\nNo queda claro al terminar del Sprint 1, 2 y 3. En la secci\u00f3n de productos. Funcionalidades.\n\n\nHay gente que han usado \nmarcos\n. \nTarjeta amarilla\n.\n\n\nPositivo no \nsirve\n, salvo cuando no se tenga.\n\n\nGesti\u00f3n de los feedbacks. Proponerlo entre todos. Una forma es el informe detallado, incluido dentro del entregable. Otra forma es presentarlo para la pr\u00f3xima, esquem\u00e1tico.\n\n\nTiempos muertos pueden gestionarse mejor. Preparar el ordenador\n\n\nGesti\u00f3n de costes evolutivo, hemos gastado y tenemos que explicarlo\n\n\nDestacar cada versi\u00f3n de los costes, positivo, negativo, neutral.\n\n\nPara la pr\u00f3xima tiene que hacerse.\n\n\n\u00bfCuanto tenemos de tiempo? Tener unos tiempos fijados por cada profesor.\n\n\nEl entregable se cerrar\u00e1 el d\u00eda antes de la presentaci\u00f3n 12 de la noche.\n\n\nEstar\u00eda bien que estos feedbacks se observen los diferentes Layouts. Se tienen registrados en la ma\u00f1ana.\n\n\n\u00cdndices, no s\u00f3lo mera enumeraci\u00f3n. Como mucho 5 bloques que siempre empiece por la idea del proyecto, el equipo, y cada uno como vea.\n\n\nInicio efectivo, hemos visto pregunta (pero nadie responde). Apoyarse en noticias, videos, teatrillo, ... Muchas formas para tratarlo. (Articulo sobre estad\u00edstica, en mitad alguien comenta la estad\u00edstica, para demostrar lo mal que se pone las estad\u00edsticas en documentos l\u00f3gicos). Para videos, Cender.\n\n\nEstudio de los competidores. Error com\u00fan, por qu\u00e9 hemos seleccionado estos competidores. Hacer una matriz de funcionalidades.\n\n\nEnsayo, \nrequerido\n. Con los compa\u00f1eros para el feedback.", 
             "title": "02-T general"
-        },
+        }, 
         {
-            "location": "/resolucion_feedbacks/",
-            "text": "Resoluci\u00f3n de feedbacks\n\u00b6\n\n\nSoluci\u00f3n a los feedbacks de la clase del 23/02/2018\n\u00b6\n\n\n\n\nFeedback a solucionar: Mejorar la descripci\u00f3n de competencia.\nProblema (opcional): Hay una gran falta de competidores, no quedar\u00eda mucho que hablar.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Explicar que no tenemos competidores directos. Mostrar el uso de Facebook y parecidos. Ejemplo: Solicitud de asistencia a Paddlesurf, no es competidores.\n - Nosotros nos diferenciamos en los eventos o deportes, no las personas.\n - A\u00f1adimos nuevas funcionalidades, ranking de usuarios ...\nResultado:\nSe intentar\u00e1 mejorar la descripci\u00f3n indicando posibles competidores.\n\n\n\n\n\n\nFeedback a solucionar: Definir el MVP\nProblema (opcional): El MVP no est\u00e1 definido\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Hemos pensado un MVP\nResultado:\nEl MVP ser\u00e1 la creaci\u00f3n de eventos, asistencia de eventos y ranking de personas (ese \u00faltimo es secundario). Todav\u00eda se plantear\u00e1n m\u00e1s elementos.\n\n\n\n\n\n\nFeedback a solucionar: Nuevos mockups\nProblema (opcional): Los mockups mostrados no eran muy funcionales.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se han asignado la creaci\u00f3n de mockups donde se mostrar\u00e1 el uso de nuestro MVP.\nResultado:\nSe han realizado nuevos mockups bas\u00e1ndose en el estilo anterior\n\n\n\n\n\n\nFeedback a solucionar: Plantear mejores fuentes de beneficio\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - A\u00f1adir eventos patrocinados por empresas, de forma que queden en mayor posici\u00f3n dentro de las b\u00fasquedas. Usar\u00eda un sistema de pujas. Existe una alternativa de poner el precio del mayor o no, que generar\u00eda m\u00e1s beneficios.\n - No intentaremos solicitar tasas debido a dificultades legales.\n - Tambi\u00e9n hemos pensado m\u00e1s micro pagos, limitaci\u00f3n de im\u00e1genes en los eventos ( 1 o 2 para empezar). \n - Mini tienda para la compra de productos de deportes de riesgo.\nResultado:\nSe han pensado incluir la posibilidad de poder aumentar la posici\u00f3n del evento a trav\u00e9s de pagos, admitir la creaci\u00f3n de eventos patrocinados,  \n\n\n\n\nClase del 02/03/2018\n\u00b6\n\n\nFeedback a solucionar: Definir el retorno de inversiones\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar una visi\u00f3n pesimista.\n - Estar\u00e1 incluido dentro del presupuesto.\nResultado:\nSe ha incluido este an\u00e1lisis junto al presupuesto\n\n\n\n\n\n\nFeedback a solucionar: Completar la secci\u00f3n de competencia\nProblema (opcional): Tras una b\u00fasqueda a fondo, hemos encontrado unas competencias\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar en la presentaci\u00f3n una tabla que contenga las diferencias de las funcionalidades de cada aplicaci\u00f3n, junto con la funcionalidad que aporta nuestra aplicaci\u00f3n.\nResultado: \nDisponer en la presentaci\u00f3n de una tabla con la \"competencia\" y mostrar como nuestra aplicaci\u00f3n es diferencial a todas estas:\n - https://www.hundredrooms.com/inspiracion/ideas-de-viajes/deportes-de-riesgo-y-viajes-de-aventura-por-espana/\n - https://shrick.pro/\n - https://www.madridxtreme.com/\n - https://www.sportsocial.in/#/\n\nAlgunos apuntes sobre la falta de competencia:\n - http://www.forolondres.com/foro/showthread.php?t=96944\n - http://www.uolala.com/p/conocer-gente-para-hacer-senderismo-7617\n\n\n\n\n\n\nFeedback a solucionar: No se sigue un patr\u00f3n en las diapositivas.\nProblema (opcional): Se tendr\u00e1 que fijar un patr\u00f3n claro a seguir\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Cambiar el formato de las diapositivas afectadas.\nResultado: \nCambiaremos el formato de la diapositiva 5. La idea consiste en los inicios de apartados usar una im\u00e1gen en un lateral para dar paso al nuevo tema, las otras diapositivas seguir\u00e1n un formato diferente. La secci\u00f3n de idea, al ser un inicio efectivo, no seguir\u00e1 este patr\u00f3n. \n\n\n\n\n\n\nFeedback a solucionar: Explicaci\u00f3n de la fuente de negocio\nProblema (opcional): No ha quedado explicado el beneficio de nuestra empresa.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Diferentes ramas indicando la fuente de beneficios:\n    - Sponsor: Publicidad, con marcas de negocios del sector. Patrocinando los eventos.\n    - Empresas: Rama de actividades, donde una empresa vende productos (con banners).\n    - Proveedores: Empresas que ofrezcan los eventos.\n    - Clientes: Pago de premium. (opcional, podemos ganar dinero a trav\u00e9s de otros medios).\n    - Eventos: Poder pagar por la posici\u00f3n de los eventos.\n    - Escuelas y cursos: Ofreceremos un certificado.\n - Otra posibilidad, tema de paquetes:\n    - Gratis: 3 anuncios de eventos\n    - Premium: Sin restricciones ni anuncios.\nResultado: \nCambiaremos el formato de la diapositiva 5 para incluir un sistema de ramas que explica cada fuente de ingresos de nuestra aplicaci\u00f3n.\nNos enfocaremos en comunicar que nuestra principal fuente de ingresos es la funci\u00f3n de intermediario entre usuarios de deportes extremos y empresas que ofrecen esos deportes extremos.\n\n\n\n\n\n\nFeedback a solucionar: Mockups realistas\nProblema (opcional): Demasiados complejos\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Vamos a rehacer los mockups con balsamiq. Se encargar\u00e1 Mar\u00eda.\n - Se tratar\u00e1 de resaltar las funcionalidades m\u00e1s diferenciadas de la aplicaci\u00f3n (creaci\u00f3n de eventos).\nResultado: \nPrimero, se usar\u00e1n mockups creados con Balsamiq, la raz\u00f3n de esto siendo el hecho de agilizar su desarrollo as\u00ed como aportar una visi\u00f3n mucho menos compleja de la aplicaci\u00f3n.\nSe crear\u00e1n diapositivas, en cada una explicaremos cada parte de la aplicaci\u00f3n haciendo zoom en los mockups donde sea necesario.\n\n\n\n\n\n\nFeedback a solucionar: El video no se ve\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 ver c\u00f3mo reproducir el video a las 15:00.\n - Tambi\u00e9n tener disponible los altavoces.\n - Puede ser que al estar extendido no funciona.\nResultado: \nUna persona se encargar\u00e1 de revisar el correcto funcionamiento del ordenador.\nSe ha confirmado que en Firefox, el video se retrasmite de forma correcta. En Chrome, falla la reproducci\u00f3n.\n\n\n\n\n\n\nFeedback a solucionar: Reducir la cantidad de elementos del \u00edndice\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Agruparlo en \"Idea\", \"Negocio\", \"Soluci\u00f3n\", \"Tecnolog\u00edas\". Quiz\u00e1s a\u00f1adir subapartados (en ma\u00f1ana, cada apartado al entrar abr\u00eda nuevos apartados y quedaba muy bien).\n - Apertura de subapartados queda muy bien\nResultado: \nSe ha aglutinado los \u00edndices en \"Idea\", \"Team\", \"Business Model\", \"Planning\", \"Technologies\". En cada apartado, se abrir\u00e1n los subapartados para mantener un esquema claro.\n\n\n\n\n\n\nFeedback a solucionar: Indicar qu\u00e9 se ha buscado en la competencia\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Indicar claramente, con citas, qu\u00e9 se ha buscado.\nResultado: \nSe han incluido los t\u00e9rminos buscados para la b\u00fasqueda de competencia.\n\n\n\n\n\n\nFeedback a solucionar: Todav\u00eda no se tiene claro el servidor\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 investigar las alternativas existentes, por ahora utilizaremos Heroku al ser m\u00e1s conocido y ya haber desplegado algo.\nResultado: \n\n\n\n\n\n\n\nFeedback a solucionar: Todav\u00eda no se tiene claro el marketing\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se contemplar\u00e1 el coste, pero se ha iniciado el sistema de marketing.\nResultado: \n\n\n\n\n\n\n\nFeedback a solucionar: Costes quedan muy insuficientes\nProblema (opcional): No se ven claros\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se mostrar\u00e1n m\u00e1s claramente los costes directos y indirectos.\nResultado: \nSe han incluido un desglose m\u00e1s \u00e1mplio de los costes, indicando cada apartado dentro del coste directo e indirecto.\n\n\n\n\n\n\nFeedback a solucionar: No se incluye un DAFO\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se incluir\u00e1 un DAFO\nResultado: \nSe ha incluido un DAFO. Esto aportar\u00e1 una buena conclusi\u00f3n a la soluci\u00f3n del problema y sistema de negocio seguido, por lo que se situar\u00e1 despu\u00e9s de la explicaci\u00f3n del plan de negocio.",
+            "location": "/resolucion_feedbacks/", 
+            "text": "Resoluci\u00f3n de feedbacks\n\n\nSoluci\u00f3n a los feedbacks de la clase del 23/02/2018\n\n\n\n\nFeedback a solucionar: Mejorar la descripci\u00f3n de competencia.\nProblema (opcional): Hay una gran falta de competidores, no quedar\u00eda mucho que hablar.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Explicar que no tenemos competidores directos. Mostrar el uso de Facebook y parecidos. Ejemplo: Solicitud de asistencia a Paddlesurf, no es competidores.\n - Nosotros nos diferenciamos en los eventos o deportes, no las personas.\n - A\u00f1adimos nuevas funcionalidades, ranking de usuarios ...\nResultado:\n\n\n\n\n\n\n\nFeedback a solucionar: Definir el MVP\nProblema (opcional): El MVP no est\u00e1 definido\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Hemos pensado un MVP\nResultado:\nEl MVP ser\u00e1 la creaci\u00f3n de eventos, asistencia de eventos y ranking de personas (ese \u00faltimo es secundario). Todav\u00eda se plantear\u00e1n m\u00e1s elementos.\n\n\n\n\n\n\nFeedback a solucionar: Nuevos mockups\nProblema (opcional): Los mockups mostrados no eran muy funcionales.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se han asignado la creaci\u00f3n de mockups donde se mostrar\u00e1 el uso de nuestro MVP.\nResultado:\n\n\n\n\n\n\n\nFeedback a solucionar: Plantear mejores fuentes de beneficio\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - A\u00f1adir eventos patrocinados por empresas, de forma que queden en mayor posici\u00f3n dentro de las b\u00fasquedas. Usar\u00eda un sistema de pujas. Existe una alternativa de poner el precio del mayor o no, que generar\u00eda m\u00e1s beneficios.\n - No intentaremos solicitar tasas debido a dificultades legales.\n - Tambi\u00e9n hemos pensado m\u00e1s micro pagos, limitaci\u00f3n de im\u00e1genes en los eventos ( 1 o 2 para empezar). \n - Mini tienda para la compra de productos de deportes de riesgo.\nResultado:\n\n\n\n\n\nClase del 02/03/2018\n\n\nFeedback a solucionar: Definir el retorno de inversiones\nProblema (opcional): Debemos \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar una visi\u00f3n pesimista.\n - Estar\u00e1 incluido dentro del presupuesto.\nResultado:\n\n\n\n\n\n\n\nFeedback a solucionar: Completar la secci\u00f3n de competencia\nProblema (opcional): Tras una b\u00fasqueda a fondo, hemos encontrado unas competencias\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar en la presentaci\u00f3n una tabla que contenga las diferencias de las funcionalidades de cada aplicaci\u00f3n, junto con la funcionalidad que aporta nuestra aplicaci\u00f3n.\nResultado: \nDisponer en la presentaci\u00f3n de una tabla con la \ncompetencia\n y mostar como nuestra aplicaci\u00f3n que es diferencial a todas estas:\n - https://www.hundredrooms.com/inspiracion/ideas-de-viajes/deportes-de-riesgo-y-viajes-de-aventura-por-espana/\n - https://shrick.pro/ - Red social sobre actos de deportes de extremo, no \n - https://www.madridxtreme.com/\n - https://www.sportsocial.in/#/\n\nAlgunos apuntes sobre la falta de competencia:\n - http://www.forolondres.com/foro/showthread.php?t=96944\n - http://www.uolala.com/p/conocer-gente-para-hacer-senderismo-7617\n\n\n\n\n\n\nFeedback a solucionar: No se sigue un patr\u00f3n en las diapositivas.\nProblema (opcional): Se tendr\u00e1 que fijar un patr\u00f3n claro a seguir\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Cambiar el formato de las diapositivas afectadas.\nResultado: \nCambiaremos el formato de la diapositiva 5. La idea consiste en los inicios de apartados usar una im\u00e1gen en un lateral para dar paso al nuevo tema, las otras diapositivas seguir\u00e1n un formato diferente. La secci\u00f3n de idea, al ser un inicio efectivo, no seguir\u00e1 este patr\u00f3n. \n\n\n\n\n\n\nFeedback a solucionar: Explicaci\u00f3n de la fuente de negocio\nProblema (opcional): No ha quedado explicado el beneficio de nuestra empresa.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Diferentes ramas indicando la fuente de beneficios:\n    - Sponsor: Publicidad, con marcas de negocios del sector. Patrocinando los eventos.\n    - Empresas: Rama de actividades, donde una empresa vende productos (con banners).\n    - Proveedores: Empresas que ofrezcan los eventos.\n    - Clientes: Pago de premium. (opcional, podemos ganar dinero a trav\u00e9s de otros medios).\n    - Eventos: Poder pagar por la posici\u00f3n de los eventos.\n    - Escuelas y cursos: Ofreceremos un certificado.\n - Otra posibilidad, tema de paquetes:\n    - Gratis: 3 anuncios de eventos\n    - Premium: Sin restricciones ni anuncios.\nResultado: \nCambiaremos el formato de la diapositiva 5 para incluir un sistema de ramas que explica cada fuente de ingresos de nuestra aplicaci\u00f3n.\n\n\n\n\n\n\nFeedback a solucionar: Mockups realistas\nProblema (opcional): Demasiados complejos\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Vamos a rehacer los mockups con balsamiq. Se encargar\u00e1 Mar\u00eda.\n - Se tratar\u00e1 de resaltar las funcionalidades m\u00e1s diferenciadas de la aplicaci\u00f3n (creaci\u00f3n de eventos).\nResultado: \nPrimero, se usar\u00e1n mockups creados con Balsamiq, la raz\u00f3n de esto siendo el hecho de agilizar su desarrollo as\u00ed como aportar una visi\u00f3n mucho menos compleja de la aplicaci\u00f3n.\nSe crear\u00e1n 2 diapositivas, en cada una explicaremos cada parte de la aplicaci\u00f3n haciendo zoom en los mockups donde sea necesario.\n\n\n\n\n\n\nFeedback a solucionar: El video no se ve\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 ver c\u00f3mo reproducir el video a las 15:00.\n - Tambi\u00e9n tener disponible los altavoces.\n - Puede ser que al estar extendido no funciona.\nResultado: \nUna persona se encargar\u00e1 de revisar el correcto funcionamiento del ordenador.\n\n\n\n\n\n\nFeedback a solucionar: Reducir la cantidad de elementos del \u00edndice\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Agruparlo en \nIdea\n, \nNegocio\n, \nSoluci\u00f3n\n, \nTecnolog\u00edas\n. Quiz\u00e1s a\u00f1adir subapartados (en ma\u00f1ana, cada apartado al entrar abr\u00eda nuevos apartados y quedaba muy bien).\n - Apertura de subapartados queda muy bien\nResultado: \nSe ha aglutinado los \u00edndices en \nIdea\n, \nTeam\n, \nBusiness Model\n, \nPlanning\n, \nTechnologies\n. En cada apartado, se abrir\u00e1n los subapartados para mantener un esquema claro.\n\n\n\n\n\n\nFeedback a solucionar: Indicar qu\u00e9 se ha buscado en la competencia\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Indicar claramente, con citas, qu\u00e9 se ha buscado.\nResultado: \nSe han incluido los t\u00e9rminos buscados para la b\u00fasqueda de competencia.\n\n\n\n\n\n\nFeedback a solucionar: Todav\u00eda no se tiene claro el servidor\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 investigar las alternativas existentes, por ahora utilizaremos Heroku al ser m\u00e1s conocido y ya haber desplegado algo.\nResultado: \n\n\n\n\n\n\n\nFeedback a solucionar: Todav\u00eda no se tiene claro el marketing\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se contemplar\u00e1 el coste, pero se ha iniciado el sistema de marketing.\nResultado: \n\n\n\n\n\n\n\nFeedback a solucionar: Costes quedan muy insuficientes\nProblema (opcional): No se ven claros\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se mostrar\u00e1n m\u00e1s claramente los costes directos y indirectos.\nResultado: \nSe han incluido un desglose m\u00e1s \u00e1mplio de los costes, indicando cada apartado dentro del coste directo e indirecto.\n\n\n\n\n\n\nFeedback a solucionar: No se incluye un DAFO\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se incluir\u00e1 un DAFO\nResultado: \nSe ha incluido un DAFO. Esto aportar\u00e1 una buena conclusi\u00f3n a la soluci\u00f3n del problema y sistema de negocio seguido, por lo que se situar\u00e1 despu\u00e9s de la explicaci\u00f3n del plan de negocio.", 
             "title": "Resoluci\u00f3n del feedback"
-        },
+        }, 
         {
-            "location": "/resolucion_feedbacks/#resolucion-de-feedbacks",
-            "text": "",
+            "location": "/resolucion_feedbacks/#resolucion-de-feedbacks", 
+            "text": "", 
             "title": "Resoluci\u00f3n de feedbacks"
-        },
+        }, 
         {
-            "location": "/resolucion_feedbacks/#solucion-a-los-feedbacks-de-la-clase-del-23022018",
-            "text": "Feedback a solucionar: Mejorar la descripci\u00f3n de competencia.\nProblema (opcional): Hay una gran falta de competidores, no quedar\u00eda mucho que hablar.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Explicar que no tenemos competidores directos. Mostrar el uso de Facebook y parecidos. Ejemplo: Solicitud de asistencia a Paddlesurf, no es competidores.\n - Nosotros nos diferenciamos en los eventos o deportes, no las personas.\n - A\u00f1adimos nuevas funcionalidades, ranking de usuarios ...\nResultado:\nSe intentar\u00e1 mejorar la descripci\u00f3n indicando posibles competidores.   Feedback a solucionar: Definir el MVP\nProblema (opcional): El MVP no est\u00e1 definido\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Hemos pensado un MVP\nResultado:\nEl MVP ser\u00e1 la creaci\u00f3n de eventos, asistencia de eventos y ranking de personas (ese \u00faltimo es secundario). Todav\u00eda se plantear\u00e1n m\u00e1s elementos.   Feedback a solucionar: Nuevos mockups\nProblema (opcional): Los mockups mostrados no eran muy funcionales.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se han asignado la creaci\u00f3n de mockups donde se mostrar\u00e1 el uso de nuestro MVP.\nResultado:\nSe han realizado nuevos mockups bas\u00e1ndose en el estilo anterior   Feedback a solucionar: Plantear mejores fuentes de beneficio\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - A\u00f1adir eventos patrocinados por empresas, de forma que queden en mayor posici\u00f3n dentro de las b\u00fasquedas. Usar\u00eda un sistema de pujas. Existe una alternativa de poner el precio del mayor o no, que generar\u00eda m\u00e1s beneficios.\n - No intentaremos solicitar tasas debido a dificultades legales.\n - Tambi\u00e9n hemos pensado m\u00e1s micro pagos, limitaci\u00f3n de im\u00e1genes en los eventos ( 1 o 2 para empezar). \n - Mini tienda para la compra de productos de deportes de riesgo.\nResultado:\nSe han pensado incluir la posibilidad de poder aumentar la posici\u00f3n del evento a trav\u00e9s de pagos, admitir la creaci\u00f3n de eventos patrocinados,",
+            "location": "/resolucion_feedbacks/#solucion-a-los-feedbacks-de-la-clase-del-23022018", 
+            "text": "Feedback a solucionar: Mejorar la descripci\u00f3n de competencia.\nProblema (opcional): Hay una gran falta de competidores, no quedar\u00eda mucho que hablar.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Explicar que no tenemos competidores directos. Mostrar el uso de Facebook y parecidos. Ejemplo: Solicitud de asistencia a Paddlesurf, no es competidores.\n - Nosotros nos diferenciamos en los eventos o deportes, no las personas.\n - A\u00f1adimos nuevas funcionalidades, ranking de usuarios ...\nResultado:   Feedback a solucionar: Definir el MVP\nProblema (opcional): El MVP no est\u00e1 definido\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Hemos pensado un MVP\nResultado:\nEl MVP ser\u00e1 la creaci\u00f3n de eventos, asistencia de eventos y ranking de personas (ese \u00faltimo es secundario). Todav\u00eda se plantear\u00e1n m\u00e1s elementos.   Feedback a solucionar: Nuevos mockups\nProblema (opcional): Los mockups mostrados no eran muy funcionales.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se han asignado la creaci\u00f3n de mockups donde se mostrar\u00e1 el uso de nuestro MVP.\nResultado:   Feedback a solucionar: Plantear mejores fuentes de beneficio\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - A\u00f1adir eventos patrocinados por empresas, de forma que queden en mayor posici\u00f3n dentro de las b\u00fasquedas. Usar\u00eda un sistema de pujas. Existe una alternativa de poner el precio del mayor o no, que generar\u00eda m\u00e1s beneficios.\n - No intentaremos solicitar tasas debido a dificultades legales.\n - Tambi\u00e9n hemos pensado m\u00e1s micro pagos, limitaci\u00f3n de im\u00e1genes en los eventos ( 1 o 2 para empezar). \n - Mini tienda para la compra de productos de deportes de riesgo.\nResultado:", 
             "title": "Soluci\u00f3n a los feedbacks de la clase del 23/02/2018"
-        },
+        }, 
         {
-            "location": "/resolucion_feedbacks/#clase-del-02032018",
-            "text": "Feedback a solucionar: Definir el retorno de inversiones\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar una visi\u00f3n pesimista.\n - Estar\u00e1 incluido dentro del presupuesto.\nResultado:\nSe ha incluido este an\u00e1lisis junto al presupuesto   Feedback a solucionar: Completar la secci\u00f3n de competencia\nProblema (opcional): Tras una b\u00fasqueda a fondo, hemos encontrado unas competencias\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar en la presentaci\u00f3n una tabla que contenga las diferencias de las funcionalidades de cada aplicaci\u00f3n, junto con la funcionalidad que aporta nuestra aplicaci\u00f3n.\nResultado: \nDisponer en la presentaci\u00f3n de una tabla con la \"competencia\" y mostrar como nuestra aplicaci\u00f3n es diferencial a todas estas:\n - https://www.hundredrooms.com/inspiracion/ideas-de-viajes/deportes-de-riesgo-y-viajes-de-aventura-por-espana/\n - https://shrick.pro/\n - https://www.madridxtreme.com/\n - https://www.sportsocial.in/#/\n\nAlgunos apuntes sobre la falta de competencia:\n - http://www.forolondres.com/foro/showthread.php?t=96944\n - http://www.uolala.com/p/conocer-gente-para-hacer-senderismo-7617   Feedback a solucionar: No se sigue un patr\u00f3n en las diapositivas.\nProblema (opcional): Se tendr\u00e1 que fijar un patr\u00f3n claro a seguir\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Cambiar el formato de las diapositivas afectadas.\nResultado: \nCambiaremos el formato de la diapositiva 5. La idea consiste en los inicios de apartados usar una im\u00e1gen en un lateral para dar paso al nuevo tema, las otras diapositivas seguir\u00e1n un formato diferente. La secci\u00f3n de idea, al ser un inicio efectivo, no seguir\u00e1 este patr\u00f3n.    Feedback a solucionar: Explicaci\u00f3n de la fuente de negocio\nProblema (opcional): No ha quedado explicado el beneficio de nuestra empresa.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Diferentes ramas indicando la fuente de beneficios:\n    - Sponsor: Publicidad, con marcas de negocios del sector. Patrocinando los eventos.\n    - Empresas: Rama de actividades, donde una empresa vende productos (con banners).\n    - Proveedores: Empresas que ofrezcan los eventos.\n    - Clientes: Pago de premium. (opcional, podemos ganar dinero a trav\u00e9s de otros medios).\n    - Eventos: Poder pagar por la posici\u00f3n de los eventos.\n    - Escuelas y cursos: Ofreceremos un certificado.\n - Otra posibilidad, tema de paquetes:\n    - Gratis: 3 anuncios de eventos\n    - Premium: Sin restricciones ni anuncios.\nResultado: \nCambiaremos el formato de la diapositiva 5 para incluir un sistema de ramas que explica cada fuente de ingresos de nuestra aplicaci\u00f3n.\nNos enfocaremos en comunicar que nuestra principal fuente de ingresos es la funci\u00f3n de intermediario entre usuarios de deportes extremos y empresas que ofrecen esos deportes extremos.   Feedback a solucionar: Mockups realistas\nProblema (opcional): Demasiados complejos\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Vamos a rehacer los mockups con balsamiq. Se encargar\u00e1 Mar\u00eda.\n - Se tratar\u00e1 de resaltar las funcionalidades m\u00e1s diferenciadas de la aplicaci\u00f3n (creaci\u00f3n de eventos).\nResultado: \nPrimero, se usar\u00e1n mockups creados con Balsamiq, la raz\u00f3n de esto siendo el hecho de agilizar su desarrollo as\u00ed como aportar una visi\u00f3n mucho menos compleja de la aplicaci\u00f3n.\nSe crear\u00e1n diapositivas, en cada una explicaremos cada parte de la aplicaci\u00f3n haciendo zoom en los mockups donde sea necesario.   Feedback a solucionar: El video no se ve\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 ver c\u00f3mo reproducir el video a las 15:00.\n - Tambi\u00e9n tener disponible los altavoces.\n - Puede ser que al estar extendido no funciona.\nResultado: \nUna persona se encargar\u00e1 de revisar el correcto funcionamiento del ordenador.\nSe ha confirmado que en Firefox, el video se retrasmite de forma correcta. En Chrome, falla la reproducci\u00f3n.   Feedback a solucionar: Reducir la cantidad de elementos del \u00edndice\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Agruparlo en \"Idea\", \"Negocio\", \"Soluci\u00f3n\", \"Tecnolog\u00edas\". Quiz\u00e1s a\u00f1adir subapartados (en ma\u00f1ana, cada apartado al entrar abr\u00eda nuevos apartados y quedaba muy bien).\n - Apertura de subapartados queda muy bien\nResultado: \nSe ha aglutinado los \u00edndices en \"Idea\", \"Team\", \"Business Model\", \"Planning\", \"Technologies\". En cada apartado, se abrir\u00e1n los subapartados para mantener un esquema claro.   Feedback a solucionar: Indicar qu\u00e9 se ha buscado en la competencia\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Indicar claramente, con citas, qu\u00e9 se ha buscado.\nResultado: \nSe han incluido los t\u00e9rminos buscados para la b\u00fasqueda de competencia.   Feedback a solucionar: Todav\u00eda no se tiene claro el servidor\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 investigar las alternativas existentes, por ahora utilizaremos Heroku al ser m\u00e1s conocido y ya haber desplegado algo.\nResultado:    Feedback a solucionar: Todav\u00eda no se tiene claro el marketing\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se contemplar\u00e1 el coste, pero se ha iniciado el sistema de marketing.\nResultado:    Feedback a solucionar: Costes quedan muy insuficientes\nProblema (opcional): No se ven claros\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se mostrar\u00e1n m\u00e1s claramente los costes directos y indirectos.\nResultado: \nSe han incluido un desglose m\u00e1s \u00e1mplio de los costes, indicando cada apartado dentro del coste directo e indirecto.   Feedback a solucionar: No se incluye un DAFO\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se incluir\u00e1 un DAFO\nResultado: \nSe ha incluido un DAFO. Esto aportar\u00e1 una buena conclusi\u00f3n a la soluci\u00f3n del problema y sistema de negocio seguido, por lo que se situar\u00e1 despu\u00e9s de la explicaci\u00f3n del plan de negocio.",
+            "location": "/resolucion_feedbacks/#clase-del-02032018", 
+            "text": "Feedback a solucionar: Definir el retorno de inversiones\nProblema (opcional): Debemos \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar una visi\u00f3n pesimista.\n - Estar\u00e1 incluido dentro del presupuesto.\nResultado:   Feedback a solucionar: Completar la secci\u00f3n de competencia\nProblema (opcional): Tras una b\u00fasqueda a fondo, hemos encontrado unas competencias\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Debemos mostrar en la presentaci\u00f3n una tabla que contenga las diferencias de las funcionalidades de cada aplicaci\u00f3n, junto con la funcionalidad que aporta nuestra aplicaci\u00f3n.\nResultado: \nDisponer en la presentaci\u00f3n de una tabla con la  competencia  y mostar como nuestra aplicaci\u00f3n que es diferencial a todas estas:\n - https://www.hundredrooms.com/inspiracion/ideas-de-viajes/deportes-de-riesgo-y-viajes-de-aventura-por-espana/\n - https://shrick.pro/ - Red social sobre actos de deportes de extremo, no \n - https://www.madridxtreme.com/\n - https://www.sportsocial.in/#/\n\nAlgunos apuntes sobre la falta de competencia:\n - http://www.forolondres.com/foro/showthread.php?t=96944\n - http://www.uolala.com/p/conocer-gente-para-hacer-senderismo-7617   Feedback a solucionar: No se sigue un patr\u00f3n en las diapositivas.\nProblema (opcional): Se tendr\u00e1 que fijar un patr\u00f3n claro a seguir\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Cambiar el formato de las diapositivas afectadas.\nResultado: \nCambiaremos el formato de la diapositiva 5. La idea consiste en los inicios de apartados usar una im\u00e1gen en un lateral para dar paso al nuevo tema, las otras diapositivas seguir\u00e1n un formato diferente. La secci\u00f3n de idea, al ser un inicio efectivo, no seguir\u00e1 este patr\u00f3n.    Feedback a solucionar: Explicaci\u00f3n de la fuente de negocio\nProblema (opcional): No ha quedado explicado el beneficio de nuestra empresa.\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Diferentes ramas indicando la fuente de beneficios:\n    - Sponsor: Publicidad, con marcas de negocios del sector. Patrocinando los eventos.\n    - Empresas: Rama de actividades, donde una empresa vende productos (con banners).\n    - Proveedores: Empresas que ofrezcan los eventos.\n    - Clientes: Pago de premium. (opcional, podemos ganar dinero a trav\u00e9s de otros medios).\n    - Eventos: Poder pagar por la posici\u00f3n de los eventos.\n    - Escuelas y cursos: Ofreceremos un certificado.\n - Otra posibilidad, tema de paquetes:\n    - Gratis: 3 anuncios de eventos\n    - Premium: Sin restricciones ni anuncios.\nResultado: \nCambiaremos el formato de la diapositiva 5 para incluir un sistema de ramas que explica cada fuente de ingresos de nuestra aplicaci\u00f3n.   Feedback a solucionar: Mockups realistas\nProblema (opcional): Demasiados complejos\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Vamos a rehacer los mockups con balsamiq. Se encargar\u00e1 Mar\u00eda.\n - Se tratar\u00e1 de resaltar las funcionalidades m\u00e1s diferenciadas de la aplicaci\u00f3n (creaci\u00f3n de eventos).\nResultado: \nPrimero, se usar\u00e1n mockups creados con Balsamiq, la raz\u00f3n de esto siendo el hecho de agilizar su desarrollo as\u00ed como aportar una visi\u00f3n mucho menos compleja de la aplicaci\u00f3n.\nSe crear\u00e1n 2 diapositivas, en cada una explicaremos cada parte de la aplicaci\u00f3n haciendo zoom en los mockups donde sea necesario.   Feedback a solucionar: El video no se ve\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 ver c\u00f3mo reproducir el video a las 15:00.\n - Tambi\u00e9n tener disponible los altavoces.\n - Puede ser que al estar extendido no funciona.\nResultado: \nUna persona se encargar\u00e1 de revisar el correcto funcionamiento del ordenador.   Feedback a solucionar: Reducir la cantidad de elementos del \u00edndice\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Agruparlo en  Idea ,  Negocio ,  Soluci\u00f3n ,  Tecnolog\u00edas . Quiz\u00e1s a\u00f1adir subapartados (en ma\u00f1ana, cada apartado al entrar abr\u00eda nuevos apartados y quedaba muy bien).\n - Apertura de subapartados queda muy bien\nResultado: \nSe ha aglutinado los \u00edndices en  Idea ,  Team ,  Business Model ,  Planning ,  Technologies . En cada apartado, se abrir\u00e1n los subapartados para mantener un esquema claro.   Feedback a solucionar: Indicar qu\u00e9 se ha buscado en la competencia\nProblema (opcional): \nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Indicar claramente, con citas, qu\u00e9 se ha buscado.\nResultado: \nSe han incluido los t\u00e9rminos buscados para la b\u00fasqueda de competencia.   Feedback a solucionar: Todav\u00eda no se tiene claro el servidor\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n - Se intentar\u00e1 investigar las alternativas existentes, por ahora utilizaremos Heroku al ser m\u00e1s conocido y ya haber desplegado algo.\nResultado:    Feedback a solucionar: Todav\u00eda no se tiene claro el marketing\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se contemplar\u00e1 el coste, pero se ha iniciado el sistema de marketing.\nResultado:    Feedback a solucionar: Costes quedan muy insuficientes\nProblema (opcional): No se ven claros\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se mostrar\u00e1n m\u00e1s claramente los costes directos y indirectos.\nResultado: \nSe han incluido un desglose m\u00e1s \u00e1mplio de los costes, indicando cada apartado dentro del coste directo e indirecto.   Feedback a solucionar: No se incluye un DAFO\nProblema (opcional):\nSoluci\u00f3n/Soluciones aportadas para solucionarlo:\n  - Se incluir\u00e1 un DAFO\nResultado: \nSe ha incluido un DAFO. Esto aportar\u00e1 una buena conclusi\u00f3n a la soluci\u00f3n del problema y sistema de negocio seguido, por lo que se situar\u00e1 despu\u00e9s de la explicaci\u00f3n del plan de negocio.", 
             "title": "Clase del 02/03/2018"
-        },
+        }, 
         {
-            "location": "/otros/",
-            "text": "Aqui se detallar\u00e1n otros aspectos a tener en cuenta sobre la asignatura/trabajo.\n\n\nBrainstormings\n\u00b6\n\n\nIdeas planteadas:\n\n Multieventual: Gesti\u00f3n de eventos por parte de creador. Se podr\u00e1 comprar entradas y comprobar datos de los eventos. PROBLEMA: Competencia alta.\n\n Adrenalive: Gesti\u00f3n de deportes de riesgo, ya preparado y estudiado.\n* Red social sobre disfraces: Se podr\u00e1 ver diferentes combinaciones y poder comprobar d\u00f3nde se ha comprado cierta pieza o en el caso de ser artesanal, formas de obtenerlo ...",
+            "location": "/otros/", 
+            "text": "Aqui se detallar\u00e1n otros aspectos a tener en cuenta sobre la asignatura/trabajo.\n\n\nBrainstormings\n\n\nIdeas planteadas:\n\n Multieventual: Gesti\u00f3n de eventos por parte de creador. Se podr\u00e1 comprar entradas y comprobar datos de los eventos. PROBLEMA: Competencia alta.\n\n Adrenalive: Gesti\u00f3n de deportes de riesgo, ya preparado y estudiado.\n* Red social sobre disfraces: Se podr\u00e1 ver diferentes combinaciones y poder comprobar d\u00f3nde se ha comprado cierta pieza o en el caso de ser artesanal, formas de obtenerlo ...", 
             "title": "Otros"
-        },
+        }, 
         {
-            "location": "/otros/#brainstormings",
-            "text": "Ideas planteadas:  Multieventual: Gesti\u00f3n de eventos por parte de creador. Se podr\u00e1 comprar entradas y comprobar datos de los eventos. PROBLEMA: Competencia alta.  Adrenalive: Gesti\u00f3n de deportes de riesgo, ya preparado y estudiado.\n* Red social sobre disfraces: Se podr\u00e1 ver diferentes combinaciones y poder comprobar d\u00f3nde se ha comprado cierta pieza o en el caso de ser artesanal, formas de obtenerlo ...",
+            "location": "/otros/#brainstormings", 
+            "text": "Ideas planteadas:  Multieventual: Gesti\u00f3n de eventos por parte de creador. Se podr\u00e1 comprar entradas y comprobar datos de los eventos. PROBLEMA: Competencia alta.  Adrenalive: Gesti\u00f3n de deportes de riesgo, ya preparado y estudiado.\n* Red social sobre disfraces: Se podr\u00e1 ver diferentes combinaciones y poder comprobar d\u00f3nde se ha comprado cierta pieza o en el caso de ser artesanal, formas de obtenerlo ...", 
             "title": "Brainstormings"
-        },
+        }, 
         {
-            "location": "/tutorial_subida/",
-            "text": "PROCEDIMIENTO PARA SUBIR A LA WIKI\n\u00b6\n\n\nModificaciones locales\n\u00b6\n\n\n1.\n Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor (\nrama master\n):\n\n\n        $ git pull origin master\n\n\n\n2.\n Hacer las modificaciones oportunas y ver cambios locales con:\n\n\n        $ mkdocs serve\n\n\n\ny en la direcci\u00f3n \n \nhttp://127.0.0.1:8000\n \n\n\n3.\n Una vez modificado a\u00f1adimos los cambios que tengamos con:\n\n\n        $ git add .\n        $ git commit -m \"<Comentario>\"\n\n\n\n4.\n Subimos al repositorio remoto:\n\n\n        $ git push origin master\n\n\n\nDesplegar en el servidor\n\u00b6\n\n\n1.\n Hay dos posiblidades vamos a explicar primero una, bajarse lo \u00faltimo y resetear la rama \ngh-pages\n:\n\n\n        $ git fetch\n        $ git checkout gh-pages\n        $ git reset --hard origin/gh-pages\n        $ git pull origin gh-pages\n\n\n\n2.\n Volvemos a la rama \nmaster\n y desplegamos:\n\n\n        $ git checkout master\n        $ mkdocs gh-deploy\n\n\n\n1.1\n Segunda forma es la siguiente, borramos la rama \ngh-pages\n y luego desplegamos:\n\n\n        $ git branch -D gh-pages\n        $ mkdocs gh-deploy",
+            "location": "/tutorial_subida/", 
+            "text": "PROCEDIMIENTO PARA SUBIR A LA WIKI\n\n\nModificaciones locales\n\n\n1.\n Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor (\nrama master\n):\n\n\n        $ git pull origin master\n\n\n\n2.\n Hacer las modificaciones oportunas y ver cambios locales con:\n\n\n        $ mkdocs serve\n\n\n\ny en la direcci\u00f3n \n \nhttp://127.0.0.1:8000\n \n\n\n3.\n Una vez modificado a\u00f1adimos los cambios que tengamos con:\n\n\n        $ git add .\n        $ git commit -m \"\nComentario\n\"\n\n\n\n4.\n Subimos al repositorio remoto:\n\n\n        $ git push origin master\n\n\n\nDesplegar en el servidor\n\n\n1.\n Hay dos posiblidades vamos a explicar primero una, bajarse lo \u00faltimo y resetear la rama \ngh-pages\n:\n\n\n        $ git fetch\n        $ git checkout gh-pages\n        $ git reset --hard origin/gh-pages\n        $ git pull origin gh-pages\n\n\n\n2.\n Volvemos a la rama \nmaster\n y desplegamos:\n\n\n        $ git checkout master\n        $ mkdocs gh-deploy\n\n\n\n1.1\n Segunda forma es la siguiente, borramos la rama \ngh-pages\n y luego desplegamos:\n\n\n        $ git branch -D gh-pages\n        $ git fetch\n        $ mkdocs gh-deploy", 
             "title": "Subir wiki"
-        },
+        }, 
         {
-            "location": "/tutorial_subida/#procedimiento-para-subir-a-la-wiki",
-            "text": "",
+            "location": "/tutorial_subida/#procedimiento-para-subir-a-la-wiki", 
+            "text": "", 
             "title": "PROCEDIMIENTO PARA SUBIR A LA WIKI"
-        },
+        }, 
         {
-            "location": "/tutorial_subida/#modificaciones-locales",
-            "text": "1.  Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor ( rama master ):          $ git pull origin master  2.  Hacer las modificaciones oportunas y ver cambios locales con:          $ mkdocs serve  y en la direcci\u00f3n    http://127.0.0.1:8000    3.  Una vez modificado a\u00f1adimos los cambios que tengamos con:          $ git add .\n        $ git commit -m \"<Comentario>\"  4.  Subimos al repositorio remoto:          $ git push origin master",
+            "location": "/tutorial_subida/#modificaciones-locales", 
+            "text": "1.  Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor ( rama master ):          $ git pull origin master  2.  Hacer las modificaciones oportunas y ver cambios locales con:          $ mkdocs serve  y en la direcci\u00f3n    http://127.0.0.1:8000    3.  Una vez modificado a\u00f1adimos los cambios que tengamos con:          $ git add .\n        $ git commit -m \" Comentario \"  4.  Subimos al repositorio remoto:          $ git push origin master", 
             "title": "Modificaciones locales"
-        },
+        }, 
         {
-            "location": "/tutorial_subida/#desplegar-en-el-servidor",
-            "text": "1.  Hay dos posiblidades vamos a explicar primero una, bajarse lo \u00faltimo y resetear la rama  gh-pages :          $ git fetch\n        $ git checkout gh-pages\n        $ git reset --hard origin/gh-pages\n        $ git pull origin gh-pages  2.  Volvemos a la rama  master  y desplegamos:          $ git checkout master\n        $ mkdocs gh-deploy  1.1  Segunda forma es la siguiente, borramos la rama  gh-pages  y luego desplegamos:          $ git branch -D gh-pages\n        $ mkdocs gh-deploy",
+            "location": "/tutorial_subida/#desplegar-en-el-servidor", 
+            "text": "1.  Hay dos posiblidades vamos a explicar primero una, bajarse lo \u00faltimo y resetear la rama  gh-pages :          $ git fetch\n        $ git checkout gh-pages\n        $ git reset --hard origin/gh-pages\n        $ git pull origin gh-pages  2.  Volvemos a la rama  master  y desplegamos:          $ git checkout master\n        $ mkdocs gh-deploy  1.1  Segunda forma es la siguiente, borramos la rama  gh-pages  y luego desplegamos:          $ git branch -D gh-pages\n        $ git fetch\n        $ mkdocs gh-deploy", 
             "title": "Desplegar en el servidor"
         }
     ]
