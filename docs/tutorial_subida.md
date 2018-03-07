@@ -4,13 +4,13 @@
 
 **1.** Lo primero para empezar a realizar los cambios es actualizarse con lo que ya hay en el servidor (**rama master**):
 
-		
+
 			$ git pull origin master
 
 **2.** Hacer las modificaciones oportunas y ver cambios locales con:
-		
+
 			$ mkdocs serve
-	
+
 y en la dirección [ *http://127.0.0.1:8000* ](http://127.0.0.1:8000)
 
 **3.** Una vez modificado añadimos los cambios que tengamos con:
@@ -33,7 +33,7 @@ y en la dirección [ *http://127.0.0.1:8000* ](http://127.0.0.1:8000)
 			$ git pull origin gh-pages
 
 **2.** Volvemos a la rama *master* y desplegamos:
-			
+
 			$ git checkout master
 			$ mkdocs gh-deploy
 
