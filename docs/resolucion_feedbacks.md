@@ -11,7 +11,7 @@ Solución/Soluciones aportadas para solucionarlo:
  - Nosotros nos diferenciamos en los eventos o deportes, no las personas.
  - Añadimos nuevas funcionalidades, ranking de usuarios ...
 Resultado:
-
+Se intentará mejorar la descripción indicando posibles competidores.
 ```
 ---
 ```
@@ -29,7 +29,7 @@ Problema (opcional): Los mockups mostrados no eran muy funcionales.
 Solución/Soluciones aportadas para solucionarlo:
  - Se han asignado la creación de mockups donde se mostrará el uso de nuestro MVP.
 Resultado:
-
+Se han realizado nuevos mockups basándose en el estilo anterior
 ```
 ---
 ```
@@ -41,17 +41,17 @@ Solución/Soluciones aportadas para solucionarlo:
  - También hemos pensado más micro pagos, limitación de imágenes en los eventos ( 1 o 2 para empezar). 
  - Mini tienda para la compra de productos de deportes de riesgo.
 Resultado:
-
+Se han pensado incluir la posibilidad de poder aumentar la posición del evento a través de pagos, admitir la creación de eventos patrocinados,  
 ```
 #### Clase del 02/03/2018
 ```
 Feedback a solucionar: Definir el retorno de inversiones
-Problema (opcional): Debemos 
+Problema (opcional): 
 Solución/Soluciones aportadas para solucionarlo:
  - Debemos mostrar una visión pesimista.
  - Estará incluido dentro del presupuesto.
 Resultado:
-
+Se ha incluido este análisis junto al presupuesto y se ha añadido la gráfica media en la presentación.
 ```
 ---
 ```
@@ -60,9 +60,9 @@ Problema (opcional): Tras una búsqueda a fondo, hemos encontrado unas competenc
 Solución/Soluciones aportadas para solucionarlo:
  - Debemos mostrar en la presentación una tabla que contenga las diferencias de las funcionalidades de cada aplicación, junto con la funcionalidad que aporta nuestra aplicación.
 Resultado: 
-Disponer en la presentación de una tabla con la "competencia" y mostar como nuestra aplicación que es diferencial a todas estas:
+Disponer en la presentación de una tabla con la "competencia" y mostrar como nuestra aplicación es diferencial a todas estas:
  - https://www.hundredrooms.com/inspiracion/ideas-de-viajes/deportes-de-riesgo-y-viajes-de-aventura-por-espana/
- - https://shrick.pro/ - Red social sobre actos de deportes de extremo, no 
+ - https://shrick.pro/
  - https://www.madridxtreme.com/
  - https://www.sportsocial.in/#/
 
@@ -96,6 +96,7 @@ Solución/Soluciones aportadas para solucionarlo:
     - Premium: Sin restricciones ni anuncios.
 Resultado: 
 Cambiaremos el formato de la diapositiva 5 para incluir un sistema de ramas que explica cada fuente de ingresos de nuestra aplicación.
+Nos enfocaremos en comunicar que nuestra principal fuente de ingresos es la función de intermediario entre usuarios de deportes extremos y empresas que ofrecen esos deportes extremos.
 ```
 ---
 ```
@@ -106,7 +107,7 @@ Solución/Soluciones aportadas para solucionarlo:
  - Se tratará de resaltar las funcionalidades más diferenciadas de la aplicación (creación de eventos).
 Resultado: 
 Primero, se usarán mockups creados con Balsamiq, la razón de esto siendo el hecho de agilizar su desarrollo así como aportar una visión mucho menos compleja de la aplicación.
-Se crearán 2 diapositivas, en cada una explicaremos cada parte de la aplicación haciendo zoom en los mockups donde sea necesario.
+Se crearán diapositivas, en cada una explicaremos cada parte de la aplicación haciendo zoom en los mockups donde sea necesario.
 ```
 ---
 ```
@@ -118,6 +119,7 @@ Solución/Soluciones aportadas para solucionarlo:
  - Puede ser que al estar extendido no funciona.
 Resultado: 
 Una persona se encargará de revisar el correcto funcionamiento del ordenador.
+Se ha confirmado que en Firefox, el video se retrasmite de forma correcta. En Chrome, falla la reproducción.
 ```
 ---
 ```
@@ -145,7 +147,7 @@ Problema (opcional):
 Solución/Soluciones aportadas para solucionarlo:
  - Se intentará investigar las alternativas existentes, por ahora utilizaremos Heroku al ser más conocido y ya haber desplegado algo.
 Resultado: 
-
+Para el presupuesto, se ha pensado estimar un coste medio del servidor. Durante el desarrollo se planteará exactamente qué plataforma escoger.
 ```
 ---
 ```
@@ -154,7 +156,7 @@ Problema (opcional):
 Solución/Soluciones aportadas para solucionarlo:
   - Se contemplará el coste, pero se ha iniciado el sistema de marketing.
 Resultado: 
-
+Se ha considerado estimar una cantidad de efectivo a invertir en marketing, para después utilizarla siguiendo un plan de marketing.
 ```
 ---
 ```
