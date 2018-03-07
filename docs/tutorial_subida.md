@@ -40,4 +40,5 @@ y en la dirección [ *http://127.0.0.1:8000* ](http://127.0.0.1:8000)
 **1.1** Segunda forma es la siguiente, borramos la rama *gh-pages* y luego desplegamos:
 
 			$ git branch -D gh-pages
+			$ git fetch
 			$ mkdocs gh-deploy
