@@ -41,7 +41,7 @@ Solución/Soluciones aportadas para solucionarlo:
  - También hemos pensado más micro pagos, limitación de imágenes en los eventos ( 1 o 2 para empezar). 
  - Mini tienda para la compra de productos de deportes de riesgo.
 Resultado:
-Se han pensado incluir la posibilidad de poder aumentar la posición del evento a través de pagos, admitir la creación de eventos patrocinados,  
+Se han pensado incluir la posibilidad de poder aumentar la posición del evento a través de pagos y admitir la creación de eventos patrocinados.
 ```
 #### Clase del 02/03/2018
 ```
