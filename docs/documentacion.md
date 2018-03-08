@@ -7,6 +7,11 @@
     * [Acta de la reunión del 03/03/2018](https://docs.google.com/document/d/130XCmygAQlln_JG2joxYf49gQgPWZC5UMtOQCOfUx5k/edit)
     * [Acta de la reunión del 07/03/2018](https://docs.google.com/document/d/1YTMfrsqMpeiDEBb3GIEHP8LrABKQb3o4Ocv4lk4dSL0/edit)
 
+# Informes de resolución de feedback
+
+* [Carpeta de resolución de feedbacks](https://drive.google.com/drive/u/0/folders/1uXRg9G4grSdQNznXOoChXjXPcuyPwOKa)
+    * [Informe de resolución de feedbacks, Entrega 1](https://drive.google.com/file/d/11t4EBSxAkAWh2CTR0CKdru-h9pljSJEP/view)
+
 # Presentaciones
 
 * [Carpeta de presentaciones](https://drive.google.com/drive/u/0/folders/1zXbY3jD_u7Dk6BczAoAQUc2sid30xj8U)
@@ -18,6 +23,7 @@
 
 * [Documento de requisitos](https://docs.google.com/document/d/1nM5ux3iTecCXL6e1_3qMWTkBScxTdUqlRQnsnzhdZ88/edit?usp=drive_web&ouid=104924850308958917661)
 * [Desglose de los Sprints](https://drive.google.com/open?id=1MdqKz36DEbBo9pOOuKOvoxLhSjgiWdUA)
+* [Carpeta con mockups](https://drive.google.com/drive/u/0/folders/1mIu3SmFvhkVru3rlE8HPc5V0IOk4awAJ)
 
 ## Informes de tecnologías
 
