@@ -23,8 +23,11 @@ Más información en el siguiente [vínculo](https://docs.google.com/spreadsheet
 
 ## Producto
 Entrega realizada por EV.
+### Historial de entregas
+En el siguiente [vínculo](https://drive.google.com/drive/folders/1UVTC4O8iUWRVN4TQb0Qc1_rXoAfnUvIz) se incluyen los entregables realizados durante el curso.
+
 ### D01
-TBD (parece no ser necesario realizar una entrega de los productos, se debe confirmar esto!)
+Se debe realizan la entrega a través de la actividad creada en la EV. Se recomienda, teniendo en cuenta el tamaño de los archivos, realizar la entrega con antelación. 
 
 ### Sprint 1 (D02?)
 * MVP (Minimum Viable Product) inicial: Puede contener errores o aspecto no final, pero debe presentarse casos de uso base (deben, por lo tanto, escogerse algunos que puedan ser interesantes).
