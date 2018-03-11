@@ -28,7 +28,23 @@ pages:
       - 02-T07 feedback: "feedbacks/02/02-T07 feedback.md"
       - 02-T08 feedback: "feedbacks/02/02-T08 feedback.md"
       - 02-T general: "feedbacks/02/02-T0X general.md"
-  - Resolución del feedback: "resolucion_feedbacks.md"
+  - Clase 09/03/2018:
+    - Mañana:
+      - 03-M01 Art-in-bar: "feedbacks/03/03-M01 Art-in-bar.md"
+      - 03-M02 PetMyPet: "feedbacks/03/03-M02 PetMyPet.md"
+      - 03-M03 Homely: "feedbacks/03/03-M03 Homely.md"
+      - 03-M04 OldKare: "feedbacks/03/03-M04 OldKare.md"
+    - Tarde:
+      - 03-T01 Cocome: "feedbacks/03/03-T01 Cocome.md"
+      - 03-T02 Traveliers: "feedbacks/03/03-T02 Traveliers.md"
+      - 03-T03 Makai: "feedbacks/03/03-T03 Makai.md"
+      - 03-T04 Climbcode: "feedbacks/03/03-T04 Climbcode.md"
+      - 03-T05 Drafter: "feedbacks/03/03-T05 Drafter.md"
+      - 03-T06 QRico: "feedbacks/03/03-T06 QRico.md"
+      - 03-T07 Adrenalive: "feedbacks/03/03-T07 Adrenalive.md"
+      - 03-T08 QuickAcademy: "feedbacks/03/03-T08 QuickAcademy.md"
+  - Resolución del feedback:
+    - Resolución de feedbacks, 1a Entrega: "resolucion_feedbacks.md"    
 - Otros: 'otros.md'
 - Subir wiki: 'tutorial_subida.md'
 theme:
