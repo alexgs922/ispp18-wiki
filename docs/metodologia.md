@@ -21,11 +21,7 @@ En esta página se detallará las herramientas usadas, procesos de construcción
 La herramienta de gestión del código a utilizar será GitHub.
 
 ### Ramas
-La gestión de las ramas se realizará de la siguiente forma. Primero, se dispondrá de 'master', que almacenará un código que se considera como listo para despliegue, por lo que pasará pruebas funcionales, de sistema y de casos de uso. Después, se tendrá la rama de 'dev', que puede contener código con nuevas funcionalidades, pero pueden no estar probadas completamente y pueden dar errores. 
-
-El progreso de una versión a otra se realizará de la siguiente manera. Se dispondrán de ramas de defectos y de casos de uso. Estas ramas se trabajarán realizando un 'branch' desde 'dev'. Una vez se considere el código como terminado, se realizará inicialmente un 'pull' de 'dev' y 'rebase' desde 'dev' a la nueva funcionalidad de forma local (es decir, sin subir el código). Se realizará el proceso contrario, realizando un 'rebase' desde la rama trabajada a 'dev', de esta forma los conflictos quedarán eliminados con el primer 'rebase' y se podrá seguir trabajando en la funcionalidad. Una vez se hayan solucionado los conflictos, se subirá la rama de funcionalidad/defecto al repositorio remoto.
-
-Una vez el código quede de la forma correcta, se realizará un pull request a 'dev' o a la funcionalidad padre. Se realizarán pruebas cruzadas del código implementado por lo que se espera que el código se haya probado de la forma que se considere adecuada.
+La gestión de las ramas se realizará de la siguiente [forma](gestion_ramas.md).
 
 ### Commits
 El formato de los commits se encuentra en la siguiente [sección](plantillas.md#commits-v1).

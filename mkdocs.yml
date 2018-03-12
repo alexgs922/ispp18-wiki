@@ -46,6 +46,7 @@ pages:
   - Resolución del feedback:
     - Resolución de feedbacks, 1a Entrega: "resolucion_feedbacks.md"    
 - Otros: 'otros.md'
+- Gestión de Ramas: 'gestion_ramas.md'
 - Subir wiki: 'tutorial_subida.md'
 theme:
     name: 'material'
