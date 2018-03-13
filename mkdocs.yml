@@ -11,6 +11,7 @@ pages:
     - General: 'producto.md'
   - Metodología: 'metodologia.md'
   - Organización: 'organizacion.md'
+  - Gestión de Ramas: 'gestion_ramas.md'
 - Feedbacks:
   - Clase 02/03/2018:
     - Mañana:
@@ -46,7 +47,6 @@ pages:
   - Resolución del feedback:
     - Resolución de feedbacks, 1a Entrega: "resolucion_feedbacks.md"    
 - Otros: 'otros.md'
-- Gestión de Ramas: 'gestion_ramas.md'
 - Subir wiki: 'tutorial_subida.md'
 theme:
     name: 'material'
