@@ -9,6 +9,8 @@ pages:
     - Plantillas: 'plantillas.md'
   - Producto:
     - General: 'producto.md'
+    - Web: 
+      - Manual de uso de plantilla: 'manual de uso.md'
   - Metodología: 'metodologia.md'
   - Organización: 'organizacion.md'
   - Gestión de Ramas: 'gestion_ramas.md'
