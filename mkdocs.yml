@@ -6,6 +6,7 @@ pages:
 - Grupo: 
   - Documentación:
     - General: 'documentacion.md'
+    - Actas de reunión: 'actas de reunión.md'
     - Plantillas: 'plantillas.md'
   - Producto:
     - General: 'producto.md'
