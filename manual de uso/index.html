@@ -1346,6 +1346,29 @@
  - <code>res.json</code>: Envía los datos introducidos en formato JSON. Realizará las transformaciones requeridas así como incluir en el header los elementos necesarios.
  - <code>res.render</code>: Envía los datos introducidos en formato HTML. Es preferible que el contenido sea un HTML válido.</p>
 <p>Debe tenerse especial cuidado al usar <code>res.send</code>, <code>res.json</code> y <code>res.render</code> ya que éstos realizarán el envío directamente, por lo que si necesita realizar un tratamiento posterior, el envío ya se habrá realizado.</p>
+<h1 id="web">Web<a class="headerlink" href="#web" title="Permanent link">&para;</a></h1>
+<p>En esta sección se describirá el uso de la parte Web de la aplicación</p>
+<h2 id="instalacion">Instalación<a class="headerlink" href="#instalacion" title="Permanent link">&para;</a></h2>
+<p>Primero, debemos instalar una serie de dependencias globales, aparte de <code>npm install</code>.
+Se va a necesitar 'yo' y 'generator-angular' que pueden instalarse de esta forma:</p>
+<pre><code>npm install -g yo generator-angular
+</code></pre>
+
+<p>Con esto se podrá introducir nuevas vistas y controladores.</p>
+<p>Después, para ejecutar la parte Web, se deberá acceder a la carpeta 'api/' y ejecutar:</p>
+<pre><code>npm start
+</code></pre>
+
+<p>Con esto, se ejecutará la parte Web y API.</p>
+<h2 id="anadir-nuevas-vistas-y-controladores">Añadir nuevas vistas y controladores<a class="headerlink" href="#anadir-nuevas-vistas-y-controladores" title="Permanent link">&para;</a></h2>
+<p>Para añadir nuevas vistas o controladores, debe ejecutarse el siguiente comando dentro de la carpeta 'cliente':</p>
+<pre><code>yo angular:route &lt;ruta&gt;
+</code></pre>
+
+<p>Con esto, se crearán archivos en la carpeta 'views', 'scripts/controllers' y se añadirá la ruta en la carpeta correspondiente. </p>
+<p>En la carpeta de 'views', se encuentran las vistas HTML de la página. Se podrá usar todos los comandos de AngularJS como ng-repeat y otros.</p>
+<p>En la carpeta de 'scripts/controllers' están la definición de controladores. Se debe tener en cuenta que el '$scope' de AngularJS se encuentra en el objeto 'this' y para acceder a éste debe llamarse con el nombre del controlador.</p>
+<p>Finalmente, los estilos en CSS se encuentran en la carpeta 'styles' y las imágenes y otros datos en 'images'.</p>
                 
                   
                 
