@@ -56,3 +56,34 @@ Los atributos más usados de `res` son:
  - `res.render`: Envía los datos introducidos en formato HTML. Es preferible que el contenido sea un HTML válido.
 
 Debe tenerse especial cuidado al usar `res.send`, `res.json` y `res.render` ya que éstos realizarán el envío directamente, por lo que si necesita realizar un tratamiento posterior, el envío ya se habrá realizado.
+
+# Web
+En esta sección se describirá el uso de la parte Web de la aplicación
+
+## Instalación
+Primero, debemos instalar una serie de dependencias globales, aparte de `npm install`.
+Se va a necesitar 'yo' y 'generator-angular' que pueden instalarse de esta forma:
+```
+npm install -g yo generator-angular
+```
+Con esto se podrá introducir nuevas vistas y controladores.
+
+Después, para ejecutar la parte Web, se deberá acceder a la carpeta 'api/' y ejecutar:
+```
+npm start
+```
+
+Con esto, se ejecutará la parte Web y API.
+
+## Añadir nuevas vistas y controladores
+Para añadir nuevas vistas o controladores, debe ejecutarse el siguiente comando dentro de la carpeta 'cliente':
+```
+yo angular:route <ruta>
+```
+Con esto, se crearán archivos en la carpeta 'views', 'scripts/controllers' y se añadirá la ruta en la carpeta correspondiente. 
+
+En la carpeta de 'views', se encuentran las vistas HTML de la página. Se podrá usar todos los comandos de AngularJS como ng-repeat y otros.
+
+En la carpeta de 'scripts/controllers' están la definición de controladores. Se debe tener en cuenta que el '$scope' de AngularJS se encuentra en el objeto 'this' y para acceder a éste debe llamarse con el nombre del controlador.
+
+Finalmente, los estilos en CSS se encuentran en la carpeta 'styles' y las imágenes y otros datos en 'images'.
