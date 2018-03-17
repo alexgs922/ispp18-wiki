@@ -47,6 +47,22 @@ pages:
       - 03-T06 QRico: "feedbacks/03/03-T06 QRico.md"
       - 03-T07 Adrenalive: "feedbacks/03/03-T07 Adrenalive.md"
       - 03-T08 QuickAcademy: "feedbacks/03/03-T08 QuickAcademy.md"
+  - Clase 16/03/2018:
+    - Mañana:
+      - 04-M01 PetMyPet: "feedbacks/04/04-M01 PetMyPet.md"
+      - 04-M02 Homely: "feedbacks/04/04-M02 Homely.md"
+      - 04-M03 OldKare: "feedbacks/04/04-M03 OldKare.md"
+      - 04-M04 Vapours: "feedbacks/04/04-M04 Vapours.md"
+    - Tarde:
+      - 04-T01 QuickAdemy: "feedbacks/04/04-T01 QuickAcademy.md"
+      - 04-T02 QRico: "feedbacks/04/04-T02 QRico.md"
+      - 04-T03 Drafter: "feedbacks/04/04-T03 Drafter.md"
+      - 04-T04 Adrenalive: "feedbacks/04/04-T04 Adrenalive.md"
+      - 04-T05 Travelliers: "feedbacks/04/04-T05 Travelliers.md"
+      - 04-T06 Climbcode: "feedbacks/04/04-T06 Climbcode.md"
+      - 04-T07 Cocome: "feedbacks/04/04-T07 Cocome.md"
+      - 04-T08 Makai: "feedbacks/04/04-T08 Makai.md"
+      - 04-TXX Conclusiones: "feedbacks/04/04-TXX Conclusiones.md"
   - Resolución del feedback:
     - Resolución de feedbacks, 1a Entrega: "resolucion_feedbacks.md"    
 - Otros: 'otros.md'
