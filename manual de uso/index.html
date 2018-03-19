@@ -1369,6 +1369,12 @@ Se va a necesitar 'yo' y 'generator-angular' que pueden instalarse de esta forma
 <p>En la carpeta de 'views', se encuentran las vistas HTML de la página. Se podrá usar todos los comandos de AngularJS como ng-repeat y otros.</p>
 <p>En la carpeta de 'scripts/controllers' están la definición de controladores. Se debe tener en cuenta que el '$scope' de AngularJS se encuentra en el objeto 'this' y para acceder a éste debe llamarse con el nombre del controlador.</p>
 <p>Finalmente, los estilos en CSS se encuentran en la carpeta 'styles' y las imágenes y otros datos en 'images'.</p>
+<h2 id="anadir-nuevos-servicios">Añadir nuevos servicios<a class="headerlink" href="#anadir-nuevos-servicios" title="Permanent link">&para;</a></h2>
+<p>Para añadir servicios, accesible por controladores definidos anteriormente, se debe ejecutar el siguiente comando:</p>
+<pre><code>yo angular:service &lt;nombreServicio&gt;
+</code></pre>
+
+<p>El servicio (que se introducirá de forma correcta dentro del 'index.html') se podrá acceder a través de la carpeta 'cliente/app/scripts/services/'. Recordar que se define una función que debe retornar un diccionario con cada función que ofrezca el servicio y el importado de servicio funciona de igual forma que con los controladores.</p>
                 
                   
                 
