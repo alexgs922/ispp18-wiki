@@ -87,3 +87,11 @@ En la carpeta de 'views', se encuentran las vistas HTML de la página. Se podrá
 En la carpeta de 'scripts/controllers' están la definición de controladores. Se debe tener en cuenta que el '$scope' de AngularJS se encuentra en el objeto 'this' y para acceder a éste debe llamarse con el nombre del controlador.
 
 Finalmente, los estilos en CSS se encuentran en la carpeta 'styles' y las imágenes y otros datos en 'images'.
+
+## Añadir nuevos servicios
+Para añadir servicios, accesible por controladores definidos anteriormente, se debe ejecutar el siguiente comando:
+```
+yo angular:service <nombreServicio>
+```
+El servicio (que se introducirá de forma correcta dentro del 'index.html') se podrá acceder a través de la carpeta 'cliente/app/scripts/services/'. Recordar que se define una función que debe retornar un diccionario con cada función que ofrezca el servicio y el importado de servicio funciona de igual forma que con los controladores.
+
