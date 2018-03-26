@@ -9,3 +9,4 @@
     * [Acta de la reunión del 12/03/2018](https://docs.google.com/document/d/1Gn2ph-4dVBsolEM9p-ifgwisBytHjlnI4U4CCYhVuhQ/edit)
     * [Acta de la reunión del 15/03/2018](https://docs.google.com/document/d/1klcHgTil7GdZNXW73ot85ug2TKn1cGRYS2y7yKSbipY/edit)
     * [Acta de la reunión del 18/03/2018](https://docs.google.com/document/d/1fmzphRoQt8zYrWSAXjtpYkEU89CC0ufbZTLSe4OQ61Q/edit)
+    * [Meeting point for 26/03/2018](https://docs.google.com/document/d/16DqLLVq3Fw2iTKf-xjYQTSCMaj7734kTq0s5kNJT_8s/edit)
