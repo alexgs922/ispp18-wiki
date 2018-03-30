@@ -11,6 +11,7 @@ pages:
   - Producto:
     - General: 'producto.md'
     - Web: 
+      - Guia de estilo: "guia de estilo.md"
       - Manual de uso de plantilla: 'manual de uso.md'
   - Metodología: 'metodologia.md'
   - Organización: 'organizacion.md'
