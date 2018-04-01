@@ -1543,6 +1543,14 @@ Se va a necesitar 'yo' y 'generator-angular' que pueden instalarse de esta forma
 </code></pre>
 
 <p>El servicio (que se introducirá de forma correcta dentro del 'index.html') se podrá acceder a través de la carpeta 'cliente/app/scripts/services/'. Recordar que se define una función que debe retornar un diccionario con cada función que ofrezca el servicio y el importado de servicio funciona de igual forma que con los controladores.</p>
+<h2 id="internacionalizacion">Internacionalización<a class="headerlink" href="#internacionalizacion" title="Permanent link">&para;</a></h2>
+<p>Para internacionalizar la aplicación, sólo es necesario incluir el texto de la siguiente forma en el caso de tratarse de un texto constante:</p>
+<pre><code class="javascript">{{ 'KEY' | translate }}
+</code></pre>
+
+<p>Éste sistema funcionará también con variables del $scope.</p>
+<pre><code class="javascript">{{ error | translate }}
+</code></pre>
                 
                   
                 

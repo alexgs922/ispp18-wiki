@@ -406,6 +406,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#traducciones" title="Traducciones" class="md-nav__link">
+    Traducciones
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#estilos" title="Estilos" class="md-nav__link">
     Estilos
   </a>
@@ -1508,6 +1515,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#traducciones" title="Traducciones" class="md-nav__link">
+    Traducciones
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#estilos" title="Estilos" class="md-nav__link">
     Estilos
   </a>
@@ -1606,6 +1620,27 @@
 <p>En el caso de que no siga el patrón anterior, como por ejemplo un controlador del 'header'. Se usará directamente el propósito del controlador.</p>
 <h3 id="vistas">Vistas<a class="headerlink" href="#vistas" title="Permanent link">&para;</a></h3>
 <p>Deberán seguir el formato más cercano a los <a href="#Controladores">controladores</a>.</p>
+<h3 id="traducciones">Traducciones<a class="headerlink" href="#traducciones" title="Permanent link">&para;</a></h3>
+<p>Las traducciones se encuentran en la carpeta 'translations'. Son varios archivos que identifican el lenguaje y dentro de éstos un JSON.</p>
+<p>El sistema a seguir es el siguiente. Los objetos (como Activity) tendrán una variable dentro del JSON, de la siguiente forma:</p>
+<pre><code class="javascript">{
+    ...
+    ACTIVITY: {
+        ...
+    }
+    ...
+}
+</code></pre>
+
+<p>Dentro de cada uno de éstos objetos, se pondrán cada clave con su valor correspondiente:</p>
+<pre><code class="javascript">{
+    ACTIVITY: {
+        TITLE: &quot;Title/Título&quot;,
+        ...
+    }
+}
+</code></pre>
+
 <h3 id="estilos">Estilos<a class="headerlink" href="#estilos" title="Permanent link">&para;</a></h3>
 <p>Generalmente, se introducirá dentro del archivo principal de estilos, <code>main.css</code>. En el caso de necesitarse crear un archivo nuevo, se debe ponerle el mismo nombre que la vista.</p>
 <h3 id="imagenes">Imágenes<a class="headerlink" href="#imagenes" title="Permanent link">&para;</a></h3>
