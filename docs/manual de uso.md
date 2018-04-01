@@ -95,3 +95,13 @@ yo angular:service <nombreServicio>
 ```
 El servicio (que se introducirá de forma correcta dentro del 'index.html') se podrá acceder a través de la carpeta 'cliente/app/scripts/services/'. Recordar que se define una función que debe retornar un diccionario con cada función que ofrezca el servicio y el importado de servicio funciona de igual forma que con los controladores.
 
+## Internacionalización
+Para internacionalizar la aplicación, sólo es necesario incluir el texto de la siguiente forma en el caso de tratarse de un texto constante:
+```javascript
+{{ 'KEY' | translate }}
+```
+
+Éste sistema funcionará también con variables del $scope.
+```javascript
+{{ error | translate }}
+```

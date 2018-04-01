@@ -19,6 +19,31 @@ En el caso de que no siga el patrón anterior, como por ejemplo un controlador d
 ### Vistas
 Deberán seguir el formato más cercano a los [controladores](#Controladores).
 
+### Traducciones
+Las traducciones se encuentran en la carpeta 'translations'. Son varios archivos que identifican el lenguaje y dentro de éstos un JSON.
+
+El sistema a seguir es el siguiente. Los objetos (como Activity) tendrán una variable dentro del JSON, de la siguiente forma:
+```javascript
+{
+    ...
+    ACTIVITY: {
+        ...
+    }
+    ...
+}
+```
+
+Dentro de cada uno de éstos objetos, se pondrán cada clave con su valor correspondiente:
+
+```javascript
+{
+    ACTIVITY: {
+        TITLE: "Title/Título",
+        ...
+    }
+}
+```
+
 ### Estilos
 Generalmente, se introducirá dentro del archivo principal de estilos, `main.css`. En el caso de necesitarse crear un archivo nuevo, se debe ponerle el mismo nombre que la vista.
 
@@ -58,12 +83,12 @@ También se recomienda que las variables tengan nombres en inglés.
 Se debe tener en cuenta la diferencia entre `let` y `var`. Se deberá de usar `let` en circunstancias donde esa variable no interactuará con el resto del bloque, por ejemplo:
 ```javascript
 {
-    let result = "Javascript sí funciona!";
-    var result2 = "Javascript no funciona";
+    var result = "Javascript no funciona";
+    let result2 = "Javascript sí funciona!";
 }
 
-console.log(result2); // Esto retornará "Javascript no funciona" 
-console.log(result); // Esto dará error, ya que la variable no está definida
+console.log(result); // Esto retornará "Javascript no funciona" 
+console.log(result2); // Esto dará error, ya que la variable no está definida
 ```
 
 También se debe considerar el uso de `const`, que sólo debería ser usado en variables constantes y en el uso en la API de importado de librerías y archivos.
