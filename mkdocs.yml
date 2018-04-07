@@ -75,6 +75,16 @@ pages:
       - 05-T07 QRico: "feedbacks/05/05-T07 QRico.md"
       - 05-T08 Adrenalive: "feedbacks/05/05-T08 Adrenalive.md"
       - 05-TXX Conclusiones: "feedbacks/05/05-TXX Conclusiones.md"
+  - Clase 06/04/2018:
+    - Tarde:
+      - 06-T01 Drafter.md: "feedbacks/06/06-T01 Drafter.md"
+      - 06-T02 Adrenalive.md: "feedbacks/06/06-T02 Adrenalive.md"
+      - 06-T03 QRico.md: "feedbacks/06/06-T03 QRico.md"
+      - 06-T04 QuickAdemy.md: "feedbacks/06/06-T04 QuickAdemy.md"
+      - 06-T05 Makai.md: "feedbacks/06/06-T05 Makai.md"
+      - 06-T06 Climbcode.md: "feedbacks/06/06-T06 Climbcode.md"
+      - 06-T07 Cocome.md: "feedbacks/06/06-T07 Cocome.md"
+      - 06-TXX Conclusiones.md: "feedbacks/06/06-TXX Conclusiones.md"
   - Resolución del feedback:
     - Resolución de feedbacks, 1a Entrega: "resolucion_feedbacks.md"    
 - Otros: 'otros.md'
