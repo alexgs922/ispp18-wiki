@@ -13,7 +13,9 @@ pages:
     - Web: 
       - Guia de estilo: "guia de estilo.md"
       - Manual de uso de plantilla: 'manual de uso.md'
-  - Metodología: 'metodologia.md'
+  - Metodología:
+    - Inicial: 'metodologia.md'
+    - Esquema de trabajo para API: 'esquema_trabajo_api.md'
   - Organización: 'organizacion.md'
   - Gestión de Ramas: 'gestion_ramas.md'
 - Feedbacks:
