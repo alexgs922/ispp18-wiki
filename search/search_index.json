@@ -333,7 +333,7 @@
         {
             "location": "/metodologia/",
             "text": "En esta p\u00e1gina se detallar\u00e1 las herramientas usadas, procesos de construcci\u00f3n del software ...\n\n\nHerramientas\n\u00b6\n\n\nPlanificaci\u00f3n\n\u00b6\n\n\n\n\nTrello: Creaci\u00f3n, asignaci\u00f3n y comprobaci\u00f3n del estado de las tareas.\n\n\nToggl: Control del tiempo aplicado a las tareas de Trello.\n\n\nSlack: Comunicaci\u00f3n informal escrita.\n\n\nSkype: Comunicaci\u00f3n informal y formal oral.\n\n\n\n\nIntegraci\u00f3n\n\u00b6\n\n\n\n\nSonar: Comprobaci\u00f3n de pruebas en el c\u00f3digo.\n\n\nIcinga: Monitorizaci\u00f3n de la red.\n\n\nTravis: Integraci\u00f3n continua.\n\n\n\n\nDesarrollo\n\u00b6\n\n\n\n\nGithub: Gesti\u00f3n del control de versiones.\n\n\nHeroku: Despliegue del producto.\n\n\n\n\nGesti\u00f3n del c\u00f3digo\n\u00b6\n\n\nLa herramienta de gesti\u00f3n del c\u00f3digo a utilizar ser\u00e1 GitHub.\n\n\nRamas\n\u00b6\n\n\nLa gesti\u00f3n de las ramas se realizar\u00e1 de la siguiente \nforma\n.\n\n\nCommits\n\u00b6\n\n\nEl formato de los commits se encuentra en la siguiente \nsecci\u00f3n\n.\n\n\nLa frecuencia de commits ser\u00e1 de un commit por d\u00eda trabajado como m\u00ednimo, pudiendo realizarse m\u00e1s si se considera necesario (por ejemplo, correcci\u00f3n de errores o mejoras de c\u00f3digo).\n\n\nPruebas cruzadas\n\u00b6\n\n\nCon el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.\n\n\nLas pruebas cruzadas se aplicar\u00e1n a ramas subidas al repositorio remoto que contengan un pull request. Las personas que no realicen tareas o hayan terminado la suya podr\u00e1n realizar estas pruebas. Si se detecta un error, se debe informar al desarrollador correspondiente del error, detallando cuanto m\u00e1s mejor sobre la generaci\u00f3n del error.",
-            "title": "Metodolog\u00eda"
+            "title": "Inicial"
         },
         {
             "location": "/metodologia/#herramientas",
@@ -374,6 +374,41 @@
             "location": "/metodologia/#pruebas-cruzadas",
             "text": "Con el objetivo de asegurarse que el c\u00f3digo que se realice no contenga errores, se realizar\u00e1n pruebas cruzadas, que consisten en la realizaci\u00f3n de pruebas por parte de una persona que no ha realizado el c\u00f3digo. De esta forma se podr\u00e1 detectar errores que se le pueden haber pasado a los desarrolladores de la funcionalidad.  Las pruebas cruzadas se aplicar\u00e1n a ramas subidas al repositorio remoto que contengan un pull request. Las personas que no realicen tareas o hayan terminado la suya podr\u00e1n realizar estas pruebas. Si se detecta un error, se debe informar al desarrollador correspondiente del error, detallando cuanto m\u00e1s mejor sobre la generaci\u00f3n del error.",
             "title": "Pruebas cruzadas"
+        },
+        {
+            "location": "/esquema_trabajo_api/",
+            "text": "Esquema de trabajo del desarrollo de la API (back-end)\n\u00b6\n\n\nEn esta secci\u00f3n se describir\u00e1 el proceso a seguir para desarrollar en la parte de API.\n\n\nSelecci\u00f3n de tareas\n\u00b6\n\n\nSiendo el grupo auto-gestionado, no se asignar\u00e1n tareas de forma directa (existiendo sugerencias por parte del PM a los miembros del grupo). \n\n\nLas tareas se deben escoger bas\u00e1ndose en la disponibilidad de los miembros del grupo. No se debe escoger una tarea con el objetivo de realizarla en la semana, sino cuanto antes sea posible (1-3 d\u00edas). Como medida de la cantidad de trabajo a poner en la tarea, la medida de PHs (decidida por todo el grupo) es un indicativo de \u00e9sto. \n\n\nInicio de desarrollo\n\u00b6\n\n\nSe debe asignar la tarea en \nTrello\n, desplazar la tarea de \"Unassigned\" a \"To do\" y empezar su desarrollo, sin olvidar la creaci\u00f3n de una nueva rama en el repositorio. Con \u00e9sto indicar\u00e1 al resto del grupo que la tarea se desarrolar\u00e1 en el tiempo antes delimitado. En el caso de no disponer del suficiente tiempo como para realizar la tarea debido a dificultades con otras asignaturas, es posible (y recomendado) desplazar la tarea hacia \"Unassigned\" y quitarse la asignaci\u00f3n de la tarea.\n\n\nProgreso de la tarea\n\u00b6\n\n\nUna vez se comience a desarrollar la tarea, se desplazar\u00e1 la tarea a \"In progress\". Con esto, se podr\u00e1 indicar que la tarea est\u00e1 en progreso y se puede asistir en su desarrollo. Una vez se termine la tarea, se crear\u00e1 un pull request y se desplazar\u00e1 la tarea a \"In testing\".\n\n\nPara contabilizar el tiempo que tarda en realizar la tarea, debe activar el temporizador de Toggl y usar el tag m\u00e1s representativo (generalmente el nombre de la tarea padre) que identificar\u00e1 su tarea. \n\n\nPruebas de la tarea\n\u00b6\n\n\nCuando se desplace la tarea a \"In testing\", queda a discreci\u00f3n de los miembros del grupo de realizar las pertinentes pruebas de la implementaci\u00f3n. Se dar\u00e1 m\u00e1s prioridad a la realizaci\u00f3n de pruebas que a la realizaci\u00f3n de la implementaci\u00f3n. No olvidar activar el tiempo de Toggl durante el proceso de pruebas con el tag \"Testing\". \n\n\nFinalizaci\u00f3n de la tarea\n\u00b6\n\n\nUna vez sea probado por otro miembro del grupo, se podr\u00e1 dar por terminada la tarea que haya realizado. El miembro del grupo que haya realizado la prueba debe preocuparse de desplazar la tarea a la correspondiente lista, sea \"In 'dev'\" o \"In 'master'\" dependiendo de la rama que sea destinataria.",
+            "title": "Esquema de trabajo para API"
+        },
+        {
+            "location": "/esquema_trabajo_api/#esquema-de-trabajo-del-desarrollo-de-la-api-back-end",
+            "text": "En esta secci\u00f3n se describir\u00e1 el proceso a seguir para desarrollar en la parte de API.",
+            "title": "Esquema de trabajo del desarrollo de la API (back-end)"
+        },
+        {
+            "location": "/esquema_trabajo_api/#seleccion-de-tareas",
+            "text": "Siendo el grupo auto-gestionado, no se asignar\u00e1n tareas de forma directa (existiendo sugerencias por parte del PM a los miembros del grupo).   Las tareas se deben escoger bas\u00e1ndose en la disponibilidad de los miembros del grupo. No se debe escoger una tarea con el objetivo de realizarla en la semana, sino cuanto antes sea posible (1-3 d\u00edas). Como medida de la cantidad de trabajo a poner en la tarea, la medida de PHs (decidida por todo el grupo) es un indicativo de \u00e9sto.",
+            "title": "Selecci\u00f3n de tareas"
+        },
+        {
+            "location": "/esquema_trabajo_api/#inicio-de-desarrollo",
+            "text": "Se debe asignar la tarea en  Trello , desplazar la tarea de \"Unassigned\" a \"To do\" y empezar su desarrollo, sin olvidar la creaci\u00f3n de una nueva rama en el repositorio. Con \u00e9sto indicar\u00e1 al resto del grupo que la tarea se desarrolar\u00e1 en el tiempo antes delimitado. En el caso de no disponer del suficiente tiempo como para realizar la tarea debido a dificultades con otras asignaturas, es posible (y recomendado) desplazar la tarea hacia \"Unassigned\" y quitarse la asignaci\u00f3n de la tarea.",
+            "title": "Inicio de desarrollo"
+        },
+        {
+            "location": "/esquema_trabajo_api/#progreso-de-la-tarea",
+            "text": "Una vez se comience a desarrollar la tarea, se desplazar\u00e1 la tarea a \"In progress\". Con esto, se podr\u00e1 indicar que la tarea est\u00e1 en progreso y se puede asistir en su desarrollo. Una vez se termine la tarea, se crear\u00e1 un pull request y se desplazar\u00e1 la tarea a \"In testing\".  Para contabilizar el tiempo que tarda en realizar la tarea, debe activar el temporizador de Toggl y usar el tag m\u00e1s representativo (generalmente el nombre de la tarea padre) que identificar\u00e1 su tarea.",
+            "title": "Progreso de la tarea"
+        },
+        {
+            "location": "/esquema_trabajo_api/#pruebas-de-la-tarea",
+            "text": "Cuando se desplace la tarea a \"In testing\", queda a discreci\u00f3n de los miembros del grupo de realizar las pertinentes pruebas de la implementaci\u00f3n. Se dar\u00e1 m\u00e1s prioridad a la realizaci\u00f3n de pruebas que a la realizaci\u00f3n de la implementaci\u00f3n. No olvidar activar el tiempo de Toggl durante el proceso de pruebas con el tag \"Testing\".",
+            "title": "Pruebas de la tarea"
+        },
+        {
+            "location": "/esquema_trabajo_api/#finalizacion-de-la-tarea",
+            "text": "Una vez sea probado por otro miembro del grupo, se podr\u00e1 dar por terminada la tarea que haya realizado. El miembro del grupo que haya realizado la prueba debe preocuparse de desplazar la tarea a la correspondiente lista, sea \"In 'dev'\" o \"In 'master'\" dependiendo de la rama que sea destinataria.",
+            "title": "Finalizaci\u00f3n de la tarea"
         },
         {
             "location": "/organizacion/",
@@ -1398,6 +1433,141 @@
         {
             "location": "/feedbacks/06/06-TXX Conclusiones/#conclusiones",
             "text": "Pilotaje debe ser fundamental. Debe estar algo del pilotaje. Deber\u00eda haber estado en el Sprint 1.    Problema -> soluci\u00f3n -> m\u00e9trica. Debe estar.  Si no hay problema.  No cuente soluciones.  No cuente m\u00e9tricas que midan eso.    M\u00e9tricas pueden no ser representativas, pero deben estar reflejadas.  No explicarlo mucho, el planteamiento es suficiente (por qu\u00e9 esa medida, por qu\u00e9 es buena ...).  Medida pr\u00e9via debe estar.  Como todav\u00eda tienen que estar haciendose m\u00e9tricas, puede estar.  Todos los recursos equilibrados. se puede explicar el por qu\u00e9 no est\u00e1 equilibrado.  Demostraciones.  Sistema online debe estar algo. Debe estar en producci\u00f3n. No quedarse en estado inestable.  Subir la aplicaci\u00f3n en Mega o lo que sea.    Rendimiento. Debe estar MUY especificada y bien destacada.    Casi ninguno ha puesto rendimientos diferentes para cada rol. Deber\u00eda medirse de otra forma eso.   Una \u00fanica medida de rendimiento no tiene por qu\u00e9 ser necesaria. Diferentes roles, diferentes pesos.  Ajustar presentaciones a 4:3.  Minard,png. Mejor gr\u00e1fico de todos.   No por meter muchos gr\u00e1ficos, se va a ver mal. Si est\u00e1n bien explicados pueden ser muy \u00fatiles.  Slide:ology.  Tufte, sobre visualizaci\u00f3n, de gr\u00e1ficos ...",
+            "title": "Conclusiones"
+        },
+        {
+            "location": "/feedbacks/07/07-T01 Climbcode/",
+            "text": "Opini\u00f3n personal\n\u00b6\n\n\n\n\nDemasiados puntos en el \u00edndice, generalmente 4 o 5 suelen estar bien.\n\n\nVuelve a poner la gr\u00e1fica de tecnolog\u00edas, no se ha corregido. Color rojo no se ve bien y la gr\u00e1fica no queda bien.\n\n\nM\u00e9trica de peso de tareas. Puede que haya que pivotar el problema entero.\n\n\nNo se ha aplicado el plan piloto! O no se menciona nada.\n\n\nBuen trabajo del coordinador para parar a la bulla de primera hora. \n\n\n\n\nOpini\u00f3n profesores\n\u00b6\n\n\nM\u00fceller\n\u00b6\n\n\n\n\nHa gustado\n\n\nPero, echa en falta cosas de la demo. Necesitamos saber qu\u00e9 usuario est\u00e1 loggeado en qu\u00e9 momento.\n\n\nControlar los tiempos en la demo. Intentar hablar m\u00e1s despacio, demo debe ir medianamente (mostrar las funcionalidades pero ir con la suficiente rapidez como que pueda hacerse en 2-3 minutos).\n\n\nAgobiado en la demo.\n\n\nIdea inicial es efectivo. Cambiar cada vez puede ser \u00fatil pero coger el mejor.\n\n\nCuando se ha empezado a hablar. Cosa demasiado en el aire, los cursos. Decirlo sin m\u00e1s queda muy en el aire, mencionar en el plan piloto que se va a incluir.\n\n\nColor amarillo duele, cambiarla\n\n\nRiesgos, es bueno plantearlo pero queda muy en el aire. Debe tratarse los riesgos, no s\u00f3lo cuantificarlo. Los riesgos tecnol\u00f3gicos deben estar determinados y podemos hacer un problema de \u00e9ste (sino quedar\u00eda en el aire).\n\n\nComentar si esa mejora es una soluci\u00f3n al problema o no. Debemos determinar el rango de mejora que consideramos de mejora.\n\n\nEstimaci\u00f3n de horas, todos a la vez. Deben intentar buscarse alternativas, medir de c\u00faanto de buenas son (y dar un problema). Debemos intentar encontrar el problema de estimaci\u00f3n y hacer una soluci\u00f3n y m\u00e9trica.\n\n\nIntentar en la 44 y 43 en la misma gr\u00e1fica. Poner lo que se estima de costes.\n\n\nLe ha encantado c\u00f3mo se ha hecho el pasado, presente y futuro. Queda claro.\n\n\nConsiderar un \u00e9xito lo que se lleva. Renombrarlo a felicitaci\u00f3n a compa\u00f1eros o como \"buen trabajo\".\n\n\nPor otro lado, castigos, deber\u00eda haber. Como soluci\u00f3n a problemas que puedan surgir de los compa\u00f1eros.\n\n\nFeedback del pilotaje. Prioritizar lo que se lleva realizado, no s\u00f3lo comentar.\n\n\nM\u00fceller de forma diferente.",
+            "title": "07-T01 Climbcode.md"
+        },
+        {
+            "location": "/feedbacks/07/07-T01 Climbcode/#opinion-personal",
+            "text": "Demasiados puntos en el \u00edndice, generalmente 4 o 5 suelen estar bien.  Vuelve a poner la gr\u00e1fica de tecnolog\u00edas, no se ha corregido. Color rojo no se ve bien y la gr\u00e1fica no queda bien.  M\u00e9trica de peso de tareas. Puede que haya que pivotar el problema entero.  No se ha aplicado el plan piloto! O no se menciona nada.  Buen trabajo del coordinador para parar a la bulla de primera hora.",
+            "title": "Opini\u00f3n personal"
+        },
+        {
+            "location": "/feedbacks/07/07-T01 Climbcode/#opinion-profesores",
+            "text": "",
+            "title": "Opini\u00f3n profesores"
+        },
+        {
+            "location": "/feedbacks/07/07-T01 Climbcode/#mueller",
+            "text": "Ha gustado  Pero, echa en falta cosas de la demo. Necesitamos saber qu\u00e9 usuario est\u00e1 loggeado en qu\u00e9 momento.  Controlar los tiempos en la demo. Intentar hablar m\u00e1s despacio, demo debe ir medianamente (mostrar las funcionalidades pero ir con la suficiente rapidez como que pueda hacerse en 2-3 minutos).  Agobiado en la demo.  Idea inicial es efectivo. Cambiar cada vez puede ser \u00fatil pero coger el mejor.  Cuando se ha empezado a hablar. Cosa demasiado en el aire, los cursos. Decirlo sin m\u00e1s queda muy en el aire, mencionar en el plan piloto que se va a incluir.  Color amarillo duele, cambiarla  Riesgos, es bueno plantearlo pero queda muy en el aire. Debe tratarse los riesgos, no s\u00f3lo cuantificarlo. Los riesgos tecnol\u00f3gicos deben estar determinados y podemos hacer un problema de \u00e9ste (sino quedar\u00eda en el aire).  Comentar si esa mejora es una soluci\u00f3n al problema o no. Debemos determinar el rango de mejora que consideramos de mejora.  Estimaci\u00f3n de horas, todos a la vez. Deben intentar buscarse alternativas, medir de c\u00faanto de buenas son (y dar un problema). Debemos intentar encontrar el problema de estimaci\u00f3n y hacer una soluci\u00f3n y m\u00e9trica.  Intentar en la 44 y 43 en la misma gr\u00e1fica. Poner lo que se estima de costes.  Le ha encantado c\u00f3mo se ha hecho el pasado, presente y futuro. Queda claro.  Considerar un \u00e9xito lo que se lleva. Renombrarlo a felicitaci\u00f3n a compa\u00f1eros o como \"buen trabajo\".  Por otro lado, castigos, deber\u00eda haber. Como soluci\u00f3n a problemas que puedan surgir de los compa\u00f1eros.  Feedback del pilotaje. Prioritizar lo que se lleva realizado, no s\u00f3lo comentar.  M\u00fceller de forma diferente.",
+            "title": "M\u00fceller"
+        },
+        {
+            "location": "/feedbacks/07/07-T02 Cocome/",
+            "text": "Opini\u00f3n personal\n\u00b6\n\n\n\n\n\"Se ha hecho ...\" queda un poco raro. Una tabla de las cosas que se ha hecho o los porcentajes puede estar mejor.\n\n\nEstimaci\u00f3n de horas est\u00e1n muy disparadas. Debe mejorarse eso.\n\n\nBuena idea, rendimiento del PM equivale al rendimiento del equipo.\n\n\nBuen estilo de presentaci\u00f3n.\n\n\n\n\nOpini\u00f3n profesores\n\u00b6\n\n\n\n\nEstilo de presentaci\u00f3n est\u00e1 bien hecho. Iconos muy similares. Fuerte frente a problemas con el proyector.\n\n\nDemostraciones que se han hecho est\u00e1n bien, aunque muy r\u00e1pido.\n\n\nSaliera un poco m\u00e1s fluido.\n\n\nMVP no har\u00eda falta ya\n\n\nMedidas de conflictos parece muy exacta. Puede que haya problemas con eso. Minutos se han calculado al tuntun? Por cada conflicto se muestra su estimaci\u00f3n. Se va a hacer a trav\u00e9s de m\u00e9tricas de Git. Se pueden obtener programaticamente y exportar a hoja de c\u00e1lculo (!).\n\n\nGustado la forma de explicar, problema -> soluci\u00f3n -> m\u00e9trica.\n\n\nPilotaje sigue siendo escaso. Se espera que en el pr\u00f3ximo se defina m\u00e1s (!?!?)\n\n\nLo que se ha presentado son las conclusiones como ejemplo de que por qu\u00e9 es importante el pilotaje.\n\n\nGr\u00e1fica de burndown y burnup buena. \n\n\nEstimaci\u00f3n muy engordada. No deber\u00eda hacerlo una persona.\n\n\nDecir qu\u00e9 rango de mejora es el aceptable. Definir un rendimiento l\u00edmite y qu\u00e9 pasar\u00eda con menos y m\u00e1s.\n\n\n\"Esta mejora ser\u00e1 un \u00e9xito con este porcentaje\".\n\n\nHacer un estudio de la calidad del c\u00f3digo.",
+            "title": "07-T02 Cocome.md"
+        },
+        {
+            "location": "/feedbacks/07/07-T02 Cocome/#opinion-personal",
+            "text": "\"Se ha hecho ...\" queda un poco raro. Una tabla de las cosas que se ha hecho o los porcentajes puede estar mejor.  Estimaci\u00f3n de horas est\u00e1n muy disparadas. Debe mejorarse eso.  Buena idea, rendimiento del PM equivale al rendimiento del equipo.  Buen estilo de presentaci\u00f3n.",
+            "title": "Opini\u00f3n personal"
+        },
+        {
+            "location": "/feedbacks/07/07-T02 Cocome/#opinion-profesores",
+            "text": "Estilo de presentaci\u00f3n est\u00e1 bien hecho. Iconos muy similares. Fuerte frente a problemas con el proyector.  Demostraciones que se han hecho est\u00e1n bien, aunque muy r\u00e1pido.  Saliera un poco m\u00e1s fluido.  MVP no har\u00eda falta ya  Medidas de conflictos parece muy exacta. Puede que haya problemas con eso. Minutos se han calculado al tuntun? Por cada conflicto se muestra su estimaci\u00f3n. Se va a hacer a trav\u00e9s de m\u00e9tricas de Git. Se pueden obtener programaticamente y exportar a hoja de c\u00e1lculo (!).  Gustado la forma de explicar, problema -> soluci\u00f3n -> m\u00e9trica.  Pilotaje sigue siendo escaso. Se espera que en el pr\u00f3ximo se defina m\u00e1s (!?!?)  Lo que se ha presentado son las conclusiones como ejemplo de que por qu\u00e9 es importante el pilotaje.  Gr\u00e1fica de burndown y burnup buena.   Estimaci\u00f3n muy engordada. No deber\u00eda hacerlo una persona.  Decir qu\u00e9 rango de mejora es el aceptable. Definir un rendimiento l\u00edmite y qu\u00e9 pasar\u00eda con menos y m\u00e1s.  \"Esta mejora ser\u00e1 un \u00e9xito con este porcentaje\".  Hacer un estudio de la calidad del c\u00f3digo.",
+            "title": "Opini\u00f3n profesores"
+        },
+        {
+            "location": "/feedbacks/07/07-T03 Makai/",
+            "text": "Opini\u00f3n personal\n\u00b6\n\n\n\n\n\n\n\n\nOpini\u00f3n profesores\n\u00b6\n\n\nFernandez\n\u00b6\n\n\n\n\nVideo, mezclar ingles con espa\u00f1ol queda regular.\n\n\nDemostraci\u00f3n. Demasiado zoom.\n\n\nPresentaci\u00f3n textual de cambio de usuario.\n\n\n\u00bfJefe de desarrollo? Son durante todo el Sprint. \n\n\nGr\u00e1fica ondulante no queda nada claro\n\n\nBurndown realizados son cada Sprint. Deber\u00edan estar hecho en directo.\n\n\nPlan piloto: Rozando el no apto por el hecho de que usuarios realicen \n\n\n\n\nM\u00fceller\n\u00b6\n\n\n\n\n14-23. Al no poner la forma se queda raro. Deber\u00eda ponerse de forma expl\u00edcita.\n\n\n25 y 26. Todas en una gr\u00e1fica queda raro. Todos juntos en la gr\u00e1fica de personas.\n\n\n3er Sprint DEBE contener mejoras del plan piloto.\n\n\nEstimacii\u00f3n de incidencias es muy complejo.\n\n\nMejores con peores tasas. Puede afectar el rendimiento y por lo tanto debe medirse. Cuando se defina una mejora debemos fijar un",
+            "title": "07-T03 Makai.md"
+        },
+        {
+            "location": "/feedbacks/07/07-T03 Makai/#opinion-personal",
+            "text": "",
+            "title": "Opini\u00f3n personal"
+        },
+        {
+            "location": "/feedbacks/07/07-T03 Makai/#opinion-profesores",
+            "text": "",
+            "title": "Opini\u00f3n profesores"
+        },
+        {
+            "location": "/feedbacks/07/07-T03 Makai/#fernandez",
+            "text": "Video, mezclar ingles con espa\u00f1ol queda regular.  Demostraci\u00f3n. Demasiado zoom.  Presentaci\u00f3n textual de cambio de usuario.  \u00bfJefe de desarrollo? Son durante todo el Sprint.   Gr\u00e1fica ondulante no queda nada claro  Burndown realizados son cada Sprint. Deber\u00edan estar hecho en directo.  Plan piloto: Rozando el no apto por el hecho de que usuarios realicen",
+            "title": "Fernandez"
+        },
+        {
+            "location": "/feedbacks/07/07-T03 Makai/#mueller",
+            "text": "14-23. Al no poner la forma se queda raro. Deber\u00eda ponerse de forma expl\u00edcita.  25 y 26. Todas en una gr\u00e1fica queda raro. Todos juntos en la gr\u00e1fica de personas.  3er Sprint DEBE contener mejoras del plan piloto.  Estimacii\u00f3n de incidencias es muy complejo.  Mejores con peores tasas. Puede afectar el rendimiento y por lo tanto debe medirse. Cuando se defina una mejora debemos fijar un",
+            "title": "M\u00fceller"
+        },
+        {
+            "location": "/feedbacks/07/07-T04 Adrenalive/",
+            "text": "Opini\u00f3n personal\n\u00b6\n\n\n\n\nN\u00fameros se ven un poco mal.\n\n\nFotos no se ven mucho.\n\n\nAPK al final hubiera quedado mejor.\n\n\n\n\n\n\nOpini\u00f3n profesor\n\u00b6\n\n\nFernando\n\u00b6\n\n\n\n\nDemo. C\u00f3mo crear y ver un anuncio. Tendr\u00edamos que tener todo el Sprint.\n\n\nGesti\u00f3n de anuncion ya estar\u00eda hecho. Pero lo nuestro \n\n\nDeber\u00edamos incorporar funcionalidades completas.\n\n\nEste producto es un desastre en funcionalidades. Deben dar visi\u00f3n de lo m\u00e1s interesante de la herramienta!!! Con enfoque al Sprint.\n\n\nEmpresas! Necesitan haberlo hecho con empresas. Debemos centrarlo en el uso de usuarios potenciales de la aplicaci\u00f3n. Necesitamos ambos.\n\n\nConverger en el pr\u00f3ximo Sprint. Debemos tener un n\u00famero grande de usuarios 20 a 30 que han utilizado la aplicaci\u00f3n. Para que la empresa que hayan empezado a usarlo (5, 10 m\u00ednimo).\n\n\nUna vez que la usan, feedback. Corregirlos.",
+            "title": "07-T04 Adrenalive.md"
+        },
+        {
+            "location": "/feedbacks/07/07-T04 Adrenalive/#opinion-personal",
+            "text": "N\u00fameros se ven un poco mal.  Fotos no se ven mucho.  APK al final hubiera quedado mejor.",
+            "title": "Opini\u00f3n personal"
+        },
+        {
+            "location": "/feedbacks/07/07-T04 Adrenalive/#opinion-profesor",
+            "text": "",
+            "title": "Opini\u00f3n profesor"
+        },
+        {
+            "location": "/feedbacks/07/07-T04 Adrenalive/#fernando",
+            "text": "Demo. C\u00f3mo crear y ver un anuncio. Tendr\u00edamos que tener todo el Sprint.  Gesti\u00f3n de anuncion ya estar\u00eda hecho. Pero lo nuestro   Deber\u00edamos incorporar funcionalidades completas.  Este producto es un desastre en funcionalidades. Deben dar visi\u00f3n de lo m\u00e1s interesante de la herramienta!!! Con enfoque al Sprint.  Empresas! Necesitan haberlo hecho con empresas. Debemos centrarlo en el uso de usuarios potenciales de la aplicaci\u00f3n. Necesitamos ambos.  Converger en el pr\u00f3ximo Sprint. Debemos tener un n\u00famero grande de usuarios 20 a 30 que han utilizado la aplicaci\u00f3n. Para que la empresa que hayan empezado a usarlo (5, 10 m\u00ednimo).  Una vez que la usan, feedback. Corregirlos.",
+            "title": "Fernando"
+        },
+        {
+            "location": "/feedbacks/07/07-T05 Drafter/",
+            "text": "Opini\u00f3n personal\n\u00b6\n\n\n\n\n\n\n\n\nOpini\u00f3n profesores\n\u00b6\n\n\n\n\nDemo es un desastre. \n\n\nPilotaje. Con empresas no lo han hecho!\n\n\nHay que preguntar c\u00faanto van a pagar.\n\n\nMedidas de mejoras. M\u00e1s informaci\u00f3n de \u00e9stas.\n\n\nC\u00faanto es aceptable (tambi\u00e9n a nosotros, pero lo tenemos!?). Por qu\u00e9 es tambi\u00e9n hay que indicar.\n\n\nDemo poner datos reales.",
+            "title": "07-T05 Drafter.md"
+        },
+        {
+            "location": "/feedbacks/07/07-T05 Drafter/#opinion-personal",
+            "text": "",
+            "title": "Opini\u00f3n personal"
+        },
+        {
+            "location": "/feedbacks/07/07-T05 Drafter/#opinion-profesores",
+            "text": "Demo es un desastre.   Pilotaje. Con empresas no lo han hecho!  Hay que preguntar c\u00faanto van a pagar.  Medidas de mejoras. M\u00e1s informaci\u00f3n de \u00e9stas.  C\u00faanto es aceptable (tambi\u00e9n a nosotros, pero lo tenemos!?). Por qu\u00e9 es tambi\u00e9n hay que indicar.  Demo poner datos reales.",
+            "title": "Opini\u00f3n profesores"
+        },
+        {
+            "location": "/feedbacks/07/07-T06 Quickademy/",
+            "text": "Opini\u00f3n personal\n\u00b6\n\n\n\n\n\n\n\n\nOpini\u00f3n profesores\n\u00b6\n\n\n\n\nVideo no hay, se pueden cargar pero no funciona.\n\n\nC\u00f3mo se puede hacer pilotaje sin videos (de tests).\n\n\nGran problema, pilotaje debe tener algo real.\n\n\nAsociaciones no est\u00e1n contactadas.\n\n\nViene de lejos lo de videos, se avis\u00f3.\n\n\nNo apto casi seguro.\n\n\nDespliegue no realizado. A \u00faltima hora, el due\u00f1o ha cambiado la configuraci\u00f3n.\n\n\nNo hay URL.\n\n\nA algunas no les funciona las funcionalidades.\n\n\nNi siquiera una demo en video.\n\n\nProblema, queremos encontrar problemas y soluciones?! Ya debe haber por lo que se ha realizado.",
+            "title": "07-T06 Quickademy.md"
+        },
+        {
+            "location": "/feedbacks/07/07-T06 Quickademy/#opinion-personal",
+            "text": "",
+            "title": "Opini\u00f3n personal"
+        },
+        {
+            "location": "/feedbacks/07/07-T06 Quickademy/#opinion-profesores",
+            "text": "Video no hay, se pueden cargar pero no funciona.  C\u00f3mo se puede hacer pilotaje sin videos (de tests).  Gran problema, pilotaje debe tener algo real.  Asociaciones no est\u00e1n contactadas.  Viene de lejos lo de videos, se avis\u00f3.  No apto casi seguro.  Despliegue no realizado. A \u00faltima hora, el due\u00f1o ha cambiado la configuraci\u00f3n.  No hay URL.  A algunas no les funciona las funcionalidades.  Ni siquiera una demo en video.  Problema, queremos encontrar problemas y soluciones?! Ya debe haber por lo que se ha realizado.",
+            "title": "Opini\u00f3n profesores"
+        },
+        {
+            "location": "/feedbacks/07/07-T07 QRico/",
+            "text": "Opini\u00f3n personal\n\u00b6\n\n\n\n\nPresentaci\u00f3n a toda prisa.\n\n\n\n\n\n\nOpini\u00f3n profesores\n\u00b6\n\n\n\n\nNo se entiende la gr\u00e1fica de rendimiento.\n\n\nProblema, soluci\u00f3n y m\u00e9trica. Sprint Burndown es gr\u00e1fico. Qu\u00e9 se va a medir. Necesario medir antes, despu\u00e9s y c\u00f3mo var\u00eda.\n\n\nHab\u00e9is preguntado c\u00faanto se est\u00e1 dispuesto a pagar? Encuesta con lo que tenemos. \nFundamental\n\n\nUX != UI.\n\n\nTodo lo que se muestre en la demostraci\u00f3n debe ser centrado en la aplicaci\u00f3n.",
+            "title": "07-T07 QRico.md"
+        },
+        {
+            "location": "/feedbacks/07/07-T07 QRico/#opinion-personal",
+            "text": "Presentaci\u00f3n a toda prisa.",
+            "title": "Opini\u00f3n personal"
+        },
+        {
+            "location": "/feedbacks/07/07-T07 QRico/#opinion-profesores",
+            "text": "No se entiende la gr\u00e1fica de rendimiento.  Problema, soluci\u00f3n y m\u00e9trica. Sprint Burndown es gr\u00e1fico. Qu\u00e9 se va a medir. Necesario medir antes, despu\u00e9s y c\u00f3mo var\u00eda.  Hab\u00e9is preguntado c\u00faanto se est\u00e1 dispuesto a pagar? Encuesta con lo que tenemos.  Fundamental  UX != UI.  Todo lo que se muestre en la demostraci\u00f3n debe ser centrado en la aplicaci\u00f3n.",
+            "title": "Opini\u00f3n profesores"
+        },
+        {
+            "location": "/feedbacks/07/07-TXX Conclusiones/",
+            "text": "Conclusiones\n\u00b6\n\n\n\n\nPilotaje hay grupos que han hecho y otros que no. Algunos grupos no tendr\u00e1n un apto seguro.\n\n\nSprint 3 ser\u00e1 m\u00e1s, con decisiones con un n\u00famero de usuarios mayor.\n\n\nRecogido informaci\u00f3n para plantearlo. \n\n\nIncorporaci\u00f3n del feedback del pilotaje.\n\n\n\"\u00bfC\u00faanto est\u00e1s dispuesto a pagar?\" tiene que estar decidido. Las 2 cosas.\n\n\nNo plantear alternativas al usuario. 1-5 o 0 a 10. Pregunta abierta (un n\u00famero de c\u00faanto pagar\u00eda al mes).\n\n\nMa\u00f1ana. Base de conocimiento no est\u00e1 probandose, pero debe estar y funcionando. Debe estar disponible para si un profesor pregunta por algo, que pueda mostrarse.\n\n\nBurndown y burnup CON DESVIACIONES. \nNo apto inmediato\n.\n\n\nDemo debe estar funcional en sistema. Aplicaci\u00f3n estable.\n\n\nEstamos preocupados con asistencia. Grupos enteros se van. \n\n\nMejora para asistencia. Hoja de firmas es una alternativa, demostrar ejemplos podr\u00eda ser una buena idea. 4 minutos de feedback y 4 minutos de demostraci\u00f3n de ejemplo. Hoja de firmas parece la mejor soluci\u00f3n, aleatorizar las presentaciones o introducir un ejemplo puede ser otras alternativas pero menos efectivas.\n\n\nEchar gente!!!",
+            "title": "07-TXX Conclusiones.md"
+        },
+        {
+            "location": "/feedbacks/07/07-TXX Conclusiones/#conclusiones",
+            "text": "Pilotaje hay grupos que han hecho y otros que no. Algunos grupos no tendr\u00e1n un apto seguro.  Sprint 3 ser\u00e1 m\u00e1s, con decisiones con un n\u00famero de usuarios mayor.  Recogido informaci\u00f3n para plantearlo.   Incorporaci\u00f3n del feedback del pilotaje.  \"\u00bfC\u00faanto est\u00e1s dispuesto a pagar?\" tiene que estar decidido. Las 2 cosas.  No plantear alternativas al usuario. 1-5 o 0 a 10. Pregunta abierta (un n\u00famero de c\u00faanto pagar\u00eda al mes).  Ma\u00f1ana. Base de conocimiento no est\u00e1 probandose, pero debe estar y funcionando. Debe estar disponible para si un profesor pregunta por algo, que pueda mostrarse.  Burndown y burnup CON DESVIACIONES.  No apto inmediato .  Demo debe estar funcional en sistema. Aplicaci\u00f3n estable.  Estamos preocupados con asistencia. Grupos enteros se van.   Mejora para asistencia. Hoja de firmas es una alternativa, demostrar ejemplos podr\u00eda ser una buena idea. 4 minutos de feedback y 4 minutos de demostraci\u00f3n de ejemplo. Hoja de firmas parece la mejor soluci\u00f3n, aleatorizar las presentaciones o introducir un ejemplo puede ser otras alternativas pero menos efectivas.  Echar gente!!!",
             "title": "Conclusiones"
         },
         {

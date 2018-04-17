@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-04-07</lastmod>
+     <lastmod>2018-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,7 +13,7 @@
         
     <url>
      <loc>/asignatura/</loc>
-     <lastmod>2018-04-07</lastmod>
+     <lastmod>2018-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -34,26 +34,32 @@
     </url>
         
     <url>
-     <loc>/metodologia/</loc>
-     <lastmod>2018-04-07</lastmod>
+     <loc></loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/organizacion/</loc>
-     <lastmod>2018-04-07</lastmod>
+     <lastmod>2018-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>/gestion_ramas/</loc>
-     <lastmod>2018-04-07</lastmod>
+     <lastmod>2018-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     
 
     
+        
+    <url>
+     <loc></loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
         
     <url>
      <loc></loc>
@@ -96,7 +102,7 @@
     
     <url>
      <loc>/otros/</loc>
-     <lastmod>2018-04-07</lastmod>
+     <lastmod>2018-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -104,7 +110,7 @@
     
     <url>
      <loc>/tutorial_subida/</loc>
-     <lastmod>2018-04-07</lastmod>
+     <lastmod>2018-04-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
