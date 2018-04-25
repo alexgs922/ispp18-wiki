@@ -32,7 +32,7 @@
         <meta name="lang:search.tokenizer" content="[\s\-]+">
       
       <link rel="shortcut icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-0.17.2, mkdocs-material-2.6.6">
+      <meta name="generator" content="mkdocs-0.17.3, mkdocs-material-2.7.2">
     
     
       
@@ -40,7 +40,7 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/application.78aab2dc.css">
+      <link rel="stylesheet" href="../assets/stylesheets/application.8d40d89b.css">
       
     
     
@@ -66,8 +66,8 @@
         
       </defs>
     </svg>
-    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer">
-    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search">
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="drawer"></label>
     
       <a href="#esquema-de-trabajo-del-desarrollo-de-la-api-back-end" tabindex="1" class="md-skip">
@@ -1823,8 +1823,10 @@
 <h3 id="progreso-de-la-tarea">Progreso de la tarea<a class="headerlink" href="#progreso-de-la-tarea" title="Permanent link">&para;</a></h3>
 <p>Una vez se comience a desarrollar la tarea, se desplazará la tarea a "In progress". Con esto, se podrá indicar que la tarea está en progreso y se puede asistir en su desarrollo. Una vez se termine la tarea, se creará un pull request y se desplazará la tarea a "In testing".</p>
 <p>Para contabilizar el tiempo que tarda en realizar la tarea, debe activar el temporizador de Toggl y usar el tag más representativo (generalmente el nombre de la tarea padre) que identificará su tarea. </p>
+<p>La rama debería tener un nombre de la forma "US-{Número de tarea}". </p>
 <h3 id="pruebas-de-la-tarea">Pruebas de la tarea<a class="headerlink" href="#pruebas-de-la-tarea" title="Permanent link">&para;</a></h3>
-<p>Cuando se desplace la tarea a "In testing", queda a discreción de los miembros del grupo de realizar las pertinentes pruebas de la implementación. Se dará más prioridad a la realización de pruebas que a la realización de la implementación. No olvidar activar el tiempo de Toggl durante el proceso de pruebas con el tag "Testing". </p>
+<p>Antes de cerrar la tarea, se debería crear un pull request con título "US-{número de tarea} {descripción de tarea}" y descripción (opcional) sobre la funcionalidad implementada.</p>
+<p>Cuando se desplace la tarea a "In testing", queda a discreción de los miembros del grupo de realizar las pertinentes pruebas de la implementación. Se dará más prioridad a la realización de pruebas que a la realización de la implementación. No olvidar activar el tiempo de Toggl durante el proceso de pruebas con el tag "Testing". La estimación de testing es la mitad de la realización de la tarea (donde si una tarea es estimado 2 PH, tardará 1 PH en realizar el testing).</p>
 <h3 id="finalizacion-de-la-tarea">Finalización de la tarea<a class="headerlink" href="#finalizacion-de-la-tarea" title="Permanent link">&para;</a></h3>
 <p>Una vez sea probado por otro miembro del grupo, se podrá dar por terminada la tarea que haya realizado. El miembro del grupo que haya realizado la prueba debe preocuparse de desplazar la tarea a la correspondiente lista, sea "In 'dev'" o "In 'master'" dependiendo de la rama que sea destinataria.</p>
                 
@@ -1833,6 +1835,8 @@
               
               
                 
+
+
               
             </article>
           </div>
@@ -1896,9 +1900,9 @@
       
     </div>
     
-      <script src="../assets/javascripts/application.02434462.js"></script>
+      <script src="../assets/javascripts/application.b438e6c5.js"></script>
       
-      <script>app.initialize({version:"0.17.2",url:{base:".."}})</script>
+      <script>app.initialize({version:"0.17.3",url:{base:".."}})</script>
       
     
     
