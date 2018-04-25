@@ -14,8 +14,12 @@ Una vez se comience a desarrollar la tarea, se desplazará la tarea a "In progre
 
 Para contabilizar el tiempo que tarda en realizar la tarea, debe activar el temporizador de Toggl y usar el tag más representativo (generalmente el nombre de la tarea padre) que identificará su tarea. 
 
+La rama debería tener un nombre de la forma "US-{Número de tarea}". 
+
 ### Pruebas de la tarea
-Cuando se desplace la tarea a "In testing", queda a discreción de los miembros del grupo de realizar las pertinentes pruebas de la implementación. Se dará más prioridad a la realización de pruebas que a la realización de la implementación. No olvidar activar el tiempo de Toggl durante el proceso de pruebas con el tag "Testing". 
+Antes de cerrar la tarea, se debería crear un pull request con título "US-{número de tarea} {descripción de tarea}" y descripción (opcional) sobre la funcionalidad implementada.
+
+Cuando se desplace la tarea a "In testing", queda a discreción de los miembros del grupo de realizar las pertinentes pruebas de la implementación. Se dará más prioridad a la realización de pruebas que a la realización de la implementación. No olvidar activar el tiempo de Toggl durante el proceso de pruebas con el tag "Testing". La estimación de testing es la mitad de la realización de la tarea (donde si una tarea es estimado 2 PH, tardará 1 PH en realizar el testing).
 
 ### Finalización de la tarea
 Una vez sea probado por otro miembro del grupo, se podrá dar por terminada la tarea que haya realizado. El miembro del grupo que haya realizado la prueba debe preocuparse de desplazar la tarea a la correspondiente lista, sea "In 'dev'" o "In 'master'" dependiendo de la rama que sea destinataria.
