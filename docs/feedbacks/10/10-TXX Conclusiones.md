@@ -1,0 +1,32 @@
+- Demostración del proyecto
+  - Breve
+  - Ganar dinero como empresa
+  - Core MVP.
+  - Llamar la atención con el inicio efectivo. Ordenar y agrupar en 4 o menos.
+  - Teatro inicial también. 
+  - Video, con caso de uso, realismo.
+  - Formularios pueden aparecer, pero no explicar su uso. "Aqui modifico la receta", y punto (no mostrar cada campo).
+  - 
+- Campaña de publicidad
+  - Segmentar al público. Rol de inversor, de usuario y cliente. Pueden ser los mismos. ¿Cómo categorizar al cliente y usuario? Facebook y AdWorks, buscar métodos de segmentar. Edad, sexo, nivel cultural, sitio, palabras claves... Ver las variables y enfocar ahí la publicidad.
+  - Encontrar un buen anuncio para cada uno de los segmentos del mercado.
+    - Cliente: ¿Por qué voy a pagar? ¿Más beneficios o menos coste? Adrenalive? Más clientes.
+    - Usuarios: ¿Qué gano? ¿Qué funcionalidad usaré? La mayoría de anuncios están enfocado a funcionalidades. Ahorrar dinero, menos tiempo gastado, ganar dinero ... Bloomberg, Trivago tiene anuncios con una orientación completamente diferente (ver para investigar). Video de 20 segundos máximo para mostrar la funcioalidad. Banner puede ser usado también, para cada rol. Mensaje para cada rol.
+    - Medio, ¿Dónde lanzamos el video? ¿Qué tiene más gente? Redes sociales, influencers (youtubers, ...), TV y radio son muy dispersos y no deberían intentarse. Para ciertas franjas es posible, pero muy generalista. ¿Folletos? Muy especifico (a quién se lo da), en hoteles... El éxito en Google y otros es que pasó de Broadcast a un público selectivo. Ya los medios antiguos no son buenos porque no se puede seleccionar a quién lo verá. Sólo usar televisión para todo el público (ejemplo, un mercado que esté muy abierto). Contactar directamente con una empresa es otra posiblidad. Prensa tradicional no vale, prensa digital puede, pero vuelve a ser muy diversa.
+- Preparación del proyecto
+  - Duración, fecha y lugar. 15 de Junio, 11:30 a 14:30. 20 segundos o 20 minutos más o menos. 
+  - NETWORKING es super importante. 
+  - Empresas: Fidetia, pedir sponsorship es una buena idea, tomar un refreso y poner la palabra "cóctel" en la página. Estimación previa, por lo que añadir un registro. No se trata de que la gente coma allí, sino un aperitivo y lo suficiente para que la gente pueda comentar y hablar con los grupos. 
+  - Registro, con el número de personas que van a venir. Empresa/institución, nombre y correo como mucho.
+  - Traer estudiantes y hacer que Fidetia pueda publicar. Igual que la cámara de comercio.
+  - Material promocional. Virtual principalmente y físico menos enfocado.
+  - Usar que todos tengamos un A3 o A1 para explicar la idea. Un punto de focalización. Poster para publicar la idea de cada uno. De lo que consigamos de financiación será suficiente para mostrar la idea.
+  - Comunicación de la convención. Publicar en redes sociales (pasivo), correo electrónico (pasivo), cartél (pasivo), publicarlo en la Web de la ETSII (pasivo), prensa para periódicos (pasivo). Dossier de empresa hay un problema, gabinete de prensa da soporte para publicitar todo lo que ocurre en la US, pero es un "Allo, Presidente",... Suele ser más importante pero hay que pasar por la burocracia del gabinete de presas (ESTO DEBERÍA ESTAR YA). Redactar una noticia, con cabecera, headline y cuerpo donde se cuenta la noticia (es decir, redactar la noticia al periodico) (YA, SIGUIENTE SEMANA SE PRESENTA Y SE DICE). Boletin de la US también puede ser útil. Distribución de profesores debe hacerlo el profesorado, faltaría el de los alumnos, para empresas seleccionadas, contactar con llamada/correo/en persona y poder contactar con éllos por Fidetia (tiene contactos con empresas).
+  - Camara de comercio puede darnos información de empresas inversoras.
+  - Idea innovadora: Empresas de fisco, coca cola... Para poner el logotipo y listo. Te pueden dar gratis para publicitar información y tal. Por poner Coca Cola como logo, se encargan de las bebidas. 
+  - Públicos, usar empresas para sponsorizar, pues les gusta eso.
+
+- Presentaciones orientadas a la presentación, **5** minutos. Demo, campaña de publicidad. Una vez presentada toda, presentación del lanzamiento del proyecto. 
+- Campaña de publicidad debe estar muy enfocada. "10.000€ en Facebook a hombres de 20 años de clase media ...".
+- Presentación lanzamiento. Dónde ganar dinero, quién invitamos, qué sitio, qué agenda, qué publicidad usamos, ... Una agenda clara de qué se va a hacer hasta la fecha del lanzamiento. Debe indicarse un caso de "en caso de que no se produzca, usar X". Concrección, muy especifico para poner en marcha el plan.
+- Dominio comprado para la Web.
