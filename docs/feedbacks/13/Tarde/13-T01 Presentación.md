@@ -1,0 +1,15 @@
+# Presentación del master
+- Máster de Ingeniería del Software: Cloud , Datos y Gestión TI.
+- Gestión de TIC, cosas menos de ingeniería de Software.
+- Tendrán empresas dentro de las asignaturas y tal.
+- Ingeniería de datos sobre bases de datos. Big Data, Machine Learning, datos no estructurados (relacionado con Deep Learning)...
+- Ingeniería Cloud. Escalables, back y front-end (web y móvil). Despliegue y nubes... 
+- Asignaturas complementos. Infraestructura y seguridad suena bien, desarrollo avanzado del software (testing con modelos y otros añadidos).
+- Empresas es el enfoque de esto (ser contratado?!).
+- 120 horas con empresas.
+- Aprendizaje basado en proyectos. Esto significa muchos trabajos y poca teoría (tipo DP: *Aprende por tu cuenta?*).
+- Horario: 18 a 21. 
+- Es posible hacerlo en un año o dos.
+- Página: http://masteroficial.us.es/mis. Correo resinas@us.es. Twitter: @miscdg.
+- Pre inscripción previa solicitud del master.
+- Se ha abierto el primer plazo hasta finales de Julio, con otro plazo abierto para Septiembre.
